@@ -12,6 +12,14 @@ on:
 permissions:
   contents: write
 
+# Only one aggregate run at a time. Lets the in-flight run finish (and
+# commit) before any newer one starts — avoids the push race we hit on
+# init when the manual dispatch fired while the push-trigger was still
+# committing.
+concurrency:
+  group: aggregate
+  cancel-in-progress: false
+
 jobs:
   aggregate:
     runs-on: ubuntu-latest
