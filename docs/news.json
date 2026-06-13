@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-13T14:34:36.746Z",
+  "updatedAt": "2026-06-13T16:08:08.398Z",
   "items": [
+    {
+      "id": "dfr2j3",
+      "title": "Malaysia hosts Pahang Open Taekwondo Championship - Inside The Games",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNbDNiVU1MUVE5RnJJQ3JoR2NCb1kyd1EteHVoR0FJbVY4ZGZ1TDA0VlNMeFRyZEMyN00zOWFlckxxREJBOXl0MzF3VEhWZHdNM0VzN3RqSDRmUTQ5QWN4c3lidm80YURsbGpLYnM0aHFybXZfYjcwRzVxaEExSnZweGFkTTgycGdSVTR5bFBzUjdnSEE?oc=5\" target=\"_blank\">Malaysia",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-06-13T15:22:53.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbDNiVU1MUVE5RnJJQ3JoR2NCb1kyd1EteHVoR0FJbVY4ZGZ1TDA0VlNMeFRyZEMyN00zOWFlckxxREJBOXl0MzF3VEhWZHdNM0VzN3RqSDRmUTQ5QWN4c3lidm80YURsbGpLYnM0aHFybXZfYjcwRzVxaEExSnZweGFkTTgycGdSVTR5bFBzUjdnSEE?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
     {
       "id": "xjj767",
       "title": "Taekwondo Player Yuvraj Rana Selected for 20th Asian Games in Japan - Ratopati",
@@ -268,6 +278,16 @@
       "source": "Google News — World Taekwondo Championships",
       "publishedAt": "2026-06-09T05:06:48.000Z",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjTGZ4Um5FMERQeHF0dHB3aUo5ZzBVeG5oSFhock90UFNnMFdUMTZsdmFQdVZGRlh1RWNyZF9ObEo4aUZMenRDcHVtck9XLThQekZQWTQ1V3UyM1lwX1hSNFBSSTFiRUxkUV9xTEh3?oc=5",
+      "imageURL": null,
+      "category": "result"
+    },
+    {
+      "id": "aakgy5",
+      "title": "Iranian Para taekwondo athletes win colorful medals in 2025 AYPG - Taekwondo.ir",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9CMm1PX3JKMkg3TW8waFpKaG1QcE5KRzVvdXRUYnRFV05MeEZISXRDaFhZWEJkRzFyelpRdWdDaUZXTnM5VDh1b2VkN0t1aGVjc1BqdGJVOWtmQzFYSXRDMG91Zi1vaG1DUjA1ZGtB?oc=5\" target=\"_blank\">Iranian Para taekwondo athletes win colorful medals in 2025",
+      "source": "Google News — Asian Games taekwondo",
+      "publishedAt": "2026-06-09T00:13:22.000Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CMm1PX3JKMkg3TW8waFpKaG1QcE5KRzVvdXRUYnRFV05MeEZISXRDaFhZWEJkRzFyelpRdWdDaUZXTnM5VDh1b2VkN0t1aGVjc1BqdGJVOWtmQzFYSXRDMG91Zi1vaG1DUjA1ZGtB?oc=5",
       "imageURL": null,
       "category": "result"
     },
@@ -645,11 +665,11 @@
       "id": "lhlilt",
       "title": "Taekwondo Fever Heats Up Gongji Stream in Chuncheon... Building Excitement for International Competitions - 아시아경제",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5yNWkxNjZPa1lORGRqZE1HNURESEF1Nk05TkhhUVdnQWl3NTBBWkdCZzVhZ0FwODhOYk9HYmtqeEVYZTJ6SkszekhReElzT1RpU29LUlVGMzdmVjV3c2ZQZGU0TmZFak1aTjNaVlZvRzlrZ2NjTkRpbA?oc=5\" target=\"_blank\">Taekwondo Fever Heats Up Gongji Stream in Chu",
-      "source": "Google News — World Taekwondo Championships",
+      "source": "Google News — taekwondo preview / upcoming",
       "publishedAt": "2026-06-06T23:38:58.000Z",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yNWkxNjZPa1lORGRqZE1HNURESEF1Nk05TkhhUVdnQWl3NTBBWkdCZzVhZ0FwODhOYk9HYmtqeEVYZTJ6SkszekhReElzT1RpU29LUlVGMzdmVjV3c2ZQZGU0TmZFak1aTjNaVlZvRzlrZ2NjTkRpbA?oc=5",
       "imageURL": null,
-      "category": "result"
+      "category": "upcoming"
     },
     {
       "id": "y0rcql",
@@ -698,16 +718,6 @@
       "source": "Google News — Olympic taekwondo",
       "publishedAt": "2026-06-06T07:53:36.000Z",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYaGJHN1YwbTBzLUVXUF9QMVlqSEVWdVpQS3JiVVhQSm1zdEF6Nk1Lbm1jMzZyQUp5a2xqZGdKeDZQY21Xa0ZvSlFGWGt0TEZlcXlpck01OGx2QTFRUERUdk9LN2ZZZk9vOEZJbks3aE8?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
-      "id": "5bvw21",
-      "title": "Iranian Para taekwondo athletes win colorful medals in 2025 AYPG - Taekwondo.ir",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE80RzN2d0dia1B3ZVpXbVJpNFBEdHlMdDBkd2NVeHVSUmdiYk41R2NCN015RERRZjdLLWdyQnAza181WFZuX1doeHMzdkZLYXJ1bmMxNHhrV0dtTDFJcGJvVWRiSlkwdkFh?oc=5\" target=\"_blank\">Iranian Para taekwondo athletes win colorful medals in 2025 AYPG</a",
-      "source": "Google News — Asian Games taekwondo",
-      "publishedAt": "2026-06-06T07:20:26.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80RzN2d0dia1B3ZVpXbVJpNFBEdHlMdDBkd2NVeHVSUmdiYk41R2NCN015RERRZjdLLWdyQnAza181WFZuX1doeHMzdkZLYXJ1bmMxNHhrV0dtTDFJcGJvVWRiSlkwdkFh?oc=5",
       "imageURL": null,
       "category": "result"
     },
@@ -1112,16 +1122,6 @@
       "category": "result"
     },
     {
-      "id": "foml89",
-      "title": "Team Nigeria Begins African Taekwondo Championships Quest - Punch Newspapers",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNemRXUHJXUXpzWTFqeFBBLTZ4bmFkdFduNlJ4dnE4aU9xN3UxSmlWN2dEcmcxNzRXbGlBODhCekpncjJpS1RtVnJQX3pXaVBHaWdJdTVIbVBmQV9FTlNDQVlLMFFzS1lzdFJXcE1ua09IX2hiZHlfRkdkUU5sYnJGdHNBNA?oc=5\" target=\"_blank\">Team Nigeria Begins African T",
-      "source": "Google News — kyorugi",
-      "publishedAt": "2026-05-30T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemRXUHJXUXpzWTFqeFBBLTZ4bmFkdFduNlJ4dnE4aU9xN3UxSmlWN2dEcmcxNzRXbGlBODhCekpncjJpS1RtVnJQX3pXaVBHaWdJdTVIbVBmQV9FTlNDQVlLMFFzS1lzdFJXcE1ua09IX2hiZHlfRkdkUU5sYnJGdHNBNA?oc=5",
-      "imageURL": null,
-      "category": "news"
-    },
-    {
       "id": "y1ykak",
       "title": "Istanbul Brings Together International Referees for World Taekwondo Refresher Course - MASTKD",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2lFQ040eW83bzJkOXcwcXh3MmM2TnAzSEw0QXc2ZjVYTnFNZHN6RGd5Q3YxbzBsUm5sN2pMVTBpWW9MU2tYblI3TGM3T25iOVBrVDU0eEV3emlIbWt4VmFJUUdpYUFTUWFBcWJ1VUhvWjhKbnVoeU9rc0I0MG5xa01DZ0Z2cWFWV1VPX3pCTWtnNm9KYUVXSzd6aWc0eUFaU0o2VFgwMW40Tk",
@@ -1512,6 +1512,16 @@
       "category": "result"
     },
     {
+      "id": "qzoecr",
+      "title": "Arunachal Athlete Qualifies for 2026 Asian Games, Becomes First Indian With Back-to-Back Asian Taekwondo Championship Medals - G Plus News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVjdxb3hYVVg2T1p1UU5MTk5ZUWxSd1RjemZVemY4ekNqUTFwbmhlRGR4cEZrcHltbFJOQ3FFdUd1TEhJTFFYdDZCa1owVXdxd2dCSUtLOGI3UDB5VXVsWnpoMHA4UUJJZlBfRlFfX1IyZkhCMFdNWHVjZDc5YzBNVFA2dkU0QUhNRWN3aWRXa0d3dUJBT0Z2WlJmTWcwSkJNUzkyN3UxVkdUSE",
+      "source": "Google News — Asian Games taekwondo",
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVjdxb3hYVVg2T1p1UU5MTk5ZUWxSd1RjemZVemY4ekNqUTFwbmhlRGR4cEZrcHltbFJOQ3FFdUd1TEhJTFFYdDZCa1owVXdxd2dCSUtLOGI3UDB5VXVsWnpoMHA4UUJJZlBfRlFfX1IyZkhCMFdNWHVjZDc5YzBNVFA2dkU0QUhNRWN3aWRXa0d3dUJBT0Z2WlJmTWcwSkJNUzkyN3UxVkdUSEI2TmJoVy1oY2VKSzRhQllPMTl1cmFSV0NtSkpxT1dDUThfX09nemd2ckVuQ2lBTTNzRldCQ253?oc=5",
+      "imageURL": null,
+      "category": "result"
+    },
+    {
       "id": "1aj39v",
       "title": "Nigeria Taekwondo Open Trials 2026: Tayo Popoola Celebrates Emergence Of New Talents Ahead Of Olympics - Sports247 Nigeria",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQbzZreURxUU9ydzRZc0dpN1MtaHE2QXBYM2dFWkE3bjZNOHJKQ29WVUlhZVgwbURVb1pvRU1iQ0dGVGRaWV9lbzZEOGFJLXZuX2E2NUVNSHJEUUxJUEVrQUtYMVZ1Q2NRZUlRYUVSS3VITm5kMGV5WnFiYUp3NjNaclM0NUp5ejZuRFRRZFVnRHJYVnVISFREcUFibFN0Y2ZwejR1T2lSV2piQ1",
@@ -1650,16 +1660,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSmhuVm0wZ2ppV0h0WjZqaXAzTW5jUmVibWgzNE1idEs5b24tYXpLdFZxamFodWNQTVJkUjRoZXpGZm5MRTk5OFRCN0hHQzNnZnhFVWktZGl3d2ZEWXVHNUFJWHcyUXE3TnVUcVM2SGlYMkxMVDU0Y3l2X0FMNnUxamZ3RXhSSnBtTzFhaC1tTFl4MXBMYm9weWJTd0c?oc=5",
       "imageURL": null,
       "category": "result"
-    },
-    {
-      "id": "54omhn",
-      "title": "Florham Park martial artist wins two gold medals in world taekwondo competition - New Jersey Hills Media Group",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNNk1iTW1ja2tiTjV2NUlGRnVoYXdBWkFxWUZWcElFNlkzNDRIN29iZkhJYnl2ak5KdXNWZ1hMOXkzVHU4anFtbGg2cWcyTmJfZWs4bTd5bE1PWU03QzNrSXlzTWZZSWg4LU12c0RqamVhNm9rZlhhcE83X01YRmRSQjdmNm55OXNqQTBaODdyMUtrQUlWajhYUnNETEpEdlZTVjR5ZGNfN0tKNU",
-      "source": "Google News — World Taekwondo federation",
-      "publishedAt": "2026-05-15T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNk1iTW1ja2tiTjV2NUlGRnVoYXdBWkFxWUZWcElFNlkzNDRIN29iZkhJYnl2ak5KdXNWZ1hMOXkzVHU4anFtbGg2cWcyTmJfZWs4bTd5bE1PWU03QzNrSXlzTWZZSWg4LU12c0RqamVhNm9rZlhhcE83X01YRmRSQjdmNm55OXNqQTBaODdyMUtrQUlWajhYUnNETEpEdlZTVjR5ZGNfN0tKNUdQU0N3dGdRSVNXb2dBMFlsTUFKS2VQV2lIdGpvdm96ekxVUGxLZ21pclRxdDlxcnUyLVZKX0dQaC13M1BWSzZZTlpJd1lBOEV6UVZzcjkxaEhBVDE5UUJoUWFB?oc=5",
-      "imageURL": null,
-      "category": "news"
     },
     {
       "id": "fpt2dg",
@@ -1872,6 +1872,16 @@
       "category": "news"
     },
     {
+      "id": "tmcoz6",
+      "title": "Kukkiwon sets stage for 2026 World Taekwondo Hanmadang - The Korea Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNRndJajYzOW9UZ3ZVTTlRLU9KM1NuM2I4SzIzUVA3MFZpS2J3M01UczZqSHZ2T19rMTA0UVhXeXFBMWdocmJKelNIaWd5WUtsYlNVYjNKRF9xOUdfckNMeGtZeXo5VHJNQWhXSi04R1hkQUVxVEw3SHgtWHZKT3B0dEh6Tm5OZ3hEQVJQN2E3TkxJYzhyUllDZzEzdG1ocEtN0gGmAUFVX3lxTE",
+      "source": "Google News — World Taekwondo federation",
+      "publishedAt": "2026-05-07T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRndJajYzOW9UZ3ZVTTlRLU9KM1NuM2I4SzIzUVA3MFZpS2J3M01UczZqSHZ2T19rMTA0UVhXeXFBMWdocmJKelNIaWd5WUtsYlNVYjNKRF9xOUdfckNMeGtZeXo5VHJNQWhXSi04R1hkQUVxVEw3SHgtWHZKT3B0dEh6Tm5OZ3hEQVJQN2E3TkxJYzhyUllDZzEzdG1ocEtN0gGmAUFVX3lxTE91aXNFYjRMTnJYMGRjQ0hJYlBBMEd4dk4yREVFZ0FsSzlFNTE2c3FGMU5PMDZUQ2wyQmJQR1gyM0JwSEJxR05aRnhRRmxfLXFmdHlJbmE4cUpVTG1SeGROUF9xaUN3OVNvYnlaaUFnZEVwRkV3WDUybXZFeS1NREc3aWlHaEhaNGd4RTF2cWtLekk0OVNGY2s3cTlwXzcyUmdJdmVLeUE?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
       "id": "sw6ckr",
       "title": "Lake Street Taekwondo studio fights to send students to nationals amid financial strain - kare11.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOeXRTRHpMU01LOWNtdGhyS1g3QkVib1VvMTk0dDRQVGpUMVktSWhaYXNFaHl3OF91NjRXaWRnZ3A3SlRrOElXaFJwRUhaTWtqXy05RnJPTjd6SkR0c1N0NmlJN2NSeWRoazhYWmg5MTRub0dSa0xjUzRvOFItaHVvcG9ZTFBKTGZsRkY0RUVac01OV0k5YmxjX1hsN28tUGJ3Zy1GNHplSGJiVG",
@@ -1988,16 +1998,6 @@
       "source": "Google News — kyorugi",
       "publishedAt": "2026-04-24T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzVkekhEbkZ6NGJtNEVYaVdSX0UzS0VKWFpTajJZT3ZfSTZFUUZiS0NVY09CYS1jMU9vRHZMTzlfNGxZX1puQVR2ZEFzeE9fVk05QzF6S0tKRllzNndVQk1EM25ZMU9RT19hNy1Gb0FLRWtLNjVnVThmeDFvTXdGUFJlaVNoMVNkU1h6YWFJUnJOT3U1b3l6VE11Si1DUjQyUkszQlNqcFI4RTR4NUhsQnh3elpQRk5oMGQ4ZUlURjNsWGs?oc=5",
-      "imageURL": null,
-      "category": "news"
-    },
-    {
-      "id": "yen48p",
-      "title": "Cabaluna Jr. and Williams lead historic podium for Blue Eagles in last day of UAAP Taekwondo - The GUIDON",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUlZuSkJLUGZ4aUg1b0FEbDFDUkRnb2ZfaGxMS2ZKNTdfbjY4SG9XMnpOZGxQcF9PQkpwclE4QjAzMFJMVVJuUWhud1g3SkpEeTA1M01MMUoyOGVsbDZjenRmTFAtZUFodjdNUEM5b0NlYXVFOUIyTWhJRi00QzF5S2hEd2VyaXlYSXRhdS1GZThCXzNzaXk1aWkyWmNodExVRzc4RWF4WDU0al",
-      "source": "Google News — kyorugi",
-      "publishedAt": "2026-04-24T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUlZuSkJLUGZ4aUg1b0FEbDFDUkRnb2ZfaGxMS2ZKNTdfbjY4SG9XMnpOZGxQcF9PQkpwclE4QjAzMFJMVVJuUWhud1g3SkpEeTA1M01MMUoyOGVsbDZjenRmTFAtZUFodjdNUEM5b0NlYXVFOUIyTWhJRi00QzF5S2hEd2VyaXlYSXRhdS1GZThCXzNzaXk1aWkyWmNodExVRzc4RWF4WDU0al9wUmd4UlhrclNsV0FZUUZDSks3cw?oc=5",
       "imageURL": null,
       "category": "news"
     }
