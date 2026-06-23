@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T22:42:07.623Z",
+  "updatedAt": "2026-06-23T00:00:08.991Z",
   "items": [
     {
       "id": "t235m4",
@@ -10,6 +10,16 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX1FSQUhpLXBNZ2RNQnQ3aDVTeWhKbHc3bjdaQjhGdWZ6QjMtVVpHbkxnMW5mLUR5cTctcWczd3ozZk9uTkZuSDBjbVhscWQzRmFmb0Fwd3VtbE1JRVVxc2Y4MTdOc0hVZzBab0IyVjNORFJPWUlhMUViMVRkWEM4aXlOdlQ5b1YxY1NNNFlseHk3YlRqV1hMbXUydVBCMXJHd0dhdVp6clVWdUU0MGZvZ2xGOA?oc=5",
       "imageURL": null,
       "category": "result"
+    },
+    {
+      "id": "kxf9zz",
+      "title": "The Altaic Taekwondo Union Launches a New Eurasian Cooperation Platform in Astana",
+      "summary": "The organization’s first General Assembly brought together World Taekwondo President Chungwon Choue and representatives from nine national federations linked to the Eurasian cultural and geographic region. The organization does not present itself as an association automatically o",
+      "source": "MASTKD",
+      "publishedAt": "2026-06-22T21:18:52.000Z",
+      "url": "https://www.mastkd.com/2026/06/the-altaic-taekwondo-union-launches-a-new-eurasian-cooperation-platform-in-astana/",
+      "imageURL": "https://www.mastkd.com/wp-content/uploads/2026/06/ALTAIC-TAEKWONDO-UNION-PORTADA.jpg",
+      "category": "news"
     },
     {
       "id": "6hxmhh",
@@ -282,16 +292,6 @@
       "category": "news"
     },
     {
-      "id": "6agwcd",
-      "title": "Del campo de refugiados al Foro Italico: cuando el Taekwondo se convierte en refugio",
-      "summary": "Siete niñas sirias salieron por primera vez del campo de Azraq para competir en Roma. Su viaje no fue un episodio aislado, sino la expresión más reciente de un modelo construido por la Federación Italiana Taekwondo para recibir a jóvenes que escaparon de guerras, persecuciones y ",
-      "source": "MASTKD",
-      "publishedAt": "2026-06-19T23:32:53.000Z",
-      "url": "https://www.mastkd.com/2026/06/del-campo-de-refugiados-al-foro-italico-cuando-el-taekwondo-se-convierte-en-refugio/",
-      "imageURL": "https://www.mastkd.com/wp-content/uploads/2026/06/Del-campo-de-refugiados-al-Foro-Italico-cuando-el-Taekwondo-se-convierte-en-refugio.png",
-      "category": "news"
-    },
-    {
       "id": "cefanj",
       "title": "Taekwondo Euros 2006 Male Bantam Weight Semi Final - I Shahbazov (AZE) V K Dinçsalman (TUR) Loose Women (2QApwAD3et) - Mshale",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TcndRRjlpRXRSR3RQTW9CRF9ZTzBqcEhIVFhud2xFcTVZMFFUQ3FmR1ZDV21qQ2dPYzR2NWlUbEtJUkRKbndNZlY2ZVpNdnZYUmRKN2hvWTE2ekxWOUFhWg?oc=5\" target=\"_blank\">Taekwondo Euros 2006 Male Bantam Weight Semi Final - I Shahbazov (AZE) V K Di",
@@ -532,6 +532,16 @@
       "category": "news"
     },
     {
+      "id": "b8wfi4",
+      "title": "Left or right leg lead",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone I’m a 19-year-old blue stripe in ITF tae kwon do I’ve been training for about a year and a half and I wanted to talk about sparring specifically and related with the stance now as a lot of you probably know and I don’t know if this ha",
+      "source": "Reddit r/taekwondo",
+      "publishedAt": "2026-06-13T02:35:10.000Z",
+      "url": "https://www.reddit.com/r/taekwondo/comments/1u4f014/left_or_right_leg_lead/",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
       "id": "wdni3o",
       "title": "MASTKD Received by Kukkiwon President Yun Ung-suk at the World Taekwondo Headquarters - MASTKD",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxON3dRemEyY2M2cFNIeXJVLURoSktXMGlsbkhzMFF4VzVaX1hERnlDbTdVd09LOG0wbFY0SzFFR0FPalN3V0oxMFBDbFlGZUxDM2I4ZGZVVUg3UEo3cUdER0EzSTBKM2d0THNoQlV5VUd5Qk5aR3lzVnhCZGU4WVR2MktFSlU1eGdCcWhhMk9FelhucXlNV0Z1VXBQOFhRNDJyOEJGX1VXUkZEQk",
@@ -738,16 +748,6 @@
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-06-08T15:22:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOFRyM21pNmlua2RjV09TWjQybHFKRFpKWkk0d05VZndsTXdoYjc4TXdDUGs4UFRHelZYS0g3TlB4cnpPempaSHdIcllWYzBpMkNnMVE2VHl0czYzUlBYMkhtcFJtZGpvRWNhMFp6SUs1UG9ZQ3FxcmZYVmdFNXE2c0ZaUHMxWTdaQXd0OG40ZElLc2lISVp2d3NzMVdwdXVyQ01sR3RhMnotd3VNVUtrSGtaUQ?oc=5",
-      "imageURL": null,
-      "category": "news"
-    },
-    {
-      "id": "kr5z3c",
-      "title": "Fort Sill youth Taekwondo class builds confidence, discipline and community [Image 5 of 11] - DVIDS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWkZ0NEl0b3B5QnhYWTI4R2xVZEZONVZrRVJNYkZtRHNta0hzY0xKcWxxZ3o5c2JMa1ZDZmZXQ3Y4a0pYN0dCLW40NkFLME0yZkJRaHBVdVNYS2hXTGZxRzl0MlZxcTU3ZUdsbS1nVk9UYWNzWEFSdWVCNzhXWnFTZ0hzLXRJR0lJRHFycG5pN1d1dmJhSmd5V0dyLXlGSlJKXzJ0XzdhVkRhbU",
-      "source": "Google News — taekwondo (general)",
-      "publishedAt": "2026-06-08T15:22:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWkZ0NEl0b3B5QnhYWTI4R2xVZEZONVZrRVJNYkZtRHNta0hzY0xKcWxxZ3o5c2JMa1ZDZmZXQ3Y4a0pYN0dCLW40NkFLME0yZkJRaHBVdVNYS2hXTGZxRzl0MlZxcTU3ZUdsbS1nVk9UYWNzWEFSdWVCNzhXWnFTZ0hzLXRJR0lJRHFycG5pN1d1dmJhSmd5V0dyLXlGSlJKXzJ0XzdhVkRhbUtTa1JIVmdTYw?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -1072,6 +1072,16 @@
       "category": "news"
     },
     {
+      "id": "g6ql9w",
+      "title": "World Taekwondo honours Pope Leo XIV with highest rank - Inside The Games",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWNrQ3VURmZ0SDd2elF4WjRfRTc5S3FKQnlZV0k5czh6X1lndzRqTWJVU3pfRnZUOG1nWVNxV1c5aDhKenJSZlJSS21Eck1RTzJ0bklvOXcwWGY3QnZJNVhOTDNBRTBndGVhaWtuSXk2ZkV0c0hNWWlKTngydE05dE9XQTFmM1dRWWxPTjA2LTF3T1BscEV3RlFB?oc=5\" target=\"_blank\"",
+      "source": "Google News — World Taekwondo federation",
+      "publishedAt": "2026-06-04T16:00:27.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWNrQ3VURmZ0SDd2elF4WjRfRTc5S3FKQnlZV0k5czh6X1lndzRqTWJVU3pfRnZUOG1nWVNxV1c5aDhKenJSZlJSS21Eck1RTzJ0bklvOXcwWGY3QnZJNVhOTDNBRTBndGVhaWtuSXk2ZkV0c0hNWWlKTngydE05dE9XQTFmM1dRWWxPTjA2LTF3T1BscEV3RlFB?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
       "id": "a1txhk",
       "title": "WT Deepens Kyorugi Reform: Safety, Transparency and Tactical Control to Shape Roma 2026 - MASTKD",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVl9MT0piNlhNb1NpckZMbVVzQTcwZGk0YlZWbFNUOGFJRkdPcjVEazRGcXd3dXMzbDhSVV9MY0YyZC1CSHVvQ3Q0Z2hHZl9JTFl0Rm5URTZIRVI1SUQwenNuZkFRRVZwMnFMTm96WE9jWVZiVXdXZk91cUlrdnhicWRYdWFJcTZXSkZlX1pkbjEwc25aeGo5RHFqekNMWFZvQ0xheVlaTEU0Vk",
@@ -1152,22 +1162,22 @@
       "category": "result"
     },
     {
-      "id": "g6ql9w",
-      "title": "World Taekwondo honours Pope Leo XIV with highest rank - Inside The Games",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWNrQ3VURmZ0SDd2elF4WjRfRTc5S3FKQnlZV0k5czh6X1lndzRqTWJVU3pfRnZUOG1nWVNxV1c5aDhKenJSZlJSS21Eck1RTzJ0bklvOXcwWGY3QnZJNVhOTDNBRTBndGVhaWtuSXk2ZkV0c0hNWWlKTngydE05dE9XQTFmM1dRWWxPTjA2LTF3T1BscEV3RlFB?oc=5\" target=\"_blank\"",
-      "source": "Google News — World Taekwondo federation",
-      "publishedAt": "2026-06-04T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWNrQ3VURmZ0SDd2elF4WjRfRTc5S3FKQnlZV0k5czh6X1lndzRqTWJVU3pfRnZUOG1nWVNxV1c5aDhKenJSZlJSS21Eck1RTzJ0bklvOXcwWGY3QnZJNVhOTDNBRTBndGVhaWtuSXk2ZkV0c0hNWWlKTngydE05dE9XQTFmM1dRWWxPTjA2LTF3T1BscEV3RlFB?oc=5",
-      "imageURL": null,
-      "category": "news"
-    },
-    {
       "id": "kpye1x",
       "title": "Pope Leo XIV awarded honorary 10th dan of taekwondo - The Korea Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnViQ3hUYlkxcjA3OWNodHgxSkJORzVOVXhiY1B2UTdTUzdkTWVoQXB3N25sZEJ3ZDdYUlI5SEZxYlQ5cFVhYzJzUnlUWTloUjFQeGpTTjFrQVFsUUhYZjhOZVlyWXlMN3Z6d0Q1WjdHR2lIdEdwZlpWWkRlcjN0eE0zeVRPcUwwMk1wQmxCT3FmU0tNX3pYVEpVQW3SAaIBQVVfeXFMTnNlTF",
       "source": "Google News — World Taekwondo federation",
       "publishedAt": "2026-06-04T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnViQ3hUYlkxcjA3OWNodHgxSkJORzVOVXhiY1B2UTdTUzdkTWVoQXB3N25sZEJ3ZDdYUlI5SEZxYlQ5cFVhYzJzUnlUWTloUjFQeGpTTjFrQVFsUUhYZjhOZVlyWXlMN3Z6d0Q1WjdHR2lIdEdwZlpWWkRlcjN0eE0zeVRPcUwwMk1wQmxCT3FmU0tNX3pYVEpVQW3SAaIBQVVfeXFMTnNlTFhEYlQ0YVd6QXBjQ3hMOEZoWmx6Y09wWHV4bXU4NGpheVdjeTBhMFRxbUtBYTBuRGxhd1BnRkpYQzFPNEVsNG9RSVdvWllkaGs2T2o5b2lOVzhaQUNOeW1iZVM3V1lfdFRCODdPU1RJVy1UU0FYRlRZVlQ2ck4zNjRvdU1jZldpV0Robm13OFlwQ2pIcTVUZUZrcDJnMGtn?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
+      "id": "r1xzih",
+      "title": "TS Taekwondo and the Korean Method Behind World-Class Poomsae - MASTKD",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQUENPVUc0VGxxU3dsTWJCZUhtQUxkRjd6Sm1nTUZqZ0NaYzlMSElzMWNvU29rSDRxMXVwbDFxaHJxSGs0ai1nejdaZ1R0VW01eGlpTWFDRUQwaVJqOFV4RTlHdEZzYUx4YXNWaUVIOEdXQVNOUmFKTWVLb3A3VlNNaC1vRC01YnRYdDFIb2RQMTNJZ3dhT0l0Mg?oc=5\" target=\"_blank\">T",
+      "source": "Google News — World Taekwondo federation",
+      "publishedAt": "2026-06-04T00:45:14.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUENPVUc0VGxxU3dsTWJCZUhtQUxkRjd6Sm1nTUZqZ0NaYzlMSElzMWNvU29rSDRxMXVwbDFxaHJxSGs0ai1nejdaZ1R0VW01eGlpTWFDRUQwaVJqOFV4RTlHdEZzYUx4YXNWaUVIOEdXQVNOUmFKTWVLb3A3VlNNaC1vRC01YnRYdDFIb2RQMTNJZ3dhT0l0Mg?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -1862,12 +1872,12 @@
       "category": "upcoming"
     },
     {
-      "id": "1881wz",
+      "id": "fuj05e",
       "title": "Key MVPSF Kyorugi, Poomsae meets slated - Philstar.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjU1MzQwdjE0YzBrSi1Vbi1yd0p1OGx6aUxUMTQwRDFsVzBPX2tPZnplUUR6WGdOM3YwN2R2NnY5LXRTY3F2R2MzT1YtNEdHODNTdlZ5LUZRVnl4bzloU2YyVGxVUVdIWnV3bkdZY21Fa1RrQnN3ck5oOE8wQmlkUW1Ta1BuY0RLX0dfNVpzRU9USEnSAZoBQVVfeXFMT0hWdUlHWGpFSEFWM1",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNYjJWR1RkYXFuWFBuQXlqUUVIczhJUmNBR3FMdURlLUxPc0hORzZkcEZxcUFmOGFlaWt4YURiVXQtb3NfcXJXZTdpTGlmNlhCeGlDSmxMWVpoYzQtbnh0Yk1sdXB4b25teERMNUJqTGNUQ2hkbl9WT1ZDQ04zbjhRdUF4Q1U3QmF5eXM3Vl81ME00YVXSAZoBQVVfeXFMTjRncXRBUjJla09kZS",
       "source": "Google News — kyorugi",
       "publishedAt": "2026-05-14T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjU1MzQwdjE0YzBrSi1Vbi1yd0p1OGx6aUxUMTQwRDFsVzBPX2tPZnplUUR6WGdOM3YwN2R2NnY5LXRTY3F2R2MzT1YtNEdHODNTdlZ5LUZRVnl4bzloU2YyVGxVUVdIWnV3bkdZY21Fa1RrQnN3ck5oOE8wQmlkUW1Ta1BuY0RLX0dfNVpzRU9USEnSAZoBQVVfeXFMT0hWdUlHWGpFSEFWM1FrX29CcmtneHcyVjVmdElCU1RJY2RIaTZKNno5U0hQeGZ6YW85dVZXVDZjUzBiMklOQ3ExaUpaaHp0eUZnbU9WUGpmVDRqYURfTUt0SVZiSmdCbm1VcGgyeHJGdHdwYzlXSWlyTDlBWkxqQXlCNEtFVEpfdm42aFl6Qk1tSEl4eV9xTkxqQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYjJWR1RkYXFuWFBuQXlqUUVIczhJUmNBR3FMdURlLUxPc0hORzZkcEZxcUFmOGFlaWt4YURiVXQtb3NfcXJXZTdpTGlmNlhCeGlDSmxMWVpoYzQtbnh0Yk1sdXB4b25teERMNUJqTGNUQ2hkbl9WT1ZDQ04zbjhRdUF4Q1U3QmF5eXM3Vl81ME00YVXSAZoBQVVfeXFMTjRncXRBUjJla09kZS14bll3MEZuM1FXcWJZaXlfeFNabGtYZmhNR0Jjc1lWVVhBUnM3UFZ2dTY4Q3R4akR4NzZWWElGMGhtTUl6RkZwVW9mWnoxTXVWRkNWRHBSZmdvNm9MRkJuMjVTVTJ1U2ZuZk05RVB0a3UzSW43WUVieng5Z1RseHgwNkJKOG1KNE01ZktzQQ?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -1988,16 +1998,6 @@
       "source": "Google News — Taekwondo Grand Prix",
       "publishedAt": "2026-05-11T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM1dnSklJakFVT2Z6blZnLU1YQ1FHMTdNZlg3V0haOVlIeHB3ZUFqQUluTEpOUFM0bzZRUExaZkZaR2pPWHM0YmZlYV91bnBveV9lZ2RqXzJfdU1GcXpMUlkydTdPd0VFYnc2OWVfSWs0Rjh2ODhZb2l6MVdXUkc4TXhiOE5NQU9zSXI1c0VRN3lCbC1qWUxiQWY3a25UZ0YxTEJZVWYxX01SeTA0SFJUeGdn?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
-      "id": "qsduct",
-      "title": "Israeli para-athlete takes gold at European Taekwondo Championships - The Times of Israel",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGc2bFkxVlVtVGttTE9aeXZZUW1DS2lZSndnQTRtNVJ1a1dPbVAxb2pidlpoc280ZHZrOS1MeVZwZDhXTUc3MkdaY3l2c1hINWs4bVNfejBHY3VIcE81dG9XMy1Bak5SR3A3ZEhwZ0NmbXJYRnNMM3ZuVzBqS1Nmc2tDRmRxYVV1MkpXaERPOWhEdUduTXVmSjhGOWh6M1RXMFRETHVCc2FHbH",
-      "source": "Google News — taekwondo gold medal",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGc2bFkxVlVtVGttTE9aeXZZUW1DS2lZSndnQTRtNVJ1a1dPbVAxb2pidlpoc280ZHZrOS1MeVZwZDhXTUc3MkdaY3l2c1hINWs4bVNfejBHY3VIcE81dG9XMy1Bak5SR3A3ZEhwZ0NmbXJYRnNMM3ZuVzBqS1Nmc2tDRmRxYVV1MkpXaERPOWhEdUduTXVmSjhGOWh6M1RXMFRETHVCc2FHbHI3d2hFWEs2Yw?oc=5",
       "imageURL": null,
       "category": "result"
     }
