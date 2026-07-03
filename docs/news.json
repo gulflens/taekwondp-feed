@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-03T19:01:51.671Z",
+  "updatedAt": "2026-07-03T20:35:39.968Z",
   "items": [
+    {
+      "id": "t0q3kj",
+      "title": "Tae Kwon Dog Is Lit!",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Another Tae Kwon Dog adventure is on the way. If you love books that make kids laugh, think and raise their confidence, check out Tae Kwon Dog - The Power Within exclusively available on Amazon. It’s received almost 40 5-star reviews! Go to <a hr",
+      "source": "Reddit r/taekwondo",
+      "publishedAt": "2026-07-03T19:52:31.000Z",
+      "url": "https://www.reddit.com/r/taekwondo/comments/1umobhp/tae_kwon_dog_is_lit/",
+      "imageURL": null,
+      "category": "news"
+    },
     {
       "id": "55t7t",
       "title": "Quito será epicentro del Taekwondo panamericano con cinco días de competencia internacional",
@@ -68,6 +78,16 @@
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-07-03T10:21:48.000Z",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTFXT3FLM1RDcnFBY1JGLURiSDBiTXlMcFVHNkJ1V1VBSGI4U05YWTJoSFNkLWluRDNHU2poZFhndHZTMFY0eWJPenBKVmwyU1E2ZzZ1a3VORzFOWmtIaUxZdlJKeVFIcFFGdnV2Z1lMUmlnaEdFb3Y4NG43d1hjbmhEdG9uMllp?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
+      "id": "s2zdhi",
+      "title": "Frisco Taekwondo America celebrates 10 years of teaching martial arts - Community Impact",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDBvbWh0eGpMeGNfMXZlZEZtUVViUTRDZmNVRngwRDJJd09GbFA1eG1lU3FoVE1LS0Y3UXEzR1BTbFRpaTJ2YVN3NnlYQW5hU1lJWGlyTjlNeHFtOWtzd1Q1X2cwLXhyb3BsdGc1WUR6bno4Zm1OX1hRQmx5d2ZUVTlzcU5yV3huOU50VWJCVDBjX1E2V0hmRTh3YU0zSGxyZS01cllYY2wwel",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-07-03T06:53:56.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDBvbWh0eGpMeGNfMXZlZEZtUVViUTRDZmNVRngwRDJJd09GbFA1eG1lU3FoVE1LS0Y3UXEzR1BTbFRpaTJ2YVN3NnlYQW5hU1lJWGlyTjlNeHFtOWtzd1Q1X2cwLXhyb3BsdGc1WUR6bno4Zm1OX1hRQmx5d2ZUVTlzcU5yV3huOU50VWJCVDBjX1E2V0hmRTh3YU0zSGxyZS01cllYY2wwelFpWFhTY0x1WEE?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -172,6 +192,16 @@
       "category": "result"
     },
     {
+      "id": "m03o56",
+      "title": "The Kyrgyzstan Taekwondo Team Won 10 Medals at the Tournament in Astana - open.kg",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2s0dHBnQlNmc1NHWWNNUmVKbGZJVElISGp5XzZHRDRIRHdFTUg2bUl3UWU4NnlkYWVGRktGdXhRbHhyVmFPUi0xR1ZCY25IQnNsQURjLUdxcnI4Rnh2VVFTV2Z1eHNTSFhuNTNPbjZxdkhjdGZyckszanZwRVljVmdxdzItY0hQSVJZMWFDckt5a0dvcEpSeGxEbFB2Q05nQXVKZU5WbEhqTl",
+      "source": "Google News — Asian Games taekwondo",
+      "publishedAt": "2026-06-30T17:43:42.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2s0dHBnQlNmc1NHWWNNUmVKbGZJVElISGp5XzZHRDRIRHdFTUg2bUl3UWU4NnlkYWVGRktGdXhRbHhyVmFPUi0xR1ZCY25IQnNsQURjLUdxcnI4Rnh2VVFTV2Z1eHNTSFhuNTNPbjZxdkhjdGZyckszanZwRVljVmdxdzItY0hQSVJZMWFDckt5a0dvcEpSeGxEbFB2Q05nQXVKZU5WbEhqTldsR3ZKcS1mZEhMMmZsSTRVY2VCaFo?oc=5",
+      "imageURL": null,
+      "category": "result"
+    },
+    {
       "id": "f4pi3f",
       "title": "Seminario Internacional de Poomsae y Freestyle reúne en Argentina a figuras del ranking mundial",
       "summary": "Alex Siliezar, distinguido en los PATU Awards 2025 por su trabajo como entrenador de Poomsae, llegará al país acompañado por seis deportistas del seleccionado de Guatemala. La capacitación, dirigida a atletas y entrenadores, se realizará el 15 y 16 de agosto en la Ciudad Deportiv",
@@ -182,12 +212,32 @@
       "category": "news"
     },
     {
+      "id": "3we819",
+      "title": "Young’s Taekwondo: Athletes prepare to storm the mat at Nationals - Sullivan County Democrat",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGpZWW9faDVfT2lULXNrS3hKZVZFand4b3o1MUpZandJWGxUbXNmUUVQZHJVWEhVNGh4WnMzY3NJNVhPM3F5M1ViV2J3QW1MVUZmaEd5bTVnSDctTk5iT2JqVTQ0b3RuLWRYMmpFVlRRdHoxc3lnUmFFVWVjVmQySmFFSkFpMFEtZkRlSHN0Y0ZiRVprd2kyVWVCLXNKYjFnYkppWHpXUWFkRm",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-06-30T13:23:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGpZWW9faDVfT2lULXNrS3hKZVZFand4b3o1MUpZandJWGxUbXNmUUVQZHJVWEhVNGh4WnMzY3NJNVhPM3F5M1ViV2J3QW1MVUZmaEd5bTVnSDctTk5iT2JqVTQ0b3RuLWRYMmpFVlRRdHoxc3lnUmFFVWVjVmQySmFFSkFpMFEtZkRlSHN0Y0ZiRVprd2kyVWVCLXNKYjFnYkppWHpXUWFkRmtqYUFlag?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
       "id": "i9g27g",
       "title": "Patterns in taekwondo",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I wrote this post maybe I can help some people to understand the patterns in taekwondo and their evolution </p> <p><a href=\"https://www.facebook.com/share/p/183GtoJWjz/\">https://www.facebook.com/share/p/183GtoJWjz/</a></p> </div><!-- SC_ON --> &#",
       "source": "Reddit r/taekwondo",
       "publishedAt": "2026-06-30T12:51:29.000Z",
       "url": "https://www.reddit.com/r/taekwondo/comments/1ujod6b/patterns_in_taekwondo/",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
+      "id": "k4fec8",
+      "title": "Greenquist Academy Taekwondo preparing for trip to Seoul - Wahpeton Daily News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXJBWXkyQWhVVkpqTXJHR0F1cjg2TjU2MEJnM252LUhaeDVja0s2SURLdEktcl9MeWNCdjEtelZsYi1ZTi11Z3l1UllDTWRkRDA3eGU1aUV4YmdqbzdVUkgxXzh1T0JXZGN1SVJzLVFiaU5SemtmSWU0bjNnbGsxWExEa3BqYlFJVzJJQkhKMDU5RjBRdXVjdzJGcmVSY0NvRWJz?oc=5\" tar",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-06-30T12:02:27.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXJBWXkyQWhVVkpqTXJHR0F1cjg2TjU2MEJnM252LUhaeDVja0s2SURLdEktcl9MeWNCdjEtelZsYi1ZTi11Z3l1UllDTWRkRDA3eGU1aUV4YmdqbzdVUkgxXzh1T0JXZGN1SVJzLVFiaU5SemtmSWU0bjNnbGsxWExEa3BqYlFJVzJJQkhKMDU5RjBRdXVjdzJGcmVSY0NvRWJz?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -312,16 +362,6 @@
       "category": "news"
     },
     {
-      "id": "9v3h6q",
-      "title": "Taekwondo students from Magnolia headed to Canada for their first international competition - Magnolia Banner News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPdXZxWkU0eG9HTWt1bjZfTWJCZlN5bEVQQUxSa2EwVDVhdUNLcXZCMldQYm4zN1RoTWEzVWhKMlZfOUlWSVA4Y0htdGlaa283a2xBU2lkTzkzcEZVSFlVNDVXWWkxQjlJTnRzOVpGZWhVM2NjUGlpbGZVeEw3SjFRQXZheERJVEJodGY3OTRMWnljeEhWVWxTRVFpQUs2Sk90QmZuTw?oc=5\" t",
-      "source": "Google News — World Taekwondo federation",
-      "publishedAt": "2026-06-26T21:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdXZxWkU0eG9HTWt1bjZfTWJCZlN5bEVQQUxSa2EwVDVhdUNLcXZCMldQYm4zN1RoTWEzVWhKMlZfOUlWSVA4Y0htdGlaa283a2xBU2lkTzkzcEZVSFlVNDVXWWkxQjlJTnRzOVpGZWhVM2NjUGlpbGZVeEw3SjFRQXZheERJVEJodGY3OTRMWnljeEhWVWxTRVFpQUs2Sk90QmZuTw?oc=5",
-      "imageURL": null,
-      "category": "news"
-    },
-    {
       "id": "kk64uq",
       "title": "Korean commands differences",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello guys, </p> <p>I am still fairly new to taekwondo and need to learn the whole taekwondo dictionary l but I found a difference in the writing.</p> <p>1- Hana - Anna</p> <p>2- Dul - dool </p> <p>...</p> <p>5- Dasot - dasaul</p> <p>...</p> <p>B",
@@ -330,16 +370,6 @@
       "url": "https://www.reddit.com/r/taekwondo/comments/1ufzlpw/korean_commands_differences/",
       "imageURL": null,
       "category": "news"
-    },
-    {
-      "id": "w2o8by",
-      "title": "Iran wins one gold, one silver at Kazakhstan International Taekwondo Tournament - Pars Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNUhXOGhvc2ZEelMzektVQVU5VWsyVUVrbUFzYjZUZ1ZWczBCTkJob2g4Z3JzTEVXZVRDTklfRV9LaVR1U2tzT2w3UFdxeXNDM1QtRmphWXhMZ1VkM1hnWjhIaGFScWpYejd6ZXdnR0lSTWFXSm1CdVRMcnIwZDljTDlFZ0Z0QjJNZFF6Ui04RWxDU3BUOFRRa0x4RkFGZTJxczhLeDU0TnBYUG",
-      "source": "Google News — taekwondo gold medal",
-      "publishedAt": "2026-06-26T07:04:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNUhXOGhvc2ZEelMzektVQVU5VWsyVUVrbUFzYjZUZ1ZWczBCTkJob2g4Z3JzTEVXZVRDTklfRV9LaVR1U2tzT2w3UFdxeXNDM1QtRmphWXhMZ1VkM1hnWjhIaGFScWpYejd6ZXdnR0lSTWFXSm1CdVRMcnIwZDljTDlFZ0Z0QjJNZFF6Ui04RWxDU3BUOFRRa0x4RkFGZTJxczhLeDU0TnBYUGpBekhlb3ZDY1lzNW1JNDlSUw?oc=5",
-      "imageURL": null,
-      "category": "result"
     },
     {
       "id": "hgbig0",
@@ -372,6 +402,16 @@
       "category": "news"
     },
     {
+      "id": "thilab",
+      "title": "Taekwondo instructor headed to trial - FOX6 News Milwaukee",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uYXFQOEMyVXo3azJMMFU5VWdmNHlYZGE2Ujdrc1lKWTNRY0VPTW14OWl5c05nVm53YkJKczBFLVVMNlFpZ0dIUUFIbG9DX01wazZsQkpPZlUxQ2dqQUxF0gFkQVVfeXFMTTN5SlhsdHB0NDQ3ZTE2WVNFc0otM3FsVlVCX3YxRTAzS25Ib2hENnB1aVY5bUN1d29SOEVTSjJzSWJ0Z3BLbnFXTF",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-06-25T21:21:37.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uYXFQOEMyVXo3azJMMFU5VWdmNHlYZGE2Ujdrc1lKWTNRY0VPTW14OWl5c05nVm53YkJKczBFLVVMNlFpZ0dIUUFIbG9DX01wazZsQkpPZlUxQ2dqQUxF0gFkQVVfeXFMTTN5SlhsdHB0NDQ3ZTE2WVNFc0otM3FsVlVCX3YxRTAzS25Ib2hENnB1aVY5bUN1d29SOEVTSjJzSWJ0Z3BLbnFXTFBSd3RTREFvbXhmWWpiSkNrY3FVT3VfQWtTMw?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
       "id": "n4lik",
       "title": "Taekwondo instructor accused of child sexual assault headed to trial - FOX6 News Milwaukee",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHlNVkZkbkJZamp1ank0UUl2eGhqWWFvT1F4NFZENEFZVFJLejJIdFJmZ2o5WFZmMGVGZlJUMmpuMGlyZG56TmZ5WjFXbi1uV3RWZVdWbWlxaUpCMzZnX0FzUmEzaTZCODFFdTBsRVNHcVpjeHZLMnpYQkpEaDc0SS1JQnJDYmdjWEd3LUJhdlAwbVdLcVHSAZsBQVVfeXFMTUNZblhRNGF0Ul",
@@ -392,16 +432,6 @@
       "category": "news"
     },
     {
-      "id": "gddw0e",
-      "title": "I'm starting Taekwondo as a complete beginner and will be attending my first class on Monday.",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi I'm f 22 starting my taekwondo classes from coming Monday and I am complete beginner who's never been to any physical activity.</p> <p>For those of you who train or have trained in Taekwondo:</p> <p>- What do you wish you knew before your firs",
-      "source": "Reddit r/taekwondo",
-      "publishedAt": "2026-06-24T09:10:01.000Z",
-      "url": "https://www.reddit.com/r/taekwondo/comments/1ue8dos/im_starting_taekwondo_as_a_complete_beginner_and/",
-      "imageURL": null,
-      "category": "news"
-    },
-    {
       "id": "ftebta",
       "title": "Exploring Life & Business with Ethan Shin of American Tigers Taekwondo - Voyage LA Magazine",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPT3ZuOGlPYnM5ODlDU1laU1RLaUFodlRmTUZVRjlmTG9tUFZHbzZKWDlmeUx1bHlfWml6b3NRN3JYQWhsTnhMOTVUbHExZ3BmQXRIMl9oS3NUSllidEpSSlFiWEJ3X3lMWUtlOUFnWF9DNmxEa1pxbFB3OTc2NHBIT3N0bHFJV1BDUnBrYXIzUm9Ob0JuUG9EQUJ5bERTd2VNSUE?oc=5\" targ",
@@ -412,12 +442,12 @@
       "category": "news"
     },
     {
-      "id": "3h0wor",
-      "title": "Taekwondo athletes earn nine medals - Coastal Courier",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5hUjEzaDBpVFdlT2pNOXJLSWRwTk9Mbnh3MDRiYlU2MXF3N0VTSXFnS0YtcGF1UDBodUgxTXVlXzBhbm9UUDY4cG4zdGd0Wm9admRsME9RcWRRUERNb3RadTJ4V2V5Zm0wdjNCWUk0Z2x6MklweHQ3SnJB?oc=5\" target=\"_blank\">Taekwondo athletes earn nine medals</a> <fo",
+      "id": "yv26zp",
+      "title": "Carmi Taekwondo students complete rank testing - HomeTown Register",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZUJLQkFSNlNMakphQUhVcHlTVEFsWThMSVB6Rjd1Ry10Z1dYd0tILUJuamtOZWtyTHRPd2xMR21MNlZzVk00Sl9DT2JnbnhvWnBrTDJSX2ZlWTFDaFpENkJYTm9jQUZSVVNXQUowQlUzQmVCQkdQVEJoWGkwSl96aWtyaWl6blM2a2MtOTdJd3llNEk2MndSZ0RPVGpPQmZZaFBJZUcwbHBjWU",
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-06-24T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hUjEzaDBpVFdlT2pNOXJLSWRwTk9Mbnh3MDRiYlU2MXF3N0VTSXFnS0YtcGF1UDBodUgxTXVlXzBhbm9UUDY4cG4zdGd0Wm9admRsME9RcWRRUERNb3RadTJ4V2V5Zm0wdjNCWUk0Z2x6MklweHQ3SnJB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZUJLQkFSNlNMakphQUhVcHlTVEFsWThMSVB6Rjd1Ry10Z1dYd0tILUJuamtOZWtyTHRPd2xMR21MNlZzVk00Sl9DT2JnbnhvWnBrTDJSX2ZlWTFDaFpENkJYTm9jQUZSVVNXQUowQlUzQmVCQkdQVEJoWGkwSl96aWtyaWl6blM2a2MtOTdJd3llNEk2MndSZ0RPVGpPQmZZaFBJZUcwbHBjWUJuT0lWa09NeXdtVUR0UnhQSTVZWTNwUjZWeDZlU3ZTWDdrZXRDVmc?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -472,12 +502,12 @@
       "category": "result"
     },
     {
-      "id": "d51phs",
-      "title": "RICHARD LEE 2007 USA TAEKWONDO CHAMPION From ANDRE LIMA ACADEMY LOS ANGELES USA Fano (tteHYzRlb1) - Fathom Journal",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE51NjFFV0NlNm9HeHhsS0s5ZzBRbkRhR0M1V3ZmNUs3OVI5eVlVNjZlSS1TZTR2LVlVZUNhRFZDZE15VUlKd3FCaFdvN3pGZUlVeEFia21fQXRibTRKcFZsNS1Gb1c?oc=5\" target=\"_blank\">RICHARD LEE 2007 USA TAEKWONDO CHAMPION From ANDRE LIMA ACADEMY LOS ANGE",
-      "source": "Google News — USA Taekwondo",
-      "publishedAt": "2026-06-23T06:32:37.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51NjFFV0NlNm9HeHhsS0s5ZzBRbkRhR0M1V3ZmNUs3OVI5eVlVNjZlSS1TZTR2LVlVZUNhRFZDZE15VUlKd3FCaFdvN3pGZUlVeEFia21fQXRibTRKcFZsNS1Gb1c?oc=5",
+      "id": "i991it",
+      "title": "Poos Taekwondo is jump kicking summer workouts & lessons into high gear - KOKH",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNeXV5Qjd6NDNvZjBkWnB1VXhhcWNRNHZad1ZYa05NZEtHdXlUZFRpcXozT2N1bG13YWpPdTlrT3RKX0lIZWFuTGhFcmNXWXpCR0RIX2ZieTFJbDNibXF5NGJQV2NjVE1oV2cxdDNHSFlxazhGd2tyQnNKUlNweC1ZVEQzdzdnVVIwNVpfVHVnRmR6anI4UWpMSmhNS0FOTDhKLTJSYTdnVy1ERD",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeXV5Qjd6NDNvZjBkWnB1VXhhcWNRNHZad1ZYa05NZEtHdXlUZFRpcXozT2N1bG13YWpPdTlrT3RKX0lIZWFuTGhFcmNXWXpCR0RIX2ZieTFJbDNibXF5NGJQV2NjVE1oV2cxdDNHSFlxazhGd2tyQnNKUlNweC1ZVEQzdzdnVVIwNVpfVHVnRmR6anI4UWpMSmhNS0FOTDhKLTJSYTdnVy1ERDR3djg2Sl9CZw?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -512,14 +542,14 @@
       "category": "result"
     },
     {
-      "id": "c9cvtn",
-      "title": "Class 8 Boy Bags Taekwondo Gold - Deccan Chronicle",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPV0ZKZmk5cHBqdHJrb3pBR2ZISmZ3WnFXMUNtdVZaMFk1RFpsVmwwdVI2bGpHc1JGZzhUeC1mOXhpN3JENWY0Rk5ZTzFlMDl4dlByYmhYbXlHaVVDSjdEaUo5T1F3YVVDU1NveFdOcHRWd2tLNDFIVzVxSGtObFJTZDdJcXVpTk9ZM2t3YmNhRUptSGVVOGhnWF8wNjZMUdIBowFBVV95cUxQa3",
-      "source": "Google News — taekwondo gold medal",
-      "publishedAt": "2026-06-18T19:40:38.000Z",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0ZKZmk5cHBqdHJrb3pBR2ZISmZ3WnFXMUNtdVZaMFk1RFpsVmwwdVI2bGpHc1JGZzhUeC1mOXhpN3JENWY0Rk5ZTzFlMDl4dlByYmhYbXlHaVVDSjdEaUo5T1F3YVVDU1NveFdOcHRWd2tLNDFIVzVxSGtObFJTZDdJcXVpTk9ZM2t3YmNhRUptSGVVOGhnWF8wNjZMUdIBowFBVV95cUxQa3RlX2h5c0ZrbkcxNkJfMnh5cmhCSWdwU2ppZHJFYjNUcFhKeFZnTks0cXBMT3lPaElpeVQ5dmpYQWZQWXY2S3RxTHFGOUZ0dHFuT0RVN25Dalh6bTNLVnNhT19VWVdiMkhPclRPbGJoLTJYeVJIZXVTWG85ZGFyV0VUZjNJMmxYUHQ4QU5FWGpiMllyQTFtMWxuaWpUSUJNWmpN?oc=5",
+      "id": "c1jsix",
+      "title": "Self-defense and taekwondo classes at Madison Senior Center - Madison Record",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbzc3QU9RTEI0ZUlGRDVkdEZKNm9IMDFxNGQ5TnpoUFU0QWFXR2RQZXdmYzhLZmZiQUN2VnRObEJTdU5lWHpDVHRQbGFUWDdUa2tDbFN4enBaU0RaT3NSczFVeFg2aFN1TER0NXNzOHBTWkVtN1NXTkJiZWJPV3VaeHFWRzFILUI2WUM2ZjJjR2o3eDRjZEgzMEJrclp6dw?oc=5\" target=\"_",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-06-18T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbzc3QU9RTEI0ZUlGRDVkdEZKNm9IMDFxNGQ5TnpoUFU0QWFXR2RQZXdmYzhLZmZiQUN2VnRObEJTdU5lWHpDVHRQbGFUWDdUa2tDbFN4enBaU0RaT3NSczFVeFg2aFN1TER0NXNzOHBTWkVtN1NXTkJiZWJPV3VaeHFWRzFILUI2WUM2ZjJjR2o3eDRjZEgzMEJrclp6dw?oc=5",
       "imageURL": null,
-      "category": "result"
+      "category": "news"
     },
     {
       "id": "mx6dyb",
@@ -562,6 +592,16 @@
       "category": "result"
     },
     {
+      "id": "je4zxf",
+      "title": "USA Taekwondo to launch regional and state teams - Inside The Games",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVg4dVhXY3VKOGNwQXppU1RGMnlRQnBhR3NFZzRSZmtuR3d2TDFQR2xGZmZvTUszcVljb3dYdVlodUZWb2diX2p6YUJ6b1JrYk9mZ1QzOGNud21OV0NwZ0k5UmxUQ3NUNnBQY3dBQXBkWENsTllKeG42OVdvV2Jnd0RpbjZDcXBaMll0dDBZMTV2dw?oc=5\" target=\"_blank\">USA Taekw",
+      "source": "Google News — USA Taekwondo",
+      "publishedAt": "2026-06-16T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVg4dVhXY3VKOGNwQXppU1RGMnlRQnBhR3NFZzRSZmtuR3d2TDFQR2xGZmZvTUszcVljb3dYdVlodUZWb2diX2p6YUJ6b1JrYk9mZ1QzOGNud21OV0NwZ0k5UmxUQ3NUNnBQY3dBQXBkWENsTllKeG42OVdvV2Jnd0RpbjZDcXBaMll0dDBZMTV2dw?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
       "id": "wdgxnc",
       "title": "2026 USA Taekwondo American Open West Qualifiers bring thousands to Tucson Convention Center - KGUN 9",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPb1NOTy05T21GeXFOYkQxX0t1enI2TXc1MUtCeTRldUxEN3gyZzlfb0gxR1ZuS3RQVGkyMWNudU5oQWhhVldZczlzRWpqZC12WnhpeWxqNWFfZWU5R0VlcGFES0o3TjdycFpNZ2ZuaUZ4NFNtcHEyNGhHa2JKbXpScHUyR0hOY000NVJKcTVtSUptWUs5dHJvbTdZTVRwX0RRR3JBYTR6WVV0NF",
@@ -602,12 +642,32 @@
       "category": "news"
     },
     {
-      "id": "4c6pzz",
-      "title": "'Transitional' Jones opens up on boxing journey after taekwondo switch - DAZN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY0RNaDBYOFBMakZVTUY0cnhvc1gxUG9xaXpXMHBJVVlOXzMya0VPazVfcXZGd1VVTWd5dFVITS1ralJwN3NfWkFZSXpyVUZYZ08yQnRnb2ltRHpFTHJCQ1RmYy01UmRubDFRSE9XcHplcEdZYUhnbFRJdk1oUmJxTE9xQkdOdGg3MXhEZEgybVY1UDM1cnBfd2Q2Z1lpUk4wRTFnbDBNMFhUYU",
+      "id": "idgub7",
+      "title": "Tracy students excel at 2026 California State Taekwondo Championship - ttownmedia.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeFZGZUlUMVh4VDdaaGFtRm9sVm4zamIwRW5XSW83RUtIU3VjTkQ5a21id0stY3MzNGl3UUgyNXlvak9xdGFNYVZsamdIVm83NEx5Q252TmJYSmtuVGpLQUVBcjNBLXR3aGdqZHBSdjh2SWF4eVduS3ZmTmwwS0xYdkNUUlhVdjYwZHNTbjhhWnU5YjNfWWhSVG04QVM3b0hnNHRST0tDd3gydk",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-06-13T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeFZGZUlUMVh4VDdaaGFtRm9sVm4zamIwRW5XSW83RUtIU3VjTkQ5a21id0stY3MzNGl3UUgyNXlvak9xdGFNYVZsamdIVm83NEx5Q252TmJYSmtuVGpLQUVBcjNBLXR3aGdqZHBSdjh2SWF4eVduS3ZmTmwwS0xYdkNUUlhVdjYwZHNTbjhhWnU5YjNfWWhSVG04QVM3b0hnNHRST0tDd3gydkc1TkVheG1mb1BubXVGbTlwMURwYkh4SVJLRjJ6Q0plNzBKYndmY1ptY0JNWTdlU1JzSkszM3dDSzVEckdwNGtKaTJR?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
+      "id": "tghbdx",
+      "title": "3 Fontana siblings ready to fight in national taekwondo championships - San Bernardino Sun",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdU5hbl9xcGp3ZVNJRV9yREtUMVdwUzVsVnlkWGtxa3hpSWVmZF9GMlc4cURDbjNVcktVQ2dOcHFZNnU0OE9GUDFBQ29rWExLU3h4UVg0RnhvTU1rNXBwdVF5cmxJLUZsYzJWMUROeThPa0s4NnhFR21sMy1PekVMb1JyX0I5ODAybUp1b1dsMmFyZmZ2Zk4tZmxESlM4bUdMVGljQUdn?oc=5\"",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-06-12T01:02:37.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdU5hbl9xcGp3ZVNJRV9yREtUMVdwUzVsVnlkWGtxa3hpSWVmZF9GMlc4cURDbjNVcktVQ2dOcHFZNnU0OE9GUDFBQ29rWExLU3h4UVg0RnhvTU1rNXBwdVF5cmxJLUZsYzJWMUROeThPa0s4NnhFR21sMy1PekVMb1JyX0I5ODAybUp1b1dsMmFyZmZ2Zk4tZmxESlM4bUdMVGljQUdn?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
+      "id": "xkbshf",
+      "title": "Jade Jones lifts lid on 'transitional' journey from taekwondo to Misfits before latest bout - DAZN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkdQNWl0YXpPdDFseV9kS3RfXy1DNkhHUW5Ka3VZdUdaM2tTYnYwWWExbDd2bHhnejhEMUl0Z01mZms5NjIxMnBRdGoxLWNWek9INXpzQlp2blk2OUVGSC1acUNuVDhuS2FRenFqdXkydWQ5RTlhckptVk5qSHU4TUZWSWgxZWRUM1lfS2Z5cnVRdGlwX3VpY2dNUERQUGs1QTVBZ0dfQW9IMk",
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-06-11T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY0RNaDBYOFBMakZVTUY0cnhvc1gxUG9xaXpXMHBJVVlOXzMya0VPazVfcXZGd1VVTWd5dFVITS1ralJwN3NfWkFZSXpyVUZYZ08yQnRnb2ltRHpFTHJCQ1RmYy01UmRubDFRSE9XcHplcEdZYUhnbFRJdk1oUmJxTE9xQkdOdGg3MXhEZEgybVY1UDM1cnBfd2Q2Z1lpUk4wRTFnbDBNMFhUYUNrd0l6RkVMeDNMZTZLclRLeVRmdEdIX0h0YnZ1bWpjRXlpSkRwUkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkdQNWl0YXpPdDFseV9kS3RfXy1DNkhHUW5Ka3VZdUdaM2tTYnYwWWExbDd2bHhnejhEMUl0Z01mZms5NjIxMnBRdGoxLWNWek9INXpzQlp2blk2OUVGSC1acUNuVDhuS2FRenFqdXkydWQ5RTlhckptVk5qSHU4TUZWSWgxZWRUM1lfS2Z5cnVRdGlwX3VpY2dNUERQUGs1QTVBZ0dfQW9IMkl3WkdMbXRyYW94XzhsTUJXQjdoN2s3MTljakRKdlo0UDBVN1hjZnc?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -862,16 +922,6 @@
       "category": "result"
     },
     {
-      "id": "e3iomu",
-      "title": "New Taekwondo Program Coached By Olympic Athlete - Post and Courier",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcWxRbDUwZEJVLVpNRjk1SzR4Tl9sNXZXX0pyN200aS1tZ0ZEdDU5Q2JxYTJfclhMRHNOYW1iclZzX1loZ29GVC1WQm1nQkl0b1hNUXBzMHNTT0Z6aG9vSHh3Q3pIdGJoazVhSFJRa0MwZVZxMFN3MmV4UkRncEVtZS1DQi1NVmpVZ0NQelVZWlpqZ0VOazlxU1BLV2luWjh2SDI4ZEk3ajBkQT",
-      "source": "Google News — Olympic taekwondo",
-      "publishedAt": "2026-06-06T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcWxRbDUwZEJVLVpNRjk1SzR4Tl9sNXZXX0pyN200aS1tZ0ZEdDU5Q2JxYTJfclhMRHNOYW1iclZzX1loZ29GVC1WQm1nQkl0b1hNUXBzMHNTT0Z6aG9vSHh3Q3pIdGJoazVhSFJRa0MwZVZxMFN3MmV4UkRncEVtZS1DQi1NVmpVZ0NQelVZWlpqZ0VOazlxU1BLV2luWjh2SDI4ZEk3ajBkQTU0NDhZNFNkSWkySHFMbDBCaHhmVE5ORy1CNF8yLW5qU3NIWTJrY0ppUjN0QXBCUDlYVGF1cTB6V0o?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
       "id": "lc06xo",
       "title": "Topic: World Para Taekwondo Grand Prix - The Korea Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBNS3hjeWl4UU1OUUtkNXhhalZRdEZQZkh6UXVlellVZWs2Umx0a0FDYUZXU0xqWFAzQXpveUpnSlRGazBobXZHZFBleVpiR2JrdlRGeGpmSFktQUtUWlVFWW9kdDk1aTBNMnNIMUZiZjg1RHRM?oc=5\" target=\"_blank\">Topic: World Para Taekwondo Grand Prix</a> <font co",
@@ -1072,16 +1122,6 @@
       "category": "result"
     },
     {
-      "id": "3xow90",
-      "title": "Nigeria Win Three Gold As Medal Tally Rises At African Taekwondo Championships - Nigerian Voice",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEJUdHdCTVpkZ2xyR1llbHpNanpnMHFVVlZ6VFhpVE9hZUg4RzRhYU5keVU4OGZhY1NQNXVQaFZIUExxUGp2WWJqQXRGWUtoajNrVWV0dnpqRmRScjhLb3JteVE4aWliZzVjV09MTVpqbF9ndm83T3VyWHlPeEJwc0lWZV83QU5fN3F2Vm1rTzM3akIxX1JFMnhoajlQZHY4bFRhWW5VMHg5Rm",
-      "source": "Google News — taekwondo gold medal",
-      "publishedAt": "2026-06-03T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEJUdHdCTVpkZ2xyR1llbHpNanpnMHFVVlZ6VFhpVE9hZUg4RzRhYU5keVU4OGZhY1NQNXVQaFZIUExxUGp2WWJqQXRGWUtoajNrVWV0dnpqRmRScjhLb3JteVE4aWliZzVjV09MTVpqbF9ndm83T3VyWHlPeEJwc0lWZV83QU5fN3F2Vm1rTzM3akIxX1JFMnhoajlQZHY4bFRhWW5VMHg5RmxOTlMyMkl30gG3AUFVX3lxTE9wMDJlSUZSU3p0THdrc2ltMERqT0RpQzVnZlpjRzBBVmpoS3l3ZmlOcWhpSVFWcGRQSXRaNjM1WnpIOHlvY0hKZW1EWVpja1EwenZ1STV4SXJPX0xmUm9DRWNReWxzTFo5XzBURnEzQ3hOanVEQ1p2QmZ0dXhoZUtlTlpSYkluY1IxTWtBZHoxVkhXcmoxNU9WMW1HYkJsTy0zRzFrLWhXaVBlNkZPcUQ5OEdNS3VVaw?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
       "id": "4okulk",
       "title": "Rome welcomes taekwondo elite for Grand Prix - The Korea Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUjJ4YTgwTmpDVGdmTVV3ejNmdUV3N0NGdTh3dklVdVNrTnAxNFlCdzlldHExdmxxcjNtemJmb1VnTjMwTFFsZU5pN1lGaFhaM3pVT0lPRlhuSzkyQ1o3bDlHSVFmNUNUdlJ0M3Q0WGtJWUk1SUVIenJoOE5lMS0wbWtZWjlKRzhiSE5uWUttX2JpSUHSAZgBQVVfeXFMTjI5TFR0WXpDWElwZ1",
@@ -1150,36 +1190,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdE1pckZrVW9JUWZwbHFuWjF3aXRDckVzQzR3OW5iWmdyb080YllwYVBKTXJjTHNycEVYTTdnZzdFZV9idnRCLXplYm5BUjhHMUoyb0FUMTRxdGZVYm84TTEyNFNlQ1o3Z2RTTzItSW1xaUdMT2dqNmQ3WG4wU0V0dGZLRXNRTFM1RDlvUXpXNXo?oc=5",
       "imageURL": null,
       "category": "upcoming"
-    },
-    {
-      "id": "nstjn9",
-      "title": "Jammu’s Chandeep Singh bags historic gold at Asian Para Taekwondo meet - The Tribune",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDJuZmY5VkFGb3NPQ09neFNmZDZGSUcwR2FnRDZQaUFHcHBXQVZXcDlHbjVNWHI4dE5UVkZXQVJNUWtmUHJIektGaGUwZnZ4VlZtWU9qVlZwMEhhaDgxSGo1aWl6SmFXaE1BZjJlWlFMWG1JQnpUT3htcml1MXZodzZ6bXhYdGFlbWpyWGl3QVlVWUp6VWVSWEJNSlVnSnN2ZGU2T21TbEViWW",
-      "source": "Google News — taekwondo gold medal",
-      "publishedAt": "2026-05-29T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDJuZmY5VkFGb3NPQ09neFNmZDZGSUcwR2FnRDZQaUFHcHBXQVZXcDlHbjVNWHI4dE5UVkZXQVJNUWtmUHJIektGaGUwZnZ4VlZtWU9qVlZwMEhhaDgxSGo1aWl6SmFXaE1BZjJlWlFMWG1JQnpUT3htcml1MXZodzZ6bXhYdGFlbWpyWGl3QVlVWUp6VWVSWEJNSlVnSnN2ZGU2T21TbEViWWc20gGwAUFVX3lxTFBMVTRpOVJIbXpyR3R6V0FZdEdfdl9tLW54MGMzWVFfVnBwcDdsaWJXcU83WmhWN0pmUXlXWUF0Vi03ak5MOVdJUFZBNGx5ZVp6M21KU2NqNzM5bGZmVEJtOFJmVmRYMnQtWFdsVmd5dTdTeG9LSXVodGQ5TDl3akdDYXJYdzhmUlJveC13N1ZkeGhvUkdvWTN1eXhIZDJ1N3dieFVaZlM4a3FFTlItQy1Y?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
-      "id": "y1ykak",
-      "title": "Istanbul Brings Together International Referees for World Taekwondo Refresher Course - MASTKD",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2lFQ040eW83bzJkOXcwcXh3MmM2TnAzSEw0QXc2ZjVYTnFNZHN6RGd5Q3YxbzBsUm5sN2pMVTBpWW9MU2tYblI3TGM3T25iOVBrVDU0eEV3emlIbWt4VmFJUUdpYUFTUWFBcWJ1VUhvWjhKbnVoeU9rc0I0MG5xa01DZ0Z2cWFWV1VPX3pCTWtnNm9KYUVXSzd6aWc0eUFaU0o2VFgwMW40Tk",
-      "source": "Google News — World Taekwondo federation",
-      "publishedAt": "2026-05-28T18:19:31.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2lFQ040eW83bzJkOXcwcXh3MmM2TnAzSEw0QXc2ZjVYTnFNZHN6RGd5Q3YxbzBsUm5sN2pMVTBpWW9MU2tYblI3TGM3T25iOVBrVDU0eEV3emlIbWt4VmFJUUdpYUFTUWFBcWJ1VUhvWjhKbnVoeU9rc0I0MG5xa01DZ0Z2cWFWV1VPX3pCTWtnNm9KYUVXSzd6aWc0eUFaU0o2VFgwMW40TkQtTDZYaE9SVzFycWM?oc=5",
-      "imageURL": null,
-      "category": "news"
-    },
-    {
-      "id": "qf9z2d",
-      "title": "Cordillera Administrative Region’s young taekwondo jins Winter Niamh Scarlet Abuan, Frances Hollie Nabejet, and Zion Ysabelle Buenviaje capture the gold in the elementary girls’ team category in poomsae on Wednesday, May 27, at the 2026 Palarong Pa - facebook.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSTJlRkd5anRsNjJaOGJLU0xpZVVBZVNnVHltYi0wbVNoeTFWSjZ4XzZGc25raFg0NGJXbUZWc2U0clQ4WG5NdXRTam9UQzFfb3RDZWgyRlNLcUZmQmR3a2xlMW04THZtdEFwR1lPdlk5U2pBSzhTMHFFZG9QZzlzQUdlOEdGSzA1NHcxbURMQU12eDNkVkNnZ3pxbGRqei0tdy12a1ZBcTZYV0",
-      "source": "Google News — taekwondo gold medal",
-      "publishedAt": "2026-05-27T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSTJlRkd5anRsNjJaOGJLU0xpZVVBZVNnVHltYi0wbVNoeTFWSjZ4XzZGc25raFg0NGJXbUZWc2U0clQ4WG5NdXRTam9UQzFfb3RDZWgyRlNLcUZmQmR3a2xlMW04THZtdEFwR1lPdlk5U2pBSzhTMHFFZG9QZzlzQUdlOEdGSzA1NHcxbURMQU12eDNkVkNnZ3pxbGRqei0tdy12a1ZBcTZYV0pIR3JMZGlEaFpTMXc4TkxxWWhXQk1zdkFrYnByV1JqNWlrTmZTbUx6YllDRzBkdWM?oc=5",
-      "imageURL": null,
-      "category": "result"
     },
     {
       "id": "gvcq1f",
@@ -1262,16 +1272,6 @@
       "category": "news"
     },
     {
-      "id": "yhykvj",
-      "title": "Iran’s Nematzadeh Takes Bronze at 2023 WT Taekwondo Grand Prix - Taekwondo.ir",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zazRKMEpkOFlqM3NrS2NldnJOaklVaDVKeWZPdXB5cVJKM0p2Ym5fRGRJcmk4c1pmRm9VSTlRbG5UUWt5SWFZYkFaS0pyVDdrTG9EMzlDcWhmc0h6NHBMVVlLTG5taVQt?oc=5\" target=\"_blank\">Iran’s Nematzadeh Takes Bronze at 2023 WT Taekwondo Grand Prix</a> ",
-      "source": "Google News — Taekwondo Grand Prix",
-      "publishedAt": "2026-05-25T01:28:40.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zazRKMEpkOFlqM3NrS2NldnJOaklVaDVKeWZPdXB5cVJKM0p2Ym5fRGRJcmk4c1pmRm9VSTlRbG5UUWt5SWFZYkFaS0pyVDdrTG9EMzlDcWhmc0h6NHBMVVlLTG5taVQt?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
       "id": "6mwqw5",
       "title": "Iran Men’s Taekwondo Team Finishes Runner-Up at Asian Championships - WANA News Agency",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNdGk4UTV3UFc0OEd0elVOak8wRzZzVk1la1A0NVZZeHhBNnpGd3lydXM4RmJRVVd6YmlDdkhNU0VXTjlYRExacU92V1lNZkJUbTA0Z0lFWWJxOUIyNjZ3LXNYcTJuYUtGallhU1FSSDF2R1ZJaUZvcy1jOU1obEJEb191c0dCY3VDY2t6LV9TNA?oc=5\" target=\"_blank\">Iran Men’s Ta",
@@ -1332,16 +1332,6 @@
       "category": "result"
     },
     {
-      "id": "h0udkc",
-      "title": "Hajimousaei wins Iran’s fourth gold at Asian Taekwondo C'ship - Mehr News Agency",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPV2cwb216QjdkTDJIbW1YcmxrVWVnX0VQdk5HOEE3blZjWUo5MU5DWTlZVE5vcUxjcFJHSUxBY19uZVpPVzhEMGU3bFFyOHN5cUMyeTUzbXJpZ1BkMWhpNk9WT0I0b3huWXhoSGxCTmljcFduNHRIamV2bDJsSHd1bktybmVTbVhaWE1CVm9URnpYcmlnQjBLMXFURUJ5UQ?oc=5\" target=\"_",
-      "source": "Google News — taekwondo gold medal",
-      "publishedAt": "2026-05-24T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV2cwb216QjdkTDJIbW1YcmxrVWVnX0VQdk5HOEE3blZjWUo5MU5DWTlZVE5vcUxjcFJHSUxBY19uZVpPVzhEMGU3bFFyOHN5cUMyeTUzbXJpZ1BkMWhpNk9WT0I0b3huWXhoSGxCTmljcFduNHRIamV2bDJsSHd1bktybmVTbVhaWE1CVm9URnpYcmlnQjBLMXFURUJ5UQ?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
       "id": "jf2uz1",
       "title": "Nahid Kiani crowns Asian Taekwondo Champion - خبرگزاری برنا",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEljQWFQRkhDODFHNWFEbzVJb3pTUTFGbWJvZEdEdmpYeVM0SkZGVzI4blB0ZHdwa0ZkSTI2Z1ZoWVR3LXpHb2cxSmZTVDdESUtyTDR4X0k0WGdRSkdBZDJ2bVozRkZOam11bC1TWU9uSzdZOVVBVExUNXJzSWpraA?oc=5\" target=\"_blank\">Nahid Kiani crowns Asian Taekwond",
@@ -1358,6 +1348,16 @@
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-05-24T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdjVWVDZOQW9na3NCZlc1dFUzQ2NsZmNneVFIbGFWSHplRFpzdDJUMkNnWlhiem0wclNpYWwwbnJiVFM4MHZPM2VNbWhrR1U2LXB3eHA0eGV1MHU5bzI2WklVQUhoRjlsTy1oYnFHUTM5R0E2MVJCTkFBOWFaanVWa1gtYXAxZ3JkNm92cHJuN3dlclN6QVlyTTdOemFCSG9uMURWeUxNcDlIbkdFWndEb3JIZmtCS1lsS2Y2ZUY4SU5iN01qY2JNZjdud21naElxXzJSRU1ILTZnT2tvanlidnhNaEo0eDJP?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
+      "id": "c67jr6",
+      "title": "Harrisburg hosts AAU Pennsylvania State Taekwondo Championship - fox43.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbHNFOURpZDdiazczSTlGdzBWdUI2eUhMejd6bGpQdURrVE1RYzR6aFZfczZJNkdyOVBkUUV6MUNDczNja1BvMFlHQVNMT0tCZjdQWkJuS1BBeUd2eXgtNkU0ZVFqUWh2V0lQYURJdmZGWGhlQ2VSdXdKUGlnWEJacFRDSW51TnJXQjFYWlJ1bzBTLW42OXFqaVdQWWRzalJNM0FkNE9uaFZTVH",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-05-24T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbHNFOURpZDdiazczSTlGdzBWdUI2eUhMejd6bGpQdURrVE1RYzR6aFZfczZJNkdyOVBkUUV6MUNDczNja1BvMFlHQVNMT0tCZjdQWkJuS1BBeUd2eXgtNkU0ZVFqUWh2V0lQYURJdmZGWGhlQ2VSdXdKUGlnWEJacFRDSW51TnJXQjFYWlJ1bzBTLW42OXFqaVdQWWRzalJNM0FkNE9uaFZTVHp2YmFLemRVVmg5VFU5LW9xMHBMLV9LM1Q4WnczTTRvUl9IMnhzWDMyRFFLUE9GRzlsdlZycnU4NUE2eV9UTDBvaTJR?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -1452,6 +1452,16 @@
       "category": "result"
     },
     {
+      "id": "g7vu1s",
+      "title": "Iran adds 2 more gold medals to tally at 2026 Asian Taekwondo - Mehr News Agency",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPMjJnQVdRMGdZejR6NmI0ZmJ0eGFsQmxLN1E4aWJGTmhoanZmcVUwc1E3UXVvRDhkU29LREVtdFlNLW9vbk12S0pFUTAyblhRWk1vX0IyZlNNYnFIMnFBakRCSVRMUUxjekdPZi1lQXoyczZ4ZXA0ZlpteFZsdzY3LXJfWl9JUmh0VzE3ajg5eXoyWXlKa01aN1ZmRWhRdw?oc=5\" target=\"_",
+      "source": "Google News — Asian Games taekwondo",
+      "publishedAt": "2026-05-22T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMjJnQVdRMGdZejR6NmI0ZmJ0eGFsQmxLN1E4aWJGTmhoanZmcVUwc1E3UXVvRDhkU29LREVtdFlNLW9vbk12S0pFUTAyblhRWk1vX0IyZlNNYnFIMnFBakRCSVRMUUxjekdPZi1lQXoyczZ4ZXA0ZlpteFZsdzY3LXJfWl9JUmh0VzE3ajg5eXoyWXlKa01aN1ZmRWhRdw?oc=5",
+      "imageURL": null,
+      "category": "result"
+    },
+    {
       "id": "vpef4f",
       "title": "Taiwan’s Wang Chieh-ling wins Asian Taekwondo Championships gold - Taiwan News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9maGNQSi1Kb2hqTFZJWkxaYkpoZ3A3cmF2LUZQbngzNUFXRTFoYXRfYy1DVE9hZGRwRDRVbHZKRHVWNUtjLTdXanFKR2ZyNHZLNzVGLQ?oc=5\" target=\"_blank\">Taiwan’s Wang Chieh-ling wins Asian Taekwondo Championships gold</a> <font color=\"#6f6f6f\">Ta",
@@ -1472,24 +1482,14 @@
       "category": "result"
     },
     {
-      "id": "g7vu1s",
-      "title": "Iran adds 2 more gold medals to tally at 2026 Asian Taekwondo - Mehr News Agency",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPMjJnQVdRMGdZejR6NmI0ZmJ0eGFsQmxLN1E4aWJGTmhoanZmcVUwc1E3UXVvRDhkU29LREVtdFlNLW9vbk12S0pFUTAyblhRWk1vX0IyZlNNYnFIMnFBakRCSVRMUUxjekdPZi1lQXoyczZ4ZXA0ZlpteFZsdzY3LXJfWl9JUmh0VzE3ajg5eXoyWXlKa01aN1ZmRWhRdw?oc=5\" target=\"_",
-      "source": "Google News — taekwondo gold medal",
+      "id": "btxqby",
+      "title": "Sidekicks Taekwondo studio to open in Stevensville - The Herald Palladium",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbHo2YmVXZm0teGh1bnJRNVlfWHRYNEhQenREaDNONUFDaklhVEoyZms1MFFCM1BlLWFmcHlsVEhwR1Iycnl6Sk5jZnM0R3Q5eHZqbXlUaW5jVF81WTJKeDIyNkNHVzFqcjRjMFpieDVzY2RfMDhYRXZCU2h5bE9KMjdhY0hLczJOWjFJa3dJVjJvd3JYckZvSFc0RGp5OWpMSHo1LUJ4UkdmVk",
+      "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-05-22T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMjJnQVdRMGdZejR6NmI0ZmJ0eGFsQmxLN1E4aWJGTmhoanZmcVUwc1E3UXVvRDhkU29LREVtdFlNLW9vbk12S0pFUTAyblhRWk1vX0IyZlNNYnFIMnFBakRCSVRMUUxjekdPZi1lQXoyczZ4ZXA0ZlpteFZsdzY3LXJfWl9JUmh0VzE3ajg5eXoyWXlKa01aN1ZmRWhRdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbHo2YmVXZm0teGh1bnJRNVlfWHRYNEhQenREaDNONUFDaklhVEoyZms1MFFCM1BlLWFmcHlsVEhwR1Iycnl6Sk5jZnM0R3Q5eHZqbXlUaW5jVF81WTJKeDIyNkNHVzFqcjRjMFpieDVzY2RfMDhYRXZCU2h5bE9KMjdhY0hLczJOWjFJa3dJVjJvd3JYckZvSFc0RGp5OWpMSHo1LUJ4UkdmVkN6RDBLb2wyWjFRSlZEaENILWtaT3ZmUFZYYUNzaVVuUHRvNnhkVVU4OUZoTVc2MjlhOGRQRTBmY3VsbHBVRTFaNXJB?oc=5",
       "imageURL": null,
-      "category": "result"
-    },
-    {
-      "id": "1jz5e8",
-      "title": "Gold rush in Ulaanbaatar: Zandi and Bakhtiari crown Iran Asian Taekwondo champions - ISNA News Agency",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2thaUlnV1Jyczg2akp0MTlkaHF4SEItVVFBMG5KN241cmtScVNLVXVoSXozMFI4ZkxnbzBDTkxTWTIxSzhubVRtZy1lSVlnTWtJTUE5bVBYRnQyN0JyemRXQTNQdmtWdVdCQU9ZTnBqaFQ3WHYxVDFXU2NaX21fZmwxaENpdm56SHFkWEo1cFZaVlc3WGNYTEZkQVRTYUdN0gFOQVVfeXFMUE",
-      "source": "Google News — taekwondo gold medal",
-      "publishedAt": "2026-05-22T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2thaUlnV1Jyczg2akp0MTlkaHF4SEItVVFBMG5KN241cmtScVNLVXVoSXozMFI4ZkxnbzBDTkxTWTIxSzhubVRtZy1lSVlnTWtJTUE5bVBYRnQyN0JyemRXQTNQdmtWdVdCQU9ZTnBqaFQ3WHYxVDFXU2NaX21fZmwxaENpdm56SHFkWEo1cFZaVlc3WGNYTEZkQVRTYUdN0gFOQVVfeXFMUEd6ZVJ6UDVyNFVGWG9SOENldGM5UU1sa01tLWZNVnVQa1h2VWRkT2hpRzdCZzJXYjdRS0d3TXNveVd4VzQ4LXdYTWhGRnd3?oc=5",
-      "imageURL": null,
-      "category": "result"
+      "category": "news"
     },
     {
       "id": "scsffn",
@@ -1512,16 +1512,6 @@
       "category": "result"
     },
     {
-      "id": "vjvzas",
-      "title": "Taiwan prodigy wins gold at Asian Taekwondo Championships debut - Focus Taiwan",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ScGZQRG0xbTRhak13Rm14bjkzQXQ4MVFzVFRZcmVvQnpqekJtYVI5T3NwbENHcTlRQW0xbklnajdmWUZZMXh5ZmRxQU1pT0J4ZDAzOQ?oc=5\" target=\"_blank\">Taiwan prodigy wins gold at Asian Taekwondo Championships debut</a> <font color=\"#6f6f6f\">Foc",
-      "source": "Google News — taekwondo gold medal",
-      "publishedAt": "2026-05-21T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ScGZQRG0xbTRhak13Rm14bjkzQXQ4MVFzVFRZcmVvQnpqekJtYVI5T3NwbENHcTlRQW0xbklnajdmWUZZMXh5ZmRxQU1pT0J4ZDAzOQ?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
       "id": "9ay8s6",
       "title": "Finding a community through Hopkins Sport Taekwondo - The Johns Hopkins News-Letter",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObXVROXhVdkE1NXBRelpFOWJDWnZmeWtWc2dKcnZLZHIyQ0EyX2YxelN5Wnk0NVlDcGV2b2poN1Y4NG9EUmcwdFMxYmZIREpiMjMyRkVqVE4xcE9OUTVlQ29NS1poOXgwOTRSZGNLQS0zYTdaazJTTEo1a2N6RlBoempXQWpYSS1sVklWZE5UMXNFSUt2VmZLOXE2am5DUQ?oc=5\" target=\"_",
@@ -1530,6 +1520,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObXVROXhVdkE1NXBRelpFOWJDWnZmeWtWc2dKcnZLZHIyQ0EyX2YxelN5Wnk0NVlDcGV2b2poN1Y4NG9EUmcwdFMxYmZIREpiMjMyRkVqVE4xcE9OUTVlQ29NS1poOXgwOTRSZGNLQS0zYTdaazJTTEo1a2N6RlBoempXQWpYSS1sVklWZE5UMXNFSUt2VmZLOXE2am5DUQ?oc=5",
       "imageURL": null,
       "category": "news"
+    },
+    {
+      "id": "4v2elo",
+      "title": "Islamic Republic Of Iran Taekwondo Federation - Taekwondo.ir",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBBS3ZVOGszYnlac2pWSFdlR18xdGJ0UjlFRzBQUXJHYldVQXAwOUV2ZERHemdsZEtndjY5ODFkaVgySTlUV1QzeXNpbzVhN3ljOXc1RVVJUDNjSmV3WmdyTVFyM3hwZldjVFE3SmV3?oc=5\" target=\"_blank\">Islamic Republic Of Iran Taekwondo Federation</a> <font col",
+      "source": "Google News — Asian Games taekwondo",
+      "publishedAt": "2026-05-20T14:57:24.000Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBS3ZVOGszYnlac2pWSFdlR18xdGJ0UjlFRzBQUXJHYldVQXAwOUV2ZERHemdsZEtndjY5ODFkaVgySTlUV1QzeXNpbzVhN3ljOXc1RVVJUDNjSmV3WmdyTVFyM3hwZldjVFE3SmV3?oc=5",
+      "imageURL": null,
+      "category": "result"
     },
     {
       "id": "zgtif0",
@@ -1552,12 +1552,22 @@
       "category": "result"
     },
     {
-      "id": "5rxz0g",
+      "id": "ibkqwt",
       "title": "Other Sports: Taekwondo team eye Asian success - Gulf Daily News (Bahrain)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lNlVHU2NMbC1nQUY4MTNxWUFJczlZUk5tTlpYWWVQTFlzV0hBM0NJS0docEoyLWdiUkxEQkoyWnJ4eWI4Z1QyZTdCMFJ4NjJRdGRV?oc=5\" target=\"_blank\">Other Sports: Taekwondo team eye Asian success</a> <font color=\"#6f6f6f\">Gulf Daily News (Bahra",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTlVlMHJVM05sSkFfSVk2Um1tZE1DYlVka1ZkY0RJSGlMTlhDWE5jR18yZm9YWVpfMnR0YmJFb0w0TlVxdkJzS05vX0JPdDZobXF2STFFY3NKdXJmT21BTnRSWEFiSUo2ZWpVaFZUZzQ3NDRkVHh6NERFWTVON3M?oc=5\" target=\"_blank\">Other Sports: Taekwondo team eye Asi",
       "source": "Google News — Asian Games taekwondo",
       "publishedAt": "2026-05-20T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lNlVHU2NMbC1nQUY4MTNxWUFJczlZUk5tTlpYWWVQTFlzV0hBM0NJS0docEoyLWdiUkxEQkoyWnJ4eWI4Z1QyZTdCMFJ4NjJRdGRV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTlVlMHJVM05sSkFfSVk2Um1tZE1DYlVka1ZkY0RJSGlMTlhDWE5jR18yZm9YWVpfMnR0YmJFb0w0TlVxdkJzS05vX0JPdDZobXF2STFFY3NKdXJmT21BTnRSWEFiSUo2ZWpVaFZUZzQ3NDRkVHh6NERFWTVON3M?oc=5",
+      "imageURL": null,
+      "category": "result"
+    },
+    {
+      "id": "pf2zn8",
+      "title": "Rajang Taekwondo Club hails Louise for gold medal at national junior championships - Borneo Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2VTV3ZYekRhaXNOZWdjbnY4YlhWaUxMUnJTRU51Vl9zUmFWYVNKQXRvWktYQ0s5OXkxMll2UENaMllYbHNJeFNFeXVCcl9iSU41eldKNHBKQW11Tl81LTZlVUEzaXFXNlZyRnJydTRTRjlsUzY2WjZOVkJhZl9LamwzbFEzZzRXR1dIa0lNckRPNjI4WmVZcE1yMG0yamdjdE0wMWhBZF9xM3",
+      "source": "Google News — taekwondo gold medal",
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2VTV3ZYekRhaXNOZWdjbnY4YlhWaUxMUnJTRU51Vl9zUmFWYVNKQXRvWktYQ0s5OXkxMll2UENaMllYbHNJeFNFeXVCcl9iSU41eldKNHBKQW11Tl81LTZlVUEzaXFXNlZyRnJydTRTRjlsUzY2WjZOVkJhZl9LamwzbFEzZzRXR1dIa0lNckRPNjI4WmVZcE1yMG0yamdjdE0wMWhBZF9xM3Q4UVZPb0dPcnNCS1ZZM3BTRnlDNTFBQQ?oc=5",
       "imageURL": null,
       "category": "result"
     },
@@ -1582,6 +1592,16 @@
       "category": "news"
     },
     {
+      "id": "t574m7",
+      "title": "Thompson Taekwondo Teaches Important Skills - bouldercity.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBfOVl5QnZ4ZkRfRTctMlMxekRLN0R3WTRwTG5XTzc3LXR6bDR1VHJEbm4zdlhERnpmQmxtb0lFd1dBMGxrbkx3VDB2QUlVOGNtQmpNUWxWZFFNeC1hWGZ4MEk0NVNBVzZwUHpFYkctOHlOSTdIUngtVm1na1E?oc=5\" target=\"_blank\">Thompson Taekwondo Teaches Important Ski",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-05-19T19:01:49.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfOVl5QnZ4ZkRfRTctMlMxekRLN0R3WTRwTG5XTzc3LXR6bDR1VHJEbm4zdlhERnpmQmxtb0lFd1dBMGxrbkx3VDB2QUlVOGNtQmpNUWxWZFFNeC1hWGZ4MEk0NVNBVzZwUHpFYkctOHlOSTdIUngtVm1na1E?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
       "id": "h5gszg",
       "title": "Nepali Taekwondo Team Departs for 27th Asian Kyorugi Championship - Ratopati",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWndqUVVHTldZVHBTYmdza0VZQUhucVl0UGtGMy00MUZvZlBGaWYtbjd1SFh1a282SEdXblVaaUxUM2p4dmZFNWtpTWRVQjNsQjlhdmo4aDFOWG8tX01BWkxzaWtjZlMzRy0xR2pibkNkTDk4SUI5VVhhN1RlenE0NXBJUFl3ZzRqNzd0QVhYd1U2RTVIenJfQzR2SVUwRERKQXhYSDZrNnpVa1",
@@ -1598,6 +1618,16 @@
       "source": "Google News — World Taekwondo federation",
       "publishedAt": "2026-05-19T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVkRaM3NkRWZlMS1sNHV0YVBfeGR0QmFNa091bEFyVXdFRlZZbFFJYTRCM2NWaUcwazY1SlZYY2t5WGRKTDk4RDhfdXlFS1p2R2RtQVJTbmo5VW12RWpraVFxQXpxWTAwUUV4U1FhMk5lZ2tlcHQ1ODBWcEJiQW1RZTlOMW9hb2FzRDJZWFpsUXllb3ZjaGcycnlRY0JwejJ3bW1uWVdEemIwWDhUTDlEbGp6REhvaTBuc1FVQ1JsQ0lUS1lFY3NNb19zTDBERnN6VjJyMEs2QnhsNmUtUUNVdmNBZHZOV2s?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
+      "id": "5a1mxv",
+      "title": "‘Father of Mexican Taekwondo’ Moon Dai-won dies at 83 - The Korea Herald",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FU1owS2xIa1FoMVUwbFJXSllpdjNsMDRWd0ljc29LSEdoMmRxWWhTbXIzMFV0dGZFSGtjQjdGZnBRNGJkMnF5cGZ6THVWVTlmMHpJWlR3VQ?oc=5\" target=\"_blank\">‘Father of Mexican Taekwondo’ Moon Dai-won dies at 83</a> <font color=\"#6f6f6f\">The Korea",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-05-19T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FU1owS2xIa1FoMVUwbFJXSllpdjNsMDRWd0ljc29LSEdoMmRxWWhTbXIzMFV0dGZFSGtjQjdGZnBRNGJkMnF5cGZ6THVWVTlmMHpJWlR3VQ?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -1665,7 +1695,7 @@
       "id": "isalsh",
       "title": "Türkiye crowned European taekwondo champions for 3rd consecutive time - Türkiye Today",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1ZUb256VjZBSUFKVzNfZjFreHEyLXhjdEptZUpMS2dSUUdtVlIwcHp6azRnNjkxVlE5WEpUeGprNTZlaWJGZ1dEZ0w3Vm9oUEY1anhHNnl0YVlMdWF2dUtaQzJVLVRvdjQxb1lTcEY0cGNOejA4NllzeWx1Ni0wMFduVFFRZ0xuSmxXY2c2LUEtOUpmT3YxRHM2c1RFeEtFMG5EQVRPd01JRn",
-      "source": "Google News — taekwondo gold medal",
+      "source": "Google News — taekwondo champion",
       "publishedAt": "2026-05-15T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1ZUb256VjZBSUFKVzNfZjFreHEyLXhjdEptZUpMS2dSUUdtVlIwcHp6azRnNjkxVlE5WEpUeGprNTZlaWJGZ1dEZ0w3Vm9oUEY1anhHNnl0YVlMdWF2dUtaQzJVLVRvdjQxb1lTcEY0cGNOejA4NllzeWx1Ni0wMFduVFFRZ0xuSmxXY2c2LUEtOUpmT3YxRHM2c1RFeEtFMG5EQVRPd01JRnVCbldiYWVLYzloUQ?oc=5",
       "imageURL": null,
@@ -1742,26 +1772,6 @@
       "category": "result"
     },
     {
-      "id": "7ywnbi",
-      "title": "Belarus’ Yuliya Vitko wins European taekwondo gold - BelTA – News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTGpib3hxaENwNzYxbTRBYzBzTjFnTjYza3M2dy1FQll2ajllWXlKNTVBTm1LclBMYU9wbmxxbW4tNUNPQS1kamV2ZlF6dXpac1RLdU9WdmZKMDgzQnpOejBFV0hYaG1oMW1mc1JncjBtSnBERUd3SVRud29nRlVRWWtXS3lpSGVDaVNORHNZQ2p6VGJGTGIyZWxR?oc=5\" target=\"_blank\"",
-      "source": "Google News — taekwondo gold medal",
-      "publishedAt": "2026-05-13T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTGpib3hxaENwNzYxbTRBYzBzTjFnTjYza3M2dy1FQll2ajllWXlKNTVBTm1LclBMYU9wbmxxbW4tNUNPQS1kamV2ZlF6dXpac1RLdU9WdmZKMDgzQnpOejBFV0hYaG1oMW1mc1JncjBtSnBERUd3SVRud29nRlVRWWtXS3lpSGVDaVNORHNZQ2p6VGJGTGIyZWxR?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
-      "id": "x42bw2",
-      "title": "Belarus’ Yuliya Vitko wins European taekwondo gold - Belarus.by",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQVU1lVGxRdnRYc25DaVo4OFQtVlQ1STZLcVZjVVFiaGVRMjZIRzVnLU5OdUQ3LWdlNzdjbGthLXNNOUM5SnlBX1JITmNKdUZhNHpILXljMkQyNmZnSHhhak50SVlpa2NubDBZNUZfeUFhdURpTjV5TVhVR1VydWF2ZWRibWRmbzFOVFZkOVNNNGxIVE1wSXhHNVo5YnZpQ01VTWZxallaNm9ZUG",
-      "source": "Google News — taekwondo gold medal",
-      "publishedAt": "2026-05-13T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVU1lVGxRdnRYc25DaVo4OFQtVlQ1STZLcVZjVVFiaGVRMjZIRzVnLU5OdUQ3LWdlNzdjbGthLXNNOUM5SnlBX1JITmNKdUZhNHpILXljMkQyNmZnSHhhak50SVlpa2NubDBZNUZfeUFhdURpTjV5TVhVR1VydWF2ZWRibWRmbzFOVFZkOVNNNGxIVE1wSXhHNVo5YnZpQ01VTWZxallaNm9ZUGdobEFiTXB2UlZJZFE?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
       "id": "gxf0aw",
       "title": "National Taekwondo champion Caleb Garcia honored by City Council - Menifee 24/7",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGUwd2RqdENjQ2NaSFNxTDUtbm13ZW02a3RDeHhmOG1LZkZPRE1YZFd1a1ZaT284MTJ0MC1lSXFKOHU5bzZ0cVFEblZoX2VnZkg4RU9PZkZGTUROQmZpS1I2Y0t5dktFTDRfOGk2aFoyZGZGTGhNX1Y4N2NtNG9lakRGZVJiOFZKTldPR1lybDAzdm8xRTJreFh2eWRSSTJIWVE?oc=5\" targ",
@@ -1782,20 +1792,20 @@
       "category": "news"
     },
     {
-      "id": "wumcws",
-      "title": "Israeli Para-Athlete Wins Gold at European Taekwondo Championships, Beats Opponent From Azerbaijan - Algemeiner.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnhuZWNOdWw5dk1qNW9yaHBnVzR0WnZoNVhaTENwRjF4dkp0SF9IZG9zdEpQdXNoeGtGUE9HendOc254cnRHR01wMXd2YjdDNTYybUI4REEwdm1GSWlGRElGNlc2X2NGbF92My1LcndwMjljRV91d1kwdEdxYXczNXBEZUx3b1pKWDZQYkR2WXVvWm1MSzF6TmxfV19yUHc2ODZKTUstbXl1c3",
-      "source": "Google News — taekwondo gold medal",
-      "publishedAt": "2026-05-12T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnhuZWNOdWw5dk1qNW9yaHBnVzR0WnZoNVhaTENwRjF4dkp0SF9IZG9zdEpQdXNoeGtGUE9HendOc254cnRHR01wMXd2YjdDNTYybUI4REEwdm1GSWlGRElGNlc2X2NGbF92My1LcndwMjljRV91d1kwdEdxYXczNXBEZUx3b1pKWDZQYkR2WXVvWm1MSzF6TmxfV19yUHc2ODZKTUstbXl1c3hqdFZxLUsyWWFaTTBVMEVpX1prTlJzNnQ4X213?oc=5",
+      "id": "8uewpx",
+      "title": "Simple Taekwondo Kicking Techniques - WCIA.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9CR0REay1HYmJOYUVIT2xpaGVqX2hIOEt6Q0JuZG5fNGY5am5nSHVxU0tOWW9FZkhuaWdXeXY5OURXOFotdDRPMFhqQzZYV2RiMHJCc0pXaEt0M2IzVG5qanptalAxdFN6UkQ0WElZZDhBWjlDUEJnNEpaZVY?oc=5\" target=\"_blank\">Simple Taekwondo Kicking Techniques</a> ",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-05-12T21:15:45.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CR0REay1HYmJOYUVIT2xpaGVqX2hIOEt6Q0JuZG5fNGY5am5nSHVxU0tOWW9FZkhuaWdXeXY5OURXOFotdDRPMFhqQzZYV2RiMHJCc0pXaEt0M2IzVG5qanptalAxdFN6UkQ0WElZZDhBWjlDUEJnNEpaZVY?oc=5",
       "imageURL": null,
-      "category": "result"
+      "category": "news"
     },
     {
       "id": "ylx2wb",
       "title": "Taekwondo: Greek Athlete Stella Marentaki Crowned European Champion - GreekReporter.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOLXpOamdyakxBT1lQcGdHcE1SSFZ0RzVPbTdQZ3FlTS1WMjdHWm9MM2stWkp4ek05SzBRZ2FHYk84eEptTTBwaHBlUnpEOEhWTnFCdTFUNkVKeWJkc0Q2ZG55aXBLWkhrcTY3dlJmNmczLVVFakNnaTJtdFRjUTVoZHpxT0MxNFBwcnhRZjE4aUt0OVBTczVDX1RuaXdGaUZPVldoMmw3aw?oc=",
-      "source": "Google News — taekwondo gold medal",
+      "source": "Google News — taekwondo champion",
       "publishedAt": "2026-05-12T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLXpOamdyakxBT1lQcGdHcE1SSFZ0RzVPbTdQZ3FlTS1WMjdHWm9MM2stWkp4ek05SzBRZ2FHYk84eEptTTBwaHBlUnpEOEhWTnFCdTFUNkVKeWJkc0Q2ZG55aXBLWkhrcTY3dlJmNmczLVVFakNnaTJtdFRjUTVoZHpxT0MxNFBwcnhRZjE4aUt0OVBTczVDX1RuaXdGaUZPVldoMmw3aw?oc=5",
       "imageURL": null,
@@ -1990,16 +2000,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnVFMXhIUFctWG9GVDI3ZDRaaFVCdDIxRjV4TFUwb1FDbnBiX3ZBb0I5bjBqbkZ4Slhud09sRzNYSUFka3VLdzRoc0l5ZUd2T1FOTGJXTVNkV2dLTC11eHBtc296Z0hJOUl6dnNaM0Jtc1pUSnJ4Y2lucHpfa1lvVkwxY3p5cWwxdHNsaQ?oc=5",
       "imageURL": null,
       "category": "result"
-    },
-    {
-      "id": "700qop",
-      "title": "Tiger Jins cap Season 88 kyorugi with runner-up finishes - The Varsitarian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDktaXBFNEh4S2RvZFJDUFRjTzFqbmpCOUdkWFpvQ2VpUTFKb1NUd3pQX1hjaE43eG5lZVBMZmV1TEIwX0NvWlZzQlN3Y1BFSGYxem1VV0FIMWZvYkVjek5VczhoU1BrWkZIVVlWQ0VzSUctYVVtVjdHOTJfN2ZuNEd3Q0tlS3BQa2N0b1RhaVZKLUNsbFVDSDB0T1hQd0ZMM3pGNmh5MUdoQQ",
-      "source": "Google News — kyorugi",
-      "publishedAt": "2026-04-25T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDktaXBFNEh4S2RvZFJDUFRjTzFqbmpCOUdkWFpvQ2VpUTFKb1NUd3pQX1hjaE43eG5lZVBMZmV1TEIwX0NvWlZzQlN3Y1BFSGYxem1VV0FIMWZvYkVjek5VczhoU1BrWkZIVVlWQ0VzSUctYVVtVjdHOTJfN2ZuNEd3Q0tlS3BQa2N0b1RhaVZKLUNsbFVDSDB0T1hQd0ZMM3pGNmh5MUdoQQ?oc=5",
-      "imageURL": null,
-      "category": "news"
     }
   ]
 }
