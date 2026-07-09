@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T16:22:10.485Z",
+  "updatedAt": "2026-07-09T18:15:10.583Z",
   "items": [
     {
       "id": "q11gk6",
@@ -10,6 +10,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR0Z6M2xWQmNNbmxwWVZORHRsMFhtX3plZWdXQzVsMUhCdWtvSlc4UjNCbDFzRHltRjRCVlFqZHR4ajUwa2RfUFRJQVdTNUV5R0VPV0swMHpLVTZ4d2k2UjhGSVVQa2FUY0tfRHlEa2xFT0RGUThCTm03Umt3Q2JKRVE0YzFiVExEbFFKSWs2YzRsRXJfN21RU1lHcEM4YWdTYmplLTV4UXlYMUhyU3c1ZDhhV1lkTFlU?oc=5",
       "imageURL": null,
       "category": "result"
+    },
+    {
+      "id": "ht5rsb",
+      "title": "Chuncheon 2026 Closes with Five Nations on Top in World Para Taekwondo Open Challenge",
+      "summary": "The Chuncheon 2026 World Para Taekwondo Open Challenge concluded on July 9 at the Songam Sports Town Air Dome in Chuncheon, Korea, closing two days of elite competition that once again highlighted the international expansion of Para Taekwondo. La entrada Chuncheon 2026 Closes wit",
+      "source": "MASTKD",
+      "publishedAt": "2026-07-09T15:17:07.000Z",
+      "url": "https://www.mastkd.com/2026/07/chuncheon-2026-closes-with-five-nations-on-top-in-world-para-taekwondo-open-challenge/",
+      "imageURL": "https://www.mastkd.com/wp-content/uploads/2026/07/Gold-medals-shared-on-final-day-of-Chuncheon-2026-World-Para-Taekwondo-Open-Challenge-2.png",
+      "category": "news"
     },
     {
       "id": "cwfi2p",
@@ -28,6 +38,16 @@
       "source": "Reddit r/taekwondo",
       "publishedAt": "2026-07-09T11:40:59.000Z",
       "url": "https://www.reddit.com/r/taekwondo/comments/1urnsvh/how_to_improve_in_kyorugi/",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
+      "id": "h8a52k",
+      "title": "Chalmette Athlete Wins Two Medals at Amateur Athletic Union National Taekwondo Championship - St Bernard Voice",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOamEzckVQNk1aTFNxYWNtLTQ1bmhJS2lZaHlJVm05Y2c1T1B0NFFMUllUdDg0ME1HTXFXbWM0NWFyNGRJdHFYeUs3QWtIUFAycW5ESXpxNVU4NkJaSlJJRU51UHNzWFpPWlB1RXBLUXJxWURnQVRrdVdJc2czUFJpSDFnbEdCR1U4T3R5c0tmVDBGdlk0QXllUlVUVFA2QmtOLVlJWHhWQ3l4S0",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-07-09T11:09:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOamEzckVQNk1aTFNxYWNtLTQ1bmhJS2lZaHlJVm05Y2c1T1B0NFFMUllUdDg0ME1HTXFXbWM0NWFyNGRJdHFYeUs3QWtIUFAycW5ESXpxNVU4NkJaSlJJRU51UHNzWFpPWlB1RXBLUXJxWURnQVRrdVdJc2czUFJpSDFnbEdCR1U4T3R5c0tmVDBGdlk0QXllUlVUVFA2QmtOLVlJWHhWQ3l4S0pyWW9FSWp5Sm0zOHB3U2lmM1ZDcVdJdm1GMFE?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -133,7 +153,7 @@
     },
     {
       "id": "mki96h",
-      "title": "VR and gaming are adding a kick to taekwondo - Jackson Hole News&Guide",
+      "title": "VR and gaming are adding a kick to taekwondo - JHNewsAndGuide.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQjNWQy1NNjRNbXQtZXZ1Ri1lZGpZbmE1bzJLNVEtWTRnTkFMOWNQdEU0NXBQOFcyRDc0eDhoMUV4TW5mN2dwMUkzQjA0UmJpWVBkYVFWeGJua0h3bV9RQnNPRXI2V0FvekhDODRmRFpWaDFNb1dEejZnbmxQMXMwcFNwREstY0ExMld2UGNYeXc1RE05bFp6R0tkaVEyM3ExYmNNaVYtcDU4VE",
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-07-08T06:00:00.000Z",
@@ -232,12 +252,12 @@
       "category": "result"
     },
     {
-      "id": "2v9u6y",
-      "title": "VR and gaming are adding a kick to taekwondo - Traverse City Record-Eagle",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUE8zUGpUbVlVcEFUUXkzM0Rqc2ZnQmxhLUhEN1dRYWdLNHBxN0xlZi1BSVdvdUs2WXVoRjZuTXpvaF9USWVNR001bnBVR2dVc0ZsNlhzT1Q2Y0JucFNLazhHamw2aGtYSmVZeXNLSHR3bWdvd3hLWmR5VlM0Wnc2ZThrblU0X3FCbmFLbzV3eDM1emNrY3A0UnF1VlB2SXB1aExlZHAxUzUzTH",
+      "id": "v6lrx0",
+      "title": "VR and gaming are adding a kick to taekwondo - Eagle-Tribune",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1F2RUdmTmJrVmlTR0k0NWR5UGxneWhNUVJXR043VDlvcGpPVjJaVEdVUERma3pLR0lDR2hnUUd4RXJmMHltR1ZiZmhZdGd0RllWYUxwMVpVRTZHTkJpV1kxTW1xeWJYblIzSVhNYnFRYlQtczR1Q2lJSUh6cEVVZlNpUlFWWVBUTmZpQlFkaG9FY1kwZXdKRzhaZFJ4Q2loSDF5cEx5cE5tdW",
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-07-07T09:32:10.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUE8zUGpUbVlVcEFUUXkzM0Rqc2ZnQmxhLUhEN1dRYWdLNHBxN0xlZi1BSVdvdUs2WXVoRjZuTXpvaF9USWVNR001bnBVR2dVc0ZsNlhzT1Q2Y0JucFNLazhHamw2aGtYSmVZeXNLSHR3bWdvd3hLWmR5VlM0Wnc2ZThrblU0X3FCbmFLbzV3eDM1emNrY3A0UnF1VlB2SXB1aExlZHAxUzUzTHNuajltQ0pXbDlpVXFTOVZnOU40YlJoTFV4RHVReS0tQ0dfbHhQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1F2RUdmTmJrVmlTR0k0NWR5UGxneWhNUVJXR043VDlvcGpPVjJaVEdVUERma3pLR0lDR2hnUUd4RXJmMHltR1ZiZmhZdGd0RllWYUxwMVpVRTZHTkJpV1kxTW1xeWJYblIzSVhNYnFRYlQtczR1Q2lJSUh6cEVVZlNpUlFWWVBUTmZpQlFkaG9FY1kwZXdKRzhaZFJ4Q2loSDF5cEx5cE5tdWozSlJKdkR2SUhSQ09SRUI5STdmY2VFNUF3RnRwNlhR?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -482,16 +502,6 @@
       "category": "news"
     },
     {
-      "id": "6b664m",
-      "title": "Togolese Foreign Minister Visits Kukkiwon to Strengthen Taekwondo Cooperation with South Korea",
-      "summary": "Robert Dussey returned to the World Taekwondo Headquarters during an official visit to Seoul and expressed Togo’s interest in expanding cultural exchanges with South Korea through Taekwondo. La entrada Togolese Foreign Minister Visits Kukkiwon to Strengthen Taekwondo Cooperation ",
-      "source": "MASTKD",
-      "publishedAt": "2026-07-03T14:03:58.000Z",
-      "url": "https://www.mastkd.com/2026/07/togolese-foreign-minister-visits-kukkiwon-to-strengthen-taekwondo-cooperation-with-south-korea/",
-      "imageURL": "https://www.mastkd.com/wp-content/uploads/2026/07/Togolese-Foreign-Minister-Visits-Kukkiwon-to-Strengthen-Taekwondo-Cooperation-with-South-Korea.png",
-      "category": "news"
-    },
-    {
       "id": "s2zdhi",
       "title": "Frisco Taekwondo America celebrates 10 years of teaching martial arts - Community Impact",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDBvbWh0eGpMeGNfMXZlZEZtUVViUTRDZmNVRngwRDJJd09GbFA1eG1lU3FoVE1LS0Y3UXEzR1BTbFRpaTJ2YVN3NnlYQW5hU1lJWGlyTjlNeHFtOWtzd1Q1X2cwLXhyb3BsdGc1WUR6bno4Zm1OX1hRQmx5d2ZUVTlzcU5yV3huOU50VWJCVDBjX1E2V0hmRTh3YU0zSGxyZS01cllYY2wwel",
@@ -552,16 +562,6 @@
       "category": "news"
     },
     {
-      "id": "7qkupy",
-      "title": "First Open Tournament Help",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello, </p> <p>In November I will go to my first Open Tournament which is hosted by the independent taekwondo organization in Germany. </p> <p>The ruleset here is closer to my roots in karate compared to the taekwondo WT ruleset because fists are",
-      "source": "Reddit r/taekwondo",
-      "publishedAt": "2026-07-01T05:53:57.000Z",
-      "url": "https://www.reddit.com/r/taekwondo/comments/1ukd52v/first_open_tournament_help/",
-      "imageURL": null,
-      "category": "news"
-    },
-    {
       "id": "qswf98",
       "title": "Kyrgyzstan’s taekwondo team wins 10 medals at Astana tournament - 24.KG",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNUDE4SDNwUURfTEd6QWNVR2ZzakFHOFBrMTlzV2RiVXRtd180SFpKRTc5aThKNFpBRjZ2ZmZrY3Q4SDZ0Z2dmc19xMlFGWnBuOHp3VGRTd1R0NFdONEZQZU9Jb2FRcERGRUFIaTBvYVZfc3FsWjA1dEEwQ3p0bTlyZE1UWGMyMU91WUV2VUJuS3FyZXRLaWNZ0gGcAUFVX3lxTE9jR0hhRXJCcW",
@@ -580,16 +580,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2s0dHBnQlNmc1NHWWNNUmVKbGZJVElISGp5XzZHRDRIRHdFTUg2bUl3UWU4NnlkYWVGRktGdXhRbHhyVmFPUi0xR1ZCY25IQnNsQURjLUdxcnI4Rnh2VVFTV2Z1eHNTSFhuNTNPbjZxdkhjdGZyckszanZwRVljVmdxdzItY0hQSVJZMWFDckt5a0dvcEpSeGxEbFB2Q05nQXVKZU5WbEhqTldsR3ZKcS1mZEhMMmZsSTRVY2VCaFo?oc=5",
       "imageURL": null,
       "category": "result"
-    },
-    {
-      "id": "f4pi3f",
-      "title": "Seminario Internacional de Poomsae y Freestyle reúne en Argentina a figuras del ranking mundial",
-      "summary": "Alex Siliezar, distinguido en los PATU Awards 2025 por su trabajo como entrenador de Poomsae, llegará al país acompañado por seis deportistas del seleccionado de Guatemala. La capacitación, dirigida a atletas y entrenadores, se realizará el 15 y 16 de agosto en la Ciudad Deportiv",
-      "source": "MASTKD",
-      "publishedAt": "2026-06-30T17:10:04.000Z",
-      "url": "https://www.mastkd.com/2026/06/seminario-internacional-de-poomsae-y-freestyle-reune-en-argentina-a-figuras-del-ranking-mundial/",
-      "imageURL": "https://www.mastkd.com/wp-content/uploads/2026/06/Alex-Siliezar-GUA-Poomsae.jpg",
-      "category": "news"
     },
     {
       "id": "3we819",
@@ -752,16 +742,6 @@
       "category": "result"
     },
     {
-      "id": "c9cvtn",
-      "title": "Class 8 Boy Bags Taekwondo Gold - Deccan Chronicle",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPV0ZKZmk5cHBqdHJrb3pBR2ZISmZ3WnFXMUNtdVZaMFk1RFpsVmwwdVI2bGpHc1JGZzhUeC1mOXhpN3JENWY0Rk5ZTzFlMDl4dlByYmhYbXlHaVVDSjdEaUo5T1F3YVVDU1NveFdOcHRWd2tLNDFIVzVxSGtObFJTZDdJcXVpTk9ZM2t3YmNhRUptSGVVOGhnWF8wNjZMUdIBowFBVV95cUxQa3",
-      "source": "Google News — taekwondo gold medal",
-      "publishedAt": "2026-06-19T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0ZKZmk5cHBqdHJrb3pBR2ZISmZ3WnFXMUNtdVZaMFk1RFpsVmwwdVI2bGpHc1JGZzhUeC1mOXhpN3JENWY0Rk5ZTzFlMDl4dlByYmhYbXlHaVVDSjdEaUo5T1F3YVVDU1NveFdOcHRWd2tLNDFIVzVxSGtObFJTZDdJcXVpTk9ZM2t3YmNhRUptSGVVOGhnWF8wNjZMUdIBowFBVV95cUxQa3RlX2h5c0ZrbkcxNkJfMnh5cmhCSWdwU2ppZHJFYjNUcFhKeFZnTks0cXBMT3lPaElpeVQ5dmpYQWZQWXY2S3RxTHFGOUZ0dHFuT0RVN25Dalh6bTNLVnNhT19VWVdiMkhPclRPbGJoLTJYeVJIZXVTWG85ZGFyV0VUZjNJMmxYUHQ4QU5FWGpiMllyQTFtMWxuaWpUSUJNWmpN?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
       "id": "mx6dyb",
       "title": "Virtual Taekwondo Added to Aichi-Nagoya 2026 Asian Games Programme - MASTKD",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPNy0zRlRDVmVzNDllVE14VWpOeUJZalZMQWoxeWIxZUNFcmY2UnhhSkprT0ZOb0NqenVTTlZ6RXFXR2tCTG1CTUxPM3hna3VHU3cta3N3b3JYYTFBTWd5VDNSSDZ4eTZBbDNNcGpOSXpONlk4MVM3akQteUpGOFNBNUZwMHRFdmNCb0V3NC1vQ3ZiblhxaTUwaU1HOE8tOW8?oc=5\" target=\"",
@@ -846,7 +826,7 @@
       "title": "3 Fontana siblings ready to fight in national taekwondo championships - San Bernardino Sun",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdU5hbl9xcGp3ZVNJRV9yREtUMVdwUzVsVnlkWGtxa3hpSWVmZF9GMlc4cURDbjNVcktVQ2dOcHFZNnU0OE9GUDFBQ29rWExLU3h4UVg0RnhvTU1rNXBwdVF5cmxJLUZsYzJWMUROeThPa0s4NnhFR21sMy1PekVMb1JyX0I5ODAybUp1b1dsMmFyZmZ2Zk4tZmxESlM4bUdMVGljQUdn?oc=5\"",
       "source": "Google News — taekwondo (general)",
-      "publishedAt": "2026-06-12T01:02:37.000Z",
+      "publishedAt": "2026-06-11T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdU5hbl9xcGp3ZVNJRV9yREtUMVdwUzVsVnlkWGtxa3hpSWVmZF9GMlc4cURDbjNVcktVQ2dOcHFZNnU0OE9GUDFBQ29rWExLU3h4UVg0RnhvTU1rNXBwdVF5cmxJLUZsYzJWMUROeThPa0s4NnhFR21sMy1PekVMb1JyX0I5ODAybUp1b1dsMmFyZmZ2Zk4tZmxESlM4bUdMVGljQUdn?oc=5",
       "imageURL": null,
       "category": "news"
@@ -938,16 +918,6 @@
       "source": "Google News — World Taekwondo federation",
       "publishedAt": "2026-06-08T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb19feno4aHFLb1RkT3c3SndnYmRBRzFoc0xuWXQ2OHZnSmladXY2YzdFM2kxb0V1SlRtY1dSNUZrZVVmT1lmbE9JR0V0b0RQM3JDY0FlM0w1cHBMdERyMzM3OGowNGJackNvZ0JONHFBWDJDaWpvQWpNc19vZ29DR3JUckpzTktBTXdJRXhSMEVmbGwyRmfSAaoBQVVfeXFMUERMcENQd2x4aWFHbGVhTVQ3a2wyQ3pKVFE1T0lGdWJQUGNBMjdvOGVWUnN6WDM4VHMybDY1NFNmV1hPcWVoUi1oQ3pJNWVYOVhrNU9LWWtTRnVSTkZPLWpEdGw5eWlFZDJGR1Z2emhodXM1dUlBMnRsMVJJWE5xZ1hoeTFEM0ZwenhTaFNwNEpfbUJENU5aMERpaE5TX1RmVjFiSnd6TjhaR1E?oc=5",
-      "imageURL": null,
-      "category": "news"
-    },
-    {
-      "id": "k4fjsk",
-      "title": "Fort Sill youth Taekwondo class builds confidence, discipline and community - army.mil",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxONk1lRk9DeHJBYnlMOVNlMXQwQTR0X2VWRDRYb3MtWG9ja3RmaW4xU0F5LWZKWGlBU1JZZ1Q4clBfV2hLaUo5MzM0WXBGSndWTF9tTVlLbklFY0NRUVpDUHdHV0pmZW1VaTh6TkhiVWVtUnYwU2tBX3JrN2hxQ1NmaVdtb052ODVVbkZFdk5PSmxPSWVGY0RMSVlzTlRib1hVM3NvMjhybTNYXz",
-      "source": "Google News — taekwondo (general)",
-      "publishedAt": "2026-06-08T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONk1lRk9DeHJBYnlMOVNlMXQwQTR0X2VWRDRYb3MtWG9ja3RmaW4xU0F5LWZKWGlBU1JZZ1Q4clBfV2hLaUo5MzM0WXBGSndWTF9tTVlLbklFY0NRUVpDUHdHV0pmZW1VaTh6TkhiVWVtUnYwU2tBX3JrN2hxQ1NmaVdtb052ODVVbkZFdk5PSmxPSWVGY0RMSVlzTlRib1hVM3NvMjhybTNYXzlkNkgw0gG0AUFVX3lxTFBVSHNlcjBVUFlxeTZYYmh6OVRTLVRqUU9wTUNrSk1JVVVvaGZId1R2VWdZMWJwd3Z6cTZlQkhSc01hc2ZkRDBCUHU4Y3lfYlpuV282d29YMVp6QlJUTy1MMUpkWDlKZy1SNGwtZGJYRzlIZ2hNcDByby1GU1RwR3pRa0w5T3RvVXFBb05UODRVdTRueXNnNVN3UWVxNEVQWHF5cV9CVWY0UTQ3QzBoaWlMN09Nag?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -1952,6 +1922,16 @@
       "category": "result"
     },
     {
+      "id": "x42bw2",
+      "title": "Belarus’ Yuliya Vitko wins European taekwondo gold - Belarus.by",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQVU1lVGxRdnRYc25DaVo4OFQtVlQ1STZLcVZjVVFiaGVRMjZIRzVnLU5OdUQ3LWdlNzdjbGthLXNNOUM5SnlBX1JITmNKdUZhNHpILXljMkQyNmZnSHhhak50SVlpa2NubDBZNUZfeUFhdURpTjV5TVhVR1VydWF2ZWRibWRmbzFOVFZkOVNNNGxIVE1wSXhHNVo5YnZpQ01VTWZxallaNm9ZUG",
+      "source": "Google News — taekwondo gold medal",
+      "publishedAt": "2026-05-13T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVU1lVGxRdnRYc25DaVo4OFQtVlQ1STZLcVZjVVFiaGVRMjZIRzVnLU5OdUQ3LWdlNzdjbGthLXNNOUM5SnlBX1JITmNKdUZhNHpILXljMkQyNmZnSHhhak50SVlpa2NubDBZNUZfeUFhdURpTjV5TVhVR1VydWF2ZWRibWRmbzFOVFZkOVNNNGxIVE1wSXhHNVo5YnZpQ01VTWZxallaNm9ZUGdobEFiTXB2UlZJZFE?oc=5",
+      "imageURL": null,
+      "category": "result"
+    },
+    {
       "id": "8r9nn7",
       "title": "World Taekwondo cuts carbon footprint by 23% - Inside The Games",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbEppRlRPLUVsVC1JM0tON1p3VW1MYjhoZC11Q19yRHB6OUd2Z3NObzFmTHNUcVFSUzNBS1JnYjl1Y0tMMUllelJORm9OcFV0clFWRjNfeGo1UXdfMHVpaFRHcHpiNlFsUHdPQkF4eEFJNGVLd2JLejg0bWhYN0VZWktCcTNLdENGMGww?oc=5\" target=\"_blank\">World Taekwondo cut",
@@ -1998,6 +1978,26 @@
       "source": "Google News — taekwondo champion",
       "publishedAt": "2026-05-12T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeDVWeUNpanVaYlRacTV2NlEtbEl0d0oxMVdhMDBkc2dCbkwtdzhsUXp0dmtpSm9PejJJR2RzNHNzVHhkY0VMdk56a1ZUWGJLQm5iLUllU2VUX3dtMlNITndrNEJCN0llLXdGaW11Rnd4NTVwODI5WGZXT2YzNy1SOW05SXhUcEpsSGdlZzRGdUNkdUFvS1R6WFNxU3kyMG5Hd3BRT0Y0TXJYUVZCelRWMA?oc=5",
+      "imageURL": null,
+      "category": "result"
+    },
+    {
+      "id": "a4hjca",
+      "title": "Ana Japaridze wins Gold at European Para Taekwondo Championship - 1TV.GE",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQeDJFQWJlTkt2cG5Pdm9PX0l6ZDYyaVZVa0gwd0p3bFBCcnVYdU5NUVRJd2lzb1lBYXZOZG5ra08wZHhxanFXcDNsSlNXR3FRMVlLZDRaaWtiSnFjNHh6YTVQSHk3akZUNW14dHJra3hvdjg3WmNuTEhqUnJFanNMU2VDcVBSdFZpMmxUXzMxUEVEd1FqVXYw?oc=5\" target=\"_blank\">Ana",
+      "source": "Google News — taekwondo preview / upcoming",
+      "publishedAt": "2026-05-12T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeDJFQWJlTkt2cG5Pdm9PX0l6ZDYyaVZVa0gwd0p3bFBCcnVYdU5NUVRJd2lzb1lBYXZOZG5ra08wZHhxanFXcDNsSlNXR3FRMVlLZDRaaWtiSnFjNHh6YTVQSHk3akZUNW14dHJra3hvdjg3WmNuTEhqUnJFanNMU2VDcVBSdFZpMmxUXzMxUEVEd1FqVXYw?oc=5",
+      "imageURL": null,
+      "category": "upcoming"
+    },
+    {
+      "id": "fh8ux1",
+      "title": "From a refugee camp to the World Taekwondo Grand Prix - Vatican News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPM1dnSklJakFVT2Z6blZnLU1YQ1FHMTdNZlg3V0haOVlIeHB3ZUFqQUluTEpOUFM0bzZRUExaZkZaR2pPWHM0YmZlYV91bnBveV9lZ2RqXzJfdU1GcXpMUlkydTdPd0VFYnc2OWVfSWs0Rjh2ODhZb2l6MVdXUkc4TXhiOE5NQU9zSXI1c0VRN3lCbC1qWUxiQWY3a25UZ0YxTEJZVWYxX01SeT",
+      "source": "Google News — Taekwondo Grand Prix",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM1dnSklJakFVT2Z6blZnLU1YQ1FHMTdNZlg3V0haOVlIeHB3ZUFqQUluTEpOUFM0bzZRUExaZkZaR2pPWHM0YmZlYV91bnBveV9lZ2RqXzJfdU1GcXpMUlkydTdPd0VFYnc2OWVfSWs0Rjh2ODhZb2l6MVdXUkc4TXhiOE5NQU9zSXI1c0VRN3lCbC1qWUxiQWY3a25UZ0YxTEJZVWYxX01SeTA0SFJUeGdn?oc=5",
       "imageURL": null,
       "category": "result"
     }
