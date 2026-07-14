@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T22:29:20.141Z",
+  "updatedAt": "2026-07-14T23:25:07.910Z",
   "items": [
     {
       "id": "t9ed65",
@@ -10,6 +10,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQckxLdWU3cWZKUjhPZHh1cGJNeW1nQ29salBKUDdmVFprR1JmZmd0OTQ4WEtRQU1PbzJHOTk1ZHFtSi1XTTk4R1NuN1N5MG1SVTJDb2JkTl8yQ2hIdThTSG1YT3NZMndfY3ZYN1A1YThjdEpSWkhNUEZseUhKMXR3ZjliTWtKam1PMzlScEx4VjhZRzc5N3Vja0JZa2R6UQ?oc=5",
       "imageURL": null,
       "category": "result"
+    },
+    {
+      "id": "3pg9yv",
+      "title": "19th Governor’s Taekwondo Cup 2026 UTA dominate in Cadet boys’ competition on Day 4 - The Sangai Express",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSlo0anNWODM5eFFDdUdSUDM2WXZHblJtMlJDTi01ZWZYTU83Z2hsOUNGUUwwNDdrTUk5Y3RhTUVabEtWUm5NUEQzUVJMYk0tTkJNaDlVU01FcmtvOXRzNUViTVhUWFRyLXlQNlNCU2J5RHlEOURIcTdzaHh6bFc5Q0VQcU1QeDVkYmhxVHN4LXFSZVlPM2ZQbTZ6VVhtd1JNalpGUXdUN2xNMj",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-07-14T18:23:24.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSlo0anNWODM5eFFDdUdSUDM2WXZHblJtMlJDTi01ZWZYTU83Z2hsOUNGUUwwNDdrTUk5Y3RhTUVabEtWUm5NUEQzUVJMYk0tTkJNaDlVU01FcmtvOXRzNUViTVhUWFRyLXlQNlNCU2J5RHlEOURIcTdzaHh6bFc5Q0VQcU1QeDVkYmhxVHN4LXFSZVlPM2ZQbTZ6VVhtd1JNalpGUXdUN2xNMjVzN2hIUnh6NlVHRUFWMTdxdjRjaVdGOEZwSk1ZMmRUZFVHemhkSE1TY19aM3VhZVE0TkxTa2tDalo4MEVwNEZKb0xHZWtMdWI0cC0w?oc=5",
+      "imageURL": null,
+      "category": "news"
     },
     {
       "id": "u42bes",
@@ -78,16 +88,6 @@
       "source": "Google News — World Taekwondo federation",
       "publishedAt": "2026-07-14T11:36:02.000Z",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hNW5hVXdwUHIxRE5kMzBTc0w2eFZETldDSmZsWFVFdXlpcENVZmM1R3hSWGpzVTJ0ZVRQVnRMNXhFaUtzdk1jRVZ3dGpvcU1vZ3NEV3Vtcy11M0RPRUJydFVPYng?oc=5",
-      "imageURL": null,
-      "category": "news"
-    },
-    {
-      "id": "70dt6y",
-      "title": "Luton & Dunstable Taekwondo students shine on the world stage - Luton Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdWpkZjhHMVJLZ05Mb3k1VFZ1ZXV1bFJITS1nZHBpek04eTEzdzZ3N3lDZGx4T25hSjdpOWQwbUkwTTNrSHdlZzVsV1FtWndpZ0FURGtIS0VvQ05zLVFLZUlyYm1ITjljWXVxNmpYUUZYNDExNnJYdndJNUNqOWJTVXJYN2ZRREFXQ2t4TkpZY0R6YU5Rb0J2bktkdXRFTDhiRXNvcGNSY2RfY2",
-      "source": "Google News — taekwondo (general)",
-      "publishedAt": "2026-07-14T09:36:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdWpkZjhHMVJLZ05Mb3k1VFZ1ZXV1bFJITS1nZHBpek04eTEzdzZ3N3lDZGx4T25hSjdpOWQwbUkwTTNrSHdlZzVsV1FtWndpZ0FURGtIS0VvQ05zLVFLZUlyYm1ITjljWXVxNmpYUUZYNDExNnJYdndJNUNqOWJTVXJYN2ZRREFXQ2t4TkpZY0R6YU5Rb0J2bktkdXRFTDhiRXNvcGNSY2RfY28?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -352,12 +352,12 @@
       "category": "news"
     },
     {
-      "id": "tpq9z6",
+      "id": "zez1rx",
       "title": "Malaysia Virtual Taekwondo - timesdaily.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUVEXzMtZFFZUEs3VTFQcnEwWlotVHhCWnhNYTU1WEluLVR5azBrN0JGWE1OUGlCa0ExclA4S0hRYUQ4d2c1ZkRCejdFTnRYVWVEd0xHUW1yM0k1MVlFaTBRcmczM2t1TTZEbldhOTUzQVJKMWgwZ2hzdWhEQTM0QXVvdnRDY2J2bm9zZTRUUU1QdlpnSFJ6ZVU4UDloMHlJZnQw?oc=5\" tar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdm1iWTZQY2VVanlyY3hvN1l0anlHanJCb3QyNkdYZkZJdTZvbGpSYVl1VTFJcU1jRkVxdER1WkFpU3FRVzRUaFd0OEZKUlZFbWZoNDB1WkQtNmN5MmVWd1FhVjUzXzVRX2N4OVEzZDZONl90VzBJclFoeWw3cTVuYlAzb2hVNjE5SFB6bkdMelJLT1ZhQWFHVzJBc25LS1hBY0tj?oc=5\" tar",
       "source": "Google News — taekwondo (general)",
-      "publishedAt": "2026-07-08T14:34:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUVEXzMtZFFZUEs3VTFQcnEwWlotVHhCWnhNYTU1WEluLVR5azBrN0JGWE1OUGlCa0ExclA4S0hRYUQ4d2c1ZkRCejdFTnRYVWVEd0xHUW1yM0k1MVlFaTBRcmczM2t1TTZEbldhOTUzQVJKMWgwZ2hzdWhEQTM0QXVvdnRDY2J2bm9zZTRUUU1QdlpnSFJ6ZVU4UDloMHlJZnQw?oc=5",
+      "publishedAt": "2026-07-08T14:36:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdm1iWTZQY2VVanlyY3hvN1l0anlHanJCb3QyNkdYZkZJdTZvbGpSYVl1VTFJcU1jRkVxdER1WkFpU3FRVzRUaFd0OEZKUlZFbWZoNDB1WkQtNmN5MmVWd1FhVjUzXzVRX2N4OVEzZDZONl90VzBJclFoeWw3cTVuYlAzb2hVNjE5SFB6bkdMelJLT1ZhQWFHVzJBc25LS1hBY0tj?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -1962,12 +1962,12 @@
       "category": "upcoming"
     },
     {
-      "id": "fuj05e",
+      "id": "1881wz",
       "title": "Key MVPSF Kyorugi, Poomsae meets slated - Philstar.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNYjJWR1RkYXFuWFBuQXlqUUVIczhJUmNBR3FMdURlLUxPc0hORzZkcEZxcUFmOGFlaWt4YURiVXQtb3NfcXJXZTdpTGlmNlhCeGlDSmxMWVpoYzQtbnh0Yk1sdXB4b25teERMNUJqTGNUQ2hkbl9WT1ZDQ04zbjhRdUF4Q1U3QmF5eXM3Vl81ME00YVXSAZoBQVVfeXFMTjRncXRBUjJla09kZS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjU1MzQwdjE0YzBrSi1Vbi1yd0p1OGx6aUxUMTQwRDFsVzBPX2tPZnplUUR6WGdOM3YwN2R2NnY5LXRTY3F2R2MzT1YtNEdHODNTdlZ5LUZRVnl4bzloU2YyVGxVUVdIWnV3bkdZY21Fa1RrQnN3ck5oOE8wQmlkUW1Ta1BuY0RLX0dfNVpzRU9USEnSAZoBQVVfeXFMT0hWdUlHWGpFSEFWM1",
       "source": "Google News — kyorugi",
       "publishedAt": "2026-05-14T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYjJWR1RkYXFuWFBuQXlqUUVIczhJUmNBR3FMdURlLUxPc0hORzZkcEZxcUFmOGFlaWt4YURiVXQtb3NfcXJXZTdpTGlmNlhCeGlDSmxMWVpoYzQtbnh0Yk1sdXB4b25teERMNUJqTGNUQ2hkbl9WT1ZDQ04zbjhRdUF4Q1U3QmF5eXM3Vl81ME00YVXSAZoBQVVfeXFMTjRncXRBUjJla09kZS14bll3MEZuM1FXcWJZaXlfeFNabGtYZmhNR0Jjc1lWVVhBUnM3UFZ2dTY4Q3R4akR4NzZWWElGMGhtTUl6RkZwVW9mWnoxTXVWRkNWRHBSZmdvNm9MRkJuMjVTVTJ1U2ZuZk05RVB0a3UzSW43WUVieng5Z1RseHgwNkJKOG1KNE01ZktzQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjU1MzQwdjE0YzBrSi1Vbi1yd0p1OGx6aUxUMTQwRDFsVzBPX2tPZnplUUR6WGdOM3YwN2R2NnY5LXRTY3F2R2MzT1YtNEdHODNTdlZ5LUZRVnl4bzloU2YyVGxVUVdIWnV3bkdZY21Fa1RrQnN3ck5oOE8wQmlkUW1Ta1BuY0RLX0dfNVpzRU9USEnSAZoBQVVfeXFMT0hWdUlHWGpFSEFWM1FrX29CcmtneHcyVjVmdElCU1RJY2RIaTZKNno5U0hQeGZ6YW85dVZXVDZjUzBiMklOQ3ExaUpaaHp0eUZnbU9WUGpmVDRqYURfTUt0SVZiSmdCbm1VcGgyeHJGdHdwYzlXSWlyTDlBWkxqQXlCNEtFVEpfdm42aFl6Qk1tSEl4eV9xTkxqQQ?oc=5",
       "imageURL": null,
       "category": "news"
     },
