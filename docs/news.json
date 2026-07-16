@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T22:51:07.939Z",
+  "updatedAt": "2026-07-16T23:50:05.483Z",
   "items": [
     {
       "id": "r4xlp",
@@ -102,6 +102,16 @@
       "category": "result"
     },
     {
+      "id": "tfr7oe",
+      "title": "Bakhtiari Secures Bronze at World Taekwondo Championships; Iran Concludes Event with Three Medals - Taekwondo.ir",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE80ZjFlRll2dFpLeVN6NXpFTVBkSkNzeHcxdlVCWnJtOEc2ekxPbHlSMlhrVW9kTjhCVjVLdW11V3hFY2Z2bHItbi0xaDF3bzVPT2RfQ2JxYzdNMl9wd0kzVTJXQ0xiYlZE?oc=5\" target=\"_blank\">Bakhtiari Secures Bronze at World Taekwondo Championships; Iran Con",
+      "source": "Google News — World Taekwondo Championships",
+      "publishedAt": "2026-07-16T11:01:27.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80ZjFlRll2dFpLeVN6NXpFTVBkSkNzeHcxdlVCWnJtOEc2ekxPbHlSMlhrVW9kTjhCVjVLdW11V3hFY2Z2bHItbi0xaDF3bzVPT2RfQ2JxYzdNMl9wd0kzVTJXQ0xiYlZE?oc=5",
+      "imageURL": null,
+      "category": "result"
+    },
+    {
       "id": "c1vg3o",
       "title": "Iran urges incorporation of Poomsae in Hangzhou 2022 Asian Games - Taekwondo.ir",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZeFRJdnNhX2ZmOEJoSHViUHY3bXh4UnQxYmVaZ2lOQ1RtTHhLay1EdkFqa1RTMVpmTFNETHpoUlBQeEt2dkc0Vk9lTnVCbHFQUUthaENrUnhGR3pJdVZ0aFhUakVzX0V2?oc=5\" target=\"_blank\">Iran urges incorporation of Poomsae in Hangzhou 2022 Asian Games</a",
@@ -152,16 +162,6 @@
       "category": "news"
     },
     {
-      "id": "39dnxo",
-      "title": "Bakhtiari Secures Bronze at World Taekwondo Championships; Iran Concludes Event with Three Medals - Taekwondo.ir",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE56blhaUU5fWFR5dUpFMGxGSW1IamRTck1sSkxwUjFIUUh4R1FPWWlOZldDNXAzVUp5WXlnV190d0hwT1hzQ1NONWI5bXZCNnVMbkE0OGx6WWNTZEMwb1BsZ3Bnd1hKZ0Ey?oc=5\" target=\"_blank\">Bakhtiari Secures Bronze at World Taekwondo Championships; Iran Con",
-      "source": "Google News — World Taekwondo Championships",
-      "publishedAt": "2026-07-15T19:01:23.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56blhaUU5fWFR5dUpFMGxGSW1IamRTck1sSkxwUjFIUUh4R1FPWWlOZldDNXAzVUp5WXlnV190d0hwT1hzQ1NONWI5bXZCNnVMbkE0OGx6WWNTZEMwb1BsZ3Bnd1hKZ0Ey?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
       "id": "z9xlc7",
       "title": "How to Map the Constraints-led Approach (CLA) to Taekwondo [Coach Resource]",
       "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jookami\"> /u/jookami </a> <br/> <span><a href=\"https://www.combatlearning.com/p/map-cla-taekwondo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/taekwondo/comments/1uxe723/how_to_map_the_constraintsle",
@@ -203,7 +203,7 @@
     },
     {
       "id": "zbgkz9",
-      "title": "VR and gaming are adding a kick to taekwondo - bostonherald.com",
+      "title": "VR and gaming are adding a kick to taekwondo - Boston Herald",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9KQm9LNjhoaUZWaW1tX0pQUFM5bnpwSjNtNF95Mmx1UXY5TXBoVlRBVk5pWURwLWdKNDZlNzJqS2ZIX2pTM1ZxXy1MSFo3ZU9idEFRWU1QMXRYWm1qMjlfMTNjY3NSdTdWMFR2SkljMk1oTFU0Q1E?oc=5\" target=\"_blank\">VR and gaming are adding a kick to taekwondo</a>",
       "source": "Google News — taekwondo gold medal",
       "publishedAt": "2026-07-15T14:31:02.000Z",
@@ -772,16 +772,6 @@
       "category": "news"
     },
     {
-      "id": "2rffhd",
-      "title": "Region taekwondo teacher reaches legendary heights - Riverside-Brookfield Landmark",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQeGdSbEE1M3Fsd2dZMkRjYWlwR1NnR2FPLWVvTk9ZMWljVFkwdG1pbGxPUlNWTkFiSVhKQ2J3ZnhmR1BPYW5laG42ejFHRzYzM2lwT0phNVFXd2FwQS1ya0hJb2xUMFktNFpkeUs4QkJPZ0lPd2tEMno5TEt0cUFuVE5EdnQ0NGZRc2c?oc=5\" target=\"_blank\">Region taekwondo tea",
-      "source": "Google News — taekwondo (general)",
-      "publishedAt": "2026-07-07T21:17:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeGdSbEE1M3Fsd2dZMkRjYWlwR1NnR2FPLWVvTk9ZMWljVFkwdG1pbGxPUlNWTkFiSVhKQ2J3ZnhmR1BPYW5laG42ejFHRzYzM2lwT0phNVFXd2FwQS1ya0hJb2xUMFktNFpkeUs4QkJPZ0lPd2tEMno5TEt0cUFuVE5EdnQ0NGZRc2c?oc=5",
-      "imageURL": null,
-      "category": "news"
-    },
-    {
       "id": "jqrxs7",
       "title": "Kyung Hee University Taekwondo Poomsae Team Wins Women’s Title at 2026 Daegu World University Taekwondo Festival",
       "summary": "Kyung Hee University’s Taekwondo Poomsae Team took the women’s title at the 2026 Daegu World University Taekwondo Festival, adding another major international achievement to its record. La entrada Kyung Hee University Taekwondo Poomsae Team Wins Women’s Title at 2026 Daegu World ",
@@ -900,6 +890,16 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0FUZUJuUFpXVF9KdzJ4MUZrS1Eyc2xFSFd4RVhiUXNKU01zdl9nR1ZNa3ZzLUNFa2MzSkNPX1JxVmVodDlObkk1U3ExX3loNmdYMDRhVTQzOHdjQkQ3Q3RGN2xYTzNFZGhfd0pVMTN1RVNaa1VOMy1Eam1WWVRCR1Q4T0tyU29GbHdXTFN2cWJCajQ?oc=5",
       "imageURL": null,
       "category": "news"
+    },
+    {
+      "id": "b0e7mc",
+      "title": "Licensable picture: Taekwondo - Men -80kg Gold Medal Contest - reutersconnect.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxPaDN5MThMMjA4WWs3R0lESHlCR2VqWTU1VmRVeWJLVm1zcVBONWNEWE1odktBNzBGX09uaVlvdnl0enJmenBsclpadVJxNjlIYVRCa1dMSGYySG5uSnc2cE54b3RVY2k4dzZTT2d1eWt2TG5Oc01KVHpUSjI4cnZzejEyRk0yYXFIeHlmclZJak0yc0s4UUxPdlZBWnc1ZDctcmhZenJYZTlaRU",
+      "source": "Google News — taekwondo gold medal",
+      "publishedAt": "2026-07-04T16:49:45.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPaDN5MThMMjA4WWs3R0lESHlCR2VqWTU1VmRVeWJLVm1zcVBONWNEWE1odktBNzBGX09uaVlvdnl0enJmenBsclpadVJxNjlIYVRCa1dMSGYySG5uSnc2cE54b3RVY2k4dzZTT2d1eWt2TG5Oc01KVHpUSjI4cnZzejEyRk0yYXFIeHlmclZJak0yc0s4UUxPdlZBWnc1ZDctcmhZenJYZTlaRUtLaE0yVV9wSUxaTlhMV3E3Skl2ZFp0Z3hVLVgwTWRwaW9sekhRb0h5U2pieGxSTlJta1hzOEs4REF2V1VrSVJjSjFJM1hVczdTR2MxOUg2T0pUS1haX2g5ODJWeDAxaUlUTmp3Tmd0RXJSeER0dU14MW51aUNpS1RTUjctdUlsMDZudGdh?oc=5",
+      "imageURL": null,
+      "category": "result"
     },
     {
       "id": "lpphtf",
@@ -1882,16 +1882,6 @@
       "category": "news"
     },
     {
-      "id": "4zvgzu",
-      "title": "Taiwan's Liu You-yun wins women's flyweight silver at Asian taekwondo event - Focus Taiwan",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fclFtWlhuZkFhU3lQVEdhRTRKZV82T24yRkxWVC05dEF2akE5ZjZyYXZWRGtZeVlXYWp0T2E4b2xZbTFjN05ZbDdGb0lSa2RWd1FxTA?oc=5\" target=\"_blank\">Taiwan's Liu You-yun wins women's flyweight silver at Asian taekwondo event</a> <font color=\"",
-      "source": "Google News — World Taekwondo Championships",
-      "publishedAt": "2026-05-22T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fclFtWlhuZkFhU3lQVEdhRTRKZV82T24yRkxWVC05dEF2akE5ZjZyYXZWRGtZeVlXYWp0T2E4b2xZbTFjN05ZbDdGb0lSa2RWd1FxTA?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
       "id": "dj1r2g",
       "title": "Virtual taekwondo likely for Japan Asian Games with VR debut - 조선일보",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOaEtFWjdxSzlPdk54WlpnamxWT1ZJWEd1YkJzMFY0azRCbGlxU0p3eWxOVk1qZVQxWGRNVWsxTHYtaWZZYVd1ZVdIUEtxUlR2LXlad0F4WHltZktkcFJ4bkI2c2cwbDNNMGJxWUZPejU5UjVKOE1TNlE3WkJ4QWdLZzlDMW13Zw?oc=5\" target=\"_blank\">Virtual taekwondo likely ",
@@ -1948,6 +1938,16 @@
       "source": "Google News — taekwondo gold medal",
       "publishedAt": "2026-05-22T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XcDBlc3NmX0w4MU51ekJtZDhRYnFsazUydUZXTG1PNTV2VGtHSnpuWDhnVE9jb3RHcENSVlU1aXg1Qm1ibHVUQ1R0LWt2MFJSNmppMXlSaXlmUTZIYklVWWYzN1hua1czU2Jqc3ZNYThQYmdDeUtYMQ?oc=5",
+      "imageURL": null,
+      "category": "result"
+    },
+    {
+      "id": "4zvgzu",
+      "title": "Taiwan's Liu You-yun wins women's flyweight silver at Asian taekwondo event - Focus Taiwan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fclFtWlhuZkFhU3lQVEdhRTRKZV82T24yRkxWVC05dEF2akE5ZjZyYXZWRGtZeVlXYWp0T2E4b2xZbTFjN05ZbDdGb0lSa2RWd1FxTA?oc=5\" target=\"_blank\">Taiwan's Liu You-yun wins women's flyweight silver at Asian taekwondo event</a> <font color=\"",
+      "source": "Google News — taekwondo gold medal",
+      "publishedAt": "2026-05-22T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fclFtWlhuZkFhU3lQVEdhRTRKZV82T24yRkxWVC05dEF2akE5ZjZyYXZWRGtZeVlXYWp0T2E4b2xZbTFjN05ZbDdGb0lSa2RWd1FxTA?oc=5",
       "imageURL": null,
       "category": "result"
     },
