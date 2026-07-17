@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T16:59:46.027Z",
+  "updatedAt": "2026-07-17T18:07:03.071Z",
   "items": [
     {
       "id": "rei3xu",
@@ -8,6 +8,16 @@
       "source": "Google News — Olympic taekwondo",
       "publishedAt": "2026-07-17T16:51:58.000Z",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZS02UUx2TUhqNkhlTkNpbDYyVXE4Q09Ud1VRaEJjc2JocE8tZXVTSkdEZndFblpvRzl1dktSNERWbW9WNHV3NV83eTRaa0dTR1ZtNEpPR1pKdnBDRHJUVjlKREM5YXBCRUtxaGZnVlNORnVieDdvRER3OTB1SDN3dmFPYmZLajFvdUtr?oc=5",
+      "imageURL": null,
+      "category": "result"
+    },
+    {
+      "id": "vwu38s",
+      "title": "VR and gaming are adding a kick to taekwondo - ABC News - Breaking News, Latest News and Videos",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQczljTUZQVHd6RVNRNHlmVXB6YUkzTHZ2V2JpME9xVlNxRUFOT09VMEVRT3JNZnp6MVdsczJqU1NkZS1vd3pST1QwZU5YYnY1OHRJQW1PUlZjY1RqaXFKYjdMbWxLaUlnQ3BrZ0ZUM2I4RzhFNXR1bVlvdzdfUTBDZWtGajhiUFBNemZNOWkyVWJ0czZTLTQ4WURJWnF2d9IBowFBVV95cUxQWn",
+      "source": "Google News — Asian Games taekwondo",
+      "publishedAt": "2026-07-17T15:28:35.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczljTUZQVHd6RVNRNHlmVXB6YUkzTHZ2V2JpME9xVlNxRUFOT09VMEVRT3JNZnp6MVdsczJqU1NkZS1vd3pST1QwZU5YYnY1OHRJQW1PUlZjY1RqaXFKYjdMbWxLaUlnQ3BrZ0ZUM2I4RzhFNXR1bVlvdzdfUTBDZWtGajhiUFBNemZNOWkyVWJ0czZTLTQ4WURJWnF2d9IBowFBVV95cUxQWnBQYWlINE9oX1NOY191UFZHZ2ZnMjJpeXBnN2VrS21kczVFc1BRVWNQMG04cHloMlhkS0dvMkFSalZ3WHNBQWJLaVNIZzV3ZmowTXR0dEY5SVkwRkdlOTF0cDNtX05HUVNjelhEZHR0MjU1NUN6YmowYnhNRXBrOC1ZQWZBT2lVV0pweHhUWXktREttdXlNaXVHT0RRQ1BldzFZ?oc=5",
       "imageURL": null,
       "category": "result"
     },
@@ -102,12 +112,12 @@
       "category": "result"
     },
     {
-      "id": "jl5mr",
+      "id": "2ulbpy",
       "title": "Young & old get a kick out of Goddard intergenerational taekwondo class - KSN-TV",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWZrellRRE9LdTR4cUdyaTkxak9SVmd4TjVIY184MUhUbmxydXIzaHhoUlZwb2RjajJWclppLS0yUkpBTms5cUlwNFhObjV6a3NmUjJieDlDcnpTYzRFeUhxSlVmZDBzbzBGZzdlVEJrcEtmQjhmOVZVUHFqUUdOY0JsMDZES0wtczRqTlVreld5QjlkOXYwV19LRdIBoAFBVV95cUxPN0cyS3",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSTNoTXNWdEVCZDljcU83QjRHSzd0dU5objY4S1AxU1BNNEY2d3V1SmVUUGhyX18xMEplaWR5WHV0S0tyaWVQVmZCSlNESDk5ZkVHdGZsdWMwVXhmMHUyVXB6NXVWVnJrN05pYU5fNWhNRmktdE1WNmhVWC1JSFJEdWt0dHdBdllGOVVUclJRODdhZDFBOVd5emN2TGJjTUpPYlZ30gGoAUFVX3",
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-07-16T22:46:36.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWZrellRRE9LdTR4cUdyaTkxak9SVmd4TjVIY184MUhUbmxydXIzaHhoUlZwb2RjajJWclppLS0yUkpBTms5cUlwNFhObjV6a3NmUjJieDlDcnpTYzRFeUhxSlVmZDBzbzBGZzdlVEJrcEtmQjhmOVZVUHFqUUdOY0JsMDZES0wtczRqTlVreld5QjlkOXYwV19LRdIBoAFBVV95cUxPN0cyS3lGZW9ldDBmSVIxZ1hHa1BuUGhsSVlxM1pWNzRoOVd3UWhZdlBUOEhSZ0lzdnlFZ2tCYl9Wa1RxZWlFWkY3WjNZSjl6M1BhT3lQd0pxM2tFWi1wRmlzenVrNnNZQVlyZXJ0bWxXQ3kxV1h3OXRLdGRQeWdxMFFCbEt1WFZ1SmtocTE0WVZ4QlYtWEJ2Z1p6SDdkMWI3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSTNoTXNWdEVCZDljcU83QjRHSzd0dU5objY4S1AxU1BNNEY2d3V1SmVUUGhyX18xMEplaWR5WHV0S0tyaWVQVmZCSlNESDk5ZkVHdGZsdWMwVXhmMHUyVXB6NXVWVnJrN05pYU5fNWhNRmktdE1WNmhVWC1JSFJEdWt0dHdBdllGOVVUclJRODdhZDFBOVd5emN2TGJjTUpPYlZ30gGoAUFVX3lxTE9za2RTY1dJZnYtV202MkZidGdUZDZRekg1WjR5U0pWWVNtVDhvTkh0RzFnNHhSb2RPQkRqM0R1a3J3cGZWSmJRRXQ1NzJDZWtvUTRaQngwc3Z1SXFzckhxWHA0VTM2cXN0c2dfRlQzeTVfQUNHclZBVkRPNWNQN2Rmb0J4TlBKSTVRWXRHVVZHUmh2NVNxNjlEekRoZDdsb0RnZl9MSU0zRw?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -220,26 +230,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0kyUVdDRlp5X3B3b2xpaUN6UXBFU1J3dFNsemdnRUFkdWZiclQwR3Zfek10WkR3Mm03ZTVHMWhDemVVcWppUHhFemFiYW4zYkUyY3NralI0Ni1WMFd0ODhDRUJUN1poeHJ1OUdNU25WWXZCZG12MmpwbW9kaVdWRFpQYnpvb2JLWnhPcGdOcDQ3U2NXd3J2OWk4QQ?oc=5",
       "imageURL": null,
       "category": "result"
-    },
-    {
-      "id": "zbgkz9",
-      "title": "VR and gaming are adding a kick to taekwondo - Boston Herald",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9KQm9LNjhoaUZWaW1tX0pQUFM5bnpwSjNtNF95Mmx1UXY5TXBoVlRBVk5pWURwLWdKNDZlNzJqS2ZIX2pTM1ZxXy1MSFo3ZU9idEFRWU1QMXRYWm1qMjlfMTNjY3NSdTdWMFR2SkljMk1oTFU0Q1E?oc=5\" target=\"_blank\">VR and gaming are adding a kick to taekwondo</a>",
-      "source": "Google News — Asian Games taekwondo",
-      "publishedAt": "2026-07-15T14:31:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KQm9LNjhoaUZWaW1tX0pQUFM5bnpwSjNtNF95Mmx1UXY5TXBoVlRBVk5pWURwLWdKNDZlNzJqS2ZIX2pTM1ZxXy1MSFo3ZU9idEFRWU1QMXRYWm1qMjlfMTNjY3NSdTdWMFR2SkljMk1oTFU0Q1E?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
-      "id": "r0hedu",
-      "title": "VR and gaming are adding a kick to taekwondo - Santa Cruz Sentinel",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5oVWZfRktScjhycVpaQWZselVMcXNHYlkzS3BTWC1zbTVZeHFYUTM4NnBFSzhxcUVOZzZRU1EzLS1sWGZzLVdKZTlheHplM2tHQmlsc1hHVEY3ekhTeG5hSFBCNWhsYm03cVpiUjVwRDdVYVN4NVc0Vy0xS3o?oc=5\" target=\"_blank\">VR and gaming are adding a kick to taekw",
-      "source": "Google News — taekwondo (general)",
-      "publishedAt": "2026-07-15T14:30:53.000Z",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oVWZfRktScjhycVpaQWZselVMcXNHYlkzS3BTWC1zbTVZeHFYUTM4NnBFSzhxcUVOZzZRU1EzLS1sWGZzLVdKZTlheHplM2tHQmlsc1hHVEY3ekhTeG5hSFBCNWhsYm03cVpiUjVwRDdVYVN4NVc0Vy0xS3o?oc=5",
-      "imageURL": null,
-      "category": "news"
     },
     {
       "id": "e0pzrz",
@@ -862,16 +852,6 @@
       "category": "result"
     },
     {
-      "id": "vwu38s",
-      "title": "VR and gaming are adding a kick to taekwondo - ABC News - Breaking News, Latest News and Videos",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQczljTUZQVHd6RVNRNHlmVXB6YUkzTHZ2V2JpME9xVlNxRUFOT09VMEVRT3JNZnp6MVdsczJqU1NkZS1vd3pST1QwZU5YYnY1OHRJQW1PUlZjY1RqaXFKYjdMbWxLaUlnQ3BrZ0ZUM2I4RzhFNXR1bVlvdzdfUTBDZWtGajhiUFBNemZNOWkyVWJ0czZTLTQ4WURJWnF2d9IBowFBVV95cUxQWn",
-      "source": "Google News — World Taekwondo federation",
-      "publishedAt": "2026-07-06T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczljTUZQVHd6RVNRNHlmVXB6YUkzTHZ2V2JpME9xVlNxRUFOT09VMEVRT3JNZnp6MVdsczJqU1NkZS1vd3pST1QwZU5YYnY1OHRJQW1PUlZjY1RqaXFKYjdMbWxLaUlnQ3BrZ0ZUM2I4RzhFNXR1bVlvdzdfUTBDZWtGajhiUFBNemZNOWkyVWJ0czZTLTQ4WURJWnF2d9IBowFBVV95cUxQWnBQYWlINE9oX1NOY191UFZHZ2ZnMjJpeXBnN2VrS21kczVFc1BRVWNQMG04cHloMlhkS0dvMkFSalZ3WHNBQWJLaVNIZzV3ZmowTXR0dEY5SVkwRkdlOTF0cDNtX05HUVNjelhEZHR0MjU1NUN6YmowYnhNRXBrOC1ZQWZBT2lVV0pweHhUWXktREttdXlNaXVHT0RRQ1BldzFZ?oc=5",
-      "imageURL": null,
-      "category": "news"
-    },
-    {
       "id": "swfzok",
       "title": "Muju hosts global para-taekwondo training camp - Inside The Games",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNQk1PRGVlUzlIWUJ4cGx6SDVBVkFtMmlVclVpdmZmdEVna00xeEZURDdmalJsdmx6SW01MjlkZGhSNnZVQXltSndXc1pXQlRsbXNlS2VrYWZpZFM5clI4Zk1hdGNYTDBoNnU5ZlFXaFNocWRnMk9KT3lUd01IbllrMnFnanVfdXJNdkpHWWJvbw?oc=5\" target=\"_blank\">Muju hosts gl",
@@ -890,6 +870,16 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0FUZUJuUFpXVF9KdzJ4MUZrS1Eyc2xFSFd4RVhiUXNKU01zdl9nR1ZNa3ZzLUNFa2MzSkNPX1JxVmVodDlObkk1U3ExX3loNmdYMDRhVTQzOHdjQkQ3Q3RGN2xYTzNFZGhfd0pVMTN1RVNaa1VOMy1Eam1WWVRCR1Q4T0tyU29GbHdXTFN2cWJCajQ?oc=5",
       "imageURL": null,
       "category": "news"
+    },
+    {
+      "id": "ctgwn6",
+      "title": "Malaysia eye poomsae taekwondo medal at Asian Games - Inside The Games",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNcDRUYzV1cndRLWVMamw1ZUhyWW5sb2ZxSDhMeWxaZzQ0RmdPQTRhWG1KTkNFLThfLW40bkpzUmx6bm1TUWV5RFRiSG9Tcmpud3ZpeG5TRFVxU2ZYNlM3by1rUk5rZHA1M085LVd0VXhFZ3FnVUN4OFhieXh3UkwtOW9ZRS12UVpFblV4akJvNVRfTWlDUlE?oc=5\" target=\"_blank\">Mala",
+      "source": "Google News — Asian Games taekwondo",
+      "publishedAt": "2026-07-04T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcDRUYzV1cndRLWVMamw1ZUhyWW5sb2ZxSDhMeWxaZzQ0RmdPQTRhWG1KTkNFLThfLW40bkpzUmx6bm1TUWV5RFRiSG9Tcmpud3ZpeG5TRFVxU2ZYNlM3by1rUk5rZHA1M085LVd0VXhFZ3FnVUN4OFhieXh3UkwtOW9ZRS12UVpFblV4akJvNVRfTWlDUlE?oc=5",
+      "imageURL": null,
+      "category": "result"
     },
     {
       "id": "md5bvj",
@@ -1882,16 +1872,6 @@
       "category": "result"
     },
     {
-      "id": "fdz0bp",
-      "title": "#PTVNewsTonight | PH shines with 11-medal haul at Asian Poomsae Championships - facebook.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMlJyUngwSGlGUmZweEluRUpFcFRjYkMyZ3NwWGl4YUh3a3V4WUNvSXp5bUEtRnBrcUswU0FMOF9WdjNCU0VSUnpjRzFOMERkR3lmUmpuZkN4dERCNlp4UHI3NDVpc3diOEMwT3dvQUs3cklvOW91QnhrY3BXVnlicHBucDVYTldlQWNNaEJmUDQ2bHFtZFBZcWhpM0F1QXNoTmVTaERxWXRaUV",
-      "source": "Google News — Asian Games taekwondo",
-      "publishedAt": "2026-05-22T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMlJyUngwSGlGUmZweEluRUpFcFRjYkMyZ3NwWGl4YUh3a3V4WUNvSXp5bUEtRnBrcUswU0FMOF9WdjNCU0VSUnpjRzFOMERkR3lmUmpuZkN4dERCNlp4UHI3NDVpc3diOEMwT3dvQUs3cklvOW91QnhrY3BXVnlicHBucDVYTldlQWNNaEJmUDQ2bHFtZFBZcWhpM0F1QXNoTmVTaERxWXRaUVphODZCaENLWktaXzNvTktoaUFsMnpaT0djd2Uxdg?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
       "id": "e39s7p",
       "title": "Taiwan prodigy wins gold on Asian Taekwondo Championships debut - Taipei Times",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1XcDBlc3NmX0w4MU51ekJtZDhRYnFsazUydUZXTG1PNTV2VGtHSnpuWDhnVE9jb3RHcENSVlU1aXg1Qm1ibHVUQ1R0LWt2MFJSNmppMXlSaXlmUTZIYklVWWYzN1hua1czU2Jqc3ZNYThQYmdDeUtYMQ?oc=5\" target=\"_blank\">Taiwan prodigy wins gold on Asian Taekwondo C",
@@ -1998,6 +1978,26 @@
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUJ4akpwQkJjcmtveE9HQS1aYjlwSnhubE1uMV81RVFvb2hDYnQyQVpwY3NBNk5hNWdmX21NYVM1YmdsMHBMT0M2dHczWnBnMDhsWXFoUTl4WEJQbktsNVZLQ3dqYWxERE9kSks0TTRpbGxvV1BrNXBnYloyR3NrdGt5aEI0SC1hVW5KVDN2NGFFZjViaVE?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
+      "id": "rxphdq",
+      "title": "The Asian Taekwondo Championship Kicks Off in Ulaanbaatar - open.kg",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxONTZJRmJrZm9uOU5pSUVGZ3lvWGszY3M0MkFJNWN5SlQ0THV0bE92enZ5a3Nnc0tFaEoyYXlKcVF2bk9XcXNUWEIwWjFfRjB5ZHVDU0ZtYWxmVjE5UGUzQS16NXg4eGNZOERDUEprZzVGbkVUcGplSFF1Mmo0cXBPWVlCTUVmbDJHcWxhdGNsODNiel9RZEJsWDdEOGYtQl9MdjhVc1JJd0pIZF",
+      "source": "Google News — Asian Games taekwondo",
+      "publishedAt": "2026-05-19T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONTZJRmJrZm9uOU5pSUVGZ3lvWGszY3M0MkFJNWN5SlQ0THV0bE92enZ5a3Nnc0tFaEoyYXlKcVF2bk9XcXNUWEIwWjFfRjB5ZHVDU0ZtYWxmVjE5UGUzQS16NXg4eGNZOERDUEprZzVGbkVUcGplSFF1Mmo0cXBPWVlCTUVmbDJHcWxhdGNsODNiel9RZEJsWDdEOGYtQl9MdjhVc1JJd0pIZFdTamhKbDJxaw?oc=5",
+      "imageURL": null,
+      "category": "result"
+    },
+    {
+      "id": "5a1mxv",
+      "title": "‘Father of Mexican Taekwondo’ Moon Dai-won dies at 83 - The Korea Herald",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FU1owS2xIa1FoMVUwbFJXSllpdjNsMDRWd0ljc29LSEdoMmRxWWhTbXIzMFV0dGZFSGtjQjdGZnBRNGJkMnF5cGZ6THVWVTlmMHpJWlR3VQ?oc=5\" target=\"_blank\">‘Father of Mexican Taekwondo’ Moon Dai-won dies at 83</a> <font color=\"#6f6f6f\">The Korea",
+      "source": "Google News — World Taekwondo federation",
+      "publishedAt": "2026-05-19T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FU1owS2xIa1FoMVUwbFJXSllpdjNsMDRWd0ljc29LSEdoMmRxWWhTbXIzMFV0dGZFSGtjQjdGZnBRNGJkMnF5cGZ6THVWVTlmMHpJWlR3VQ?oc=5",
       "imageURL": null,
       "category": "news"
     }
