@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T11:02:10.543Z",
+  "updatedAt": "2026-07-17T12:40:02.818Z",
   "items": [
     {
       "id": "qs33fc",
@@ -98,6 +98,16 @@
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-07-16T18:01:07.000Z",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbERPZG9MUjBKT2RFMlNwbTRuU0prZF9DSXAxZERoZXpMNUVlVWc2TXVya1poS2oxOFR4NWh6ZDNGbFdxc0IyRXFwc2d4MWZlTDhHTEF0S1NuNVc4Q2FGckRoYXd4VXVHemoyRF9wSHctZ1A3T2xGTVNjc3dHNGpNSEtFdjItaGtOZUh3cHRIenZXVVgyRWc?oc=5",
+      "imageURL": null,
+      "category": "news"
+    },
+    {
+      "id": "z2znj0",
+      "title": "Maccabi Haifa Carmel won eight medals at the Israeli Taekwondo Championship - haipo.co.il",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5waHhvQU02MEpJZkFYRFUwY3Vvd21tei03OXc1TTFjeFF5NG04XzdDNUgzUjZwRUo4SVMwV21PQ2tvRnhMWGRjX3hn?oc=5\" target=\"_blank\">Maccabi Haifa Carmel won eight medals at the Israeli Taekwondo Championship</a> <font color=\"#6f6f6f\">haipo",
+      "source": "Google News — taekwondo (general)",
+      "publishedAt": "2026-07-16T16:40:52.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5waHhvQU02MEpJZkFYRFUwY3Vvd21tei03OXc1TTFjeFF5NG04XzdDNUgzUjZwRUo4SVMwV21PQ2tvRnhMWGRjX3hn?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -202,20 +212,10 @@
       "category": "result"
     },
     {
-      "id": "6fxg7u",
-      "title": "VR and gaming are adding a kick to taekwondo - thenewsherald.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1BSVZwZ1k0RE1sSFpPNjNXSk5JaGdPVy1LV2UxdWpCRnJLcUV3LUdQZkxVY3JRWWpYdnhSRzNMdEhuazZWaFhIcWhxem04a0NzWXpjSDJLaEh0blBRZXFQMWlac01oRkpTOHVYa1d4c2RaVkdiV21v?oc=5\" target=\"_blank\">VR and gaming are adding a kick to taekwondo</a",
-      "source": "Google News — Asian Games taekwondo",
-      "publishedAt": "2026-07-15T15:00:08.000Z",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BSVZwZ1k0RE1sSFpPNjNXSk5JaGdPVy1LV2UxdWpCRnJLcUV3LUdQZkxVY3JRWWpYdnhSRzNMdEhuazZWaFhIcWhxem04a0NzWXpjSDJLaEh0blBRZXFQMWlac01oRkpTOHVYa1d4c2RaVkdiV21v?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
       "id": "zbgkz9",
       "title": "VR and gaming are adding a kick to taekwondo - Boston Herald",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9KQm9LNjhoaUZWaW1tX0pQUFM5bnpwSjNtNF95Mmx1UXY5TXBoVlRBVk5pWURwLWdKNDZlNzJqS2ZIX2pTM1ZxXy1MSFo3ZU9idEFRWU1QMXRYWm1qMjlfMTNjY3NSdTdWMFR2SkljMk1oTFU0Q1E?oc=5\" target=\"_blank\">VR and gaming are adding a kick to taekwondo</a>",
-      "source": "Google News — taekwondo gold medal",
+      "source": "Google News — Asian Games taekwondo",
       "publishedAt": "2026-07-15T14:31:02.000Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KQm9LNjhoaUZWaW1tX0pQUFM5bnpwSjNtNF95Mmx1UXY5TXBoVlRBVk5pWURwLWdKNDZlNzJqS2ZIX2pTM1ZxXy1MSFo3ZU9idEFRWU1QMXRYWm1qMjlfMTNjY3NSdTdWMFR2SkljMk1oTFU0Q1E?oc=5",
       "imageURL": null,
@@ -242,12 +242,12 @@
       "category": "news"
     },
     {
-      "id": "yuh4nd",
+      "id": "xu8bjh",
       "title": "PH taekwondo team to train, compete in Korea ahead of Asian Games - Spin.ph",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHVldVZkSk44RUFia3o3N1JlZWdoZ2VpU09uZTRTUjlRdUQ1UFQyRTkyRWc3Z1pabldLR1h4Y3g3eW1la29ZZzJmM1pMdV8xVDFHd09fQkllUV9pYW5kTHEzVUdpQ05Xdm55VWZLWXVpWjU1eWwxeE1XMmJaRjU0bzIzZkU2WE0xak9hTEJpNE4zNDEtdWlPNlhqS19xbzZiTTNoa1k2cnJjUn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTHBsOUk5WWREV0NkVWtuT2FlX24yM251a0dYSDA5eDEwUjkxakZxdXB1UmozZ2ZRamVYNEhWS1J5N054czk0Szk5QTFJOUhKMTlTNzBlMmcxTDNDaUlHNzFjS0lpNUNCeGdhRF9RUzNENXo0SUR1bTRrcEJGVngtNDlfbzJZR2d0bHotdm1wellWMDFmSk8yOHowZHVVclVwcURKWm5xcTRxVX",
       "source": "Google News — taekwondo preview / upcoming",
-      "publishedAt": "2026-07-15T08:03:57.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHVldVZkSk44RUFia3o3N1JlZWdoZ2VpU09uZTRTUjlRdUQ1UFQyRTkyRWc3Z1pabldLR1h4Y3g3eW1la29ZZzJmM1pMdV8xVDFHd09fQkllUV9pYW5kTHEzVUdpQ05Xdm55VWZLWXVpWjU1eWwxeE1XMmJaRjU0bzIzZkU2WE0xak9hTEJpNE4zNDEtdWlPNlhqS19xbzZiTTNoa1k2cnJjUnhFZ3c?oc=5",
+      "publishedAt": "2026-07-15T08:04:30.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTHBsOUk5WWREV0NkVWtuT2FlX24yM251a0dYSDA5eDEwUjkxakZxdXB1UmozZ2ZRamVYNEhWS1J5N054czk0Szk5QTFJOUhKMTlTNzBlMmcxTDNDaUlHNzFjS0lpNUNCeGdhRF9RUzNENXo0SUR1bTRrcEJGVngtNDlfbzJZR2d0bHotdm1wellWMDFmSk8yOHowZHVVclVwcURKWm5xcTRxVXQ0RWpYYTUxNFo3MDlvMDFPdWxwdlZwME0?oc=5",
       "imageURL": null,
       "category": "upcoming"
     },
@@ -342,12 +342,12 @@
       "category": "result"
     },
     {
-      "id": "wvi00t",
+      "id": "u5ozzy",
       "title": "World Taekwondo sends flag to space on Soyuz for 2027 countdown - CHOSUNBIZ - Chosunbiz",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1HaThjSDFyNDZIeFNXMHdZTTUwa1hjdk5TZk9kajNRU0hlUUZXZVRWVS1SVVpzSTZ4VnpFUmhhX2ZYRDN5aDZmNWJrNmZXU0huUU02ZTFmZDJmV3NJX3A1UEx4ajJYWTNOTEl0WmtSTjlKTlNvQm9BMzh1TkV0dTTSAZMBQVVfeXFMT1F6MTVyRTZvd28tcEdma0o1TlcwYXNfZG1VU19JVV9oMW",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXoxNXJFNm93by1wR2ZrSjVOVzBhc19kbVVTX0lVX2gxZGR0Zi1tUldGMVhFZzFqQ1dfSENjQkJJbVY0ZHVIVWtfclN0bXRUVWZ1bmhLenpXMkNBbUlfMjdFMkR4Q0NXdlhTZlZBOEFBb1VndVhoYXZNMkdETUplV1EyNXFGSjY3bUEteXVnTldWalnSAZMBQVVfeXFMT1F6MTVyRTZvd28tcE",
       "source": "Google News — World Taekwondo Championships",
       "publishedAt": "2026-07-15T01:51:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HaThjSDFyNDZIeFNXMHdZTTUwa1hjdk5TZk9kajNRU0hlUUZXZVRWVS1SVVpzSTZ4VnpFUmhhX2ZYRDN5aDZmNWJrNmZXU0huUU02ZTFmZDJmV3NJX3A1UEx4ajJYWTNOTEl0WmtSTjlKTlNvQm9BMzh1TkV0dTTSAZMBQVVfeXFMT1F6MTVyRTZvd28tcEdma0o1TlcwYXNfZG1VU19JVV9oMWRkdGYtbVJXRjFYRWcxakNXX0hDY0JCSW1WNGR1SFVrX3JTdG10VFVmdW5oS3p6VzJDQW1JXzI3RTJEeENDV3ZYU2ZWQThBQW9VZ3VYaGF2TTJHRE1KZVdRMjVxRko2N21BLXl1Z05XVmpZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXoxNXJFNm93by1wR2ZrSjVOVzBhc19kbVVTX0lVX2gxZGR0Zi1tUldGMVhFZzFqQ1dfSENjQkJJbVY0ZHVIVWtfclN0bXRUVWZ1bmhLenpXMkNBbUlfMjdFMkR4Q0NXdlhTZlZBOEFBb1VndVhoYXZNMkdETUplV1EyNXFGSjY3bUEteXVnTldWalnSAZMBQVVfeXFMT1F6MTVyRTZvd28tcEdma0o1TlcwYXNfZG1VU19JVV9oMWRkdGYtbVJXRjFYRWcxakNXX0hDY0JCSW1WNGR1SFVrX3JTdG10VFVmdW5oS3p6VzJDQW1JXzI3RTJEeENDV3ZYU2ZWQThBQW9VZ3VYaGF2TTJHRE1KZVdRMjVxRko2N21BLXl1Z05XVmpZ?oc=5",
       "imageURL": null,
       "category": "result"
     },
@@ -782,6 +782,16 @@
       "category": "news"
     },
     {
+      "id": "9wf3ma",
+      "title": "Virtual taekwondo is on the rise as it makes its debut at Asian Games - The Manila Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzhOU0RpMlJMRjkxRTEzaUZ2NFR5ZVo0aTE1NHo5czhiSE9YR1lpN0tnTlJDNWFZYVJZTTNRVWlhUDZkLXZUeTk0UlgtOWNsLVF3djlyaTZYb0ZhaElwUVYyalNVc3hKMldVcU1OaTNNX1hzMXdTOS0zUXBjQVVwM3UwekVIX0JuaFotdG9jdUY5N2M0Z0VUQzFnQ05aNmUySzlMS3J5eEZVbH",
+      "source": "Google News — taekwondo champion",
+      "publishedAt": "2026-07-07T09:23:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzhOU0RpMlJMRjkxRTEzaUZ2NFR5ZVo0aTE1NHo5czhiSE9YR1lpN0tnTlJDNWFZYVJZTTNRVWlhUDZkLXZUeTk0UlgtOWNsLVF3djlyaTZYb0ZhaElwUVYyalNVc3hKMldVcU1OaTNNX1hzMXdTOS0zUXBjQVVwM3UwekVIX0JuaFotdG9jdUY5N2M0Z0VUQzFnQ05aNmUySzlMS3J5eEZVbHBtc001X0R3NUFBWHdqSF9PMVhzT1o?oc=5",
+      "imageURL": null,
+      "category": "result"
+    },
+    {
       "id": "btoiu5",
       "title": "World Taekwondo, AI and Olympic trust in sport tech - Karlobag.eu",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWVBYkVPdjlxamhweTEyMnpGOW1renZDZ3FrS3gxbEc2N09ZWmxPR01vMVA2LWU5Yk44d2M3NWtxRDNnMnBNdlF6amhtSmxtYldFaXVaaFQyNUFZNUdsZm9FQ0xwUXJsaWVNQklaX1JDYVBkeFluMk9yd2ExMEI0M0lHUFVUU090aWNIWnk2dkFXb1VXZHd2eVIyYW9DYU5sT3NCNW9BT0lNR0",
@@ -1082,16 +1092,6 @@
       "category": "result"
     },
     {
-      "id": "66jv16",
-      "title": "Taekwondo athletes crowned European Club Team Champions [PHOTOS] - AzerNews",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YWEZleGZFRnliek9ZbkRSN1g3RlRvTzhrUzBhY1VxLXVCRVZnc01EMVBMU3NpdFFMY2hUTTl6WWhzS2xJVWN1N2I0aGFxOG9XZVlaWA?oc=5\" target=\"_blank\">Taekwondo athletes crowned European Club Team Champions [PHOTOS]</a> <font color=\"#6f6f6f\">Az",
-      "source": "Google News — taekwondo champion",
-      "publishedAt": "2026-06-18T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YWEZleGZFRnliek9ZbkRSN1g3RlRvTzhrUzBhY1VxLXVCRVZnc01EMVBMU3NpdFFMY2hUTTl6WWhzS2xJVWN1N2I0aGFxOG9XZVlaWA?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
       "id": "mx6dyb",
       "title": "Virtual Taekwondo Added to Aichi-Nagoya 2026 Asian Games Programme - MASTKD",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPNy0zRlRDVmVzNDllVE14VWpOeUJZalZMQWoxeWIxZUNFcmY2UnhhSkprT0ZOb0NqenVTTlZ6RXFXR2tCTG1CTUxPM3hna3VHU3cta3N3b3JYYTFBTWd5VDNSSDZ4eTZBbDNNcGpOSXpONlk4MVM3akQteUpGOFNBNUZwMHRFdmNCb0V3NC1vQ3ZiblhxaTUwaU1HOE8tOW8?oc=5\" target=\"",
@@ -1248,16 +1248,6 @@
       "source": "Google News — World Taekwondo federation",
       "publishedAt": "2026-06-08T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb19feno4aHFLb1RkT3c3SndnYmRBRzFoc0xuWXQ2OHZnSmladXY2YzdFM2kxb0V1SlRtY1dSNUZrZVVmT1lmbE9JR0V0b0RQM3JDY0FlM0w1cHBMdERyMzM3OGowNGJackNvZ0JONHFBWDJDaWpvQWpNc19vZ29DR3JUckpzTktBTXdJRXhSMEVmbGwyRmfSAaoBQVVfeXFMUERMcENQd2x4aWFHbGVhTVQ3a2wyQ3pKVFE1T0lGdWJQUGNBMjdvOGVWUnN6WDM4VHMybDY1NFNmV1hPcWVoUi1oQ3pJNWVYOVhrNU9LWWtTRnVSTkZPLWpEdGw5eWlFZDJGR1Z2emhodXM1dUlBMnRsMVJJWE5xZ1hoeTFEM0ZwenhTaFNwNEpfbUJENU5aMERpaE5TX1RmVjFiSnd6TjhaR1E?oc=5",
-      "imageURL": null,
-      "category": "news"
-    },
-    {
-      "id": "k4fjsk",
-      "title": "Fort Sill youth Taekwondo class builds confidence, discipline and community - army.mil",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxONk1lRk9DeHJBYnlMOVNlMXQwQTR0X2VWRDRYb3MtWG9ja3RmaW4xU0F5LWZKWGlBU1JZZ1Q4clBfV2hLaUo5MzM0WXBGSndWTF9tTVlLbklFY0NRUVpDUHdHV0pmZW1VaTh6TkhiVWVtUnYwU2tBX3JrN2hxQ1NmaVdtb052ODVVbkZFdk5PSmxPSWVGY0RMSVlzTlRib1hVM3NvMjhybTNYXz",
-      "source": "Google News — taekwondo (general)",
-      "publishedAt": "2026-06-08T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONk1lRk9DeHJBYnlMOVNlMXQwQTR0X2VWRDRYb3MtWG9ja3RmaW4xU0F5LWZKWGlBU1JZZ1Q4clBfV2hLaUo5MzM0WXBGSndWTF9tTVlLbklFY0NRUVpDUHdHV0pmZW1VaTh6TkhiVWVtUnYwU2tBX3JrN2hxQ1NmaVdtb052ODVVbkZFdk5PSmxPSWVGY0RMSVlzTlRib1hVM3NvMjhybTNYXzlkNkgw0gG0AUFVX3lxTFBVSHNlcjBVUFlxeTZYYmh6OVRTLVRqUU9wTUNrSk1JVVVvaGZId1R2VWdZMWJwd3Z6cTZlQkhSc01hc2ZkRDBCUHU4Y3lfYlpuV282d29YMVp6QlJUTy1MMUpkWDlKZy1SNGwtZGJYRzlIZ2hNcDByby1GU1RwR3pRa0w5T3RvVXFBb05UODRVdTRueXNnNVN3UWVxNEVQWHF5cV9CVWY0UTQ3QzBoaWlMN09Nag?oc=5",
       "imageURL": null,
       "category": "news"
     },
@@ -1888,6 +1878,16 @@
       "source": "Google News — Asian Games taekwondo",
       "publishedAt": "2026-05-22T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9maGNQSi1Kb2hqTFZJWkxaYkpoZ3A3cmF2LUZQbngzNUFXRTFoYXRfYy1DVE9hZGRwRDRVbHZKRHVWNUtjLTdXanFKR2ZyNHZLNzVGLQ?oc=5",
+      "imageURL": null,
+      "category": "result"
+    },
+    {
+      "id": "fdz0bp",
+      "title": "#PTVNewsTonight | PH shines with 11-medal haul at Asian Poomsae Championships - facebook.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMlJyUngwSGlGUmZweEluRUpFcFRjYkMyZ3NwWGl4YUh3a3V4WUNvSXp5bUEtRnBrcUswU0FMOF9WdjNCU0VSUnpjRzFOMERkR3lmUmpuZkN4dERCNlp4UHI3NDVpc3diOEMwT3dvQUs3cklvOW91QnhrY3BXVnlicHBucDVYTldlQWNNaEJmUDQ2bHFtZFBZcWhpM0F1QXNoTmVTaERxWXRaUV",
+      "source": "Google News — Asian Games taekwondo",
+      "publishedAt": "2026-05-22T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMlJyUngwSGlGUmZweEluRUpFcFRjYkMyZ3NwWGl4YUh3a3V4WUNvSXp5bUEtRnBrcUswU0FMOF9WdjNCU0VSUnpjRzFOMERkR3lmUmpuZkN4dERCNlp4UHI3NDVpc3diOEMwT3dvQUs3cklvOW91QnhrY3BXVnlicHBucDVYTldlQWNNaEJmUDQ2bHFtZFBZcWhpM0F1QXNoTmVTaERxWXRaUVphODZCaENLWktaXzNvTktoaUFsMnpaT0djd2Uxdg?oc=5",
       "imageURL": null,
       "category": "result"
     },
