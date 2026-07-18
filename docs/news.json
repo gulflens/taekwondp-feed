@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-18T18:26:15.374Z",
+  "updatedAt": "2026-07-18T19:39:31.784Z",
   "items": [
+    {
+      "id": "dbc0ia",
+      "title": "Entrevista con Juan Carlos Ramírez Rivera, presidente de la Federación Ecuatoriana de Taekwondo",
+      "summary": "En este programa de MASTKD Podcast, conversamos con Juan Carlos Ramírez Rivera sobre la transformación de la Federación Ecuatoriana de Taekwondo, el crecimiento de su estructura deportiva y el posicionamiento de Ecuador como sede de eventos internacionales puntuables para el rank",
+      "source": "MASTKD",
+      "publishedAt": "2026-07-18T18:50:34.000Z",
+      "url": "https://www.mastkd.com/2026/07/entrevista-con-juan-carlos-ramirez-rivera-presidente-de-la-federacion-ecuatoriana-de-taekwondo/",
+      "imageURL": "https://www.mastkd.com/wp-content/uploads/2026/07/ENTREVISTA-JUAN-CARLOS-RAMIREZ.png",
+      "category": "news"
+    },
     {
       "id": "15redu",
       "title": "Sharjah Women Sports concludes Kazakhstan taekwondo camp - Sharjah24",
@@ -30,6 +40,16 @@
       "url": "https://www.reddit.com/r/taekwondo/comments/1uzwnwu/scoring_application/",
       "imageURL": null,
       "category": "news"
+    },
+    {
+      "id": "krwoc",
+      "title": "Taekwondo: Morocco’s Women Team Crowned World Champion 2026 - The North Africa Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFJ6anlhbkNaTVpDdnVaX0ZJdUQ3YTludjdGeGUyWVRzWHRDTXB5T0QxOGx2Wk54THNreEZ0STJXUFdYaktHWFZjLWdpU3MtSzRsS0kySWF2T0UtQjlNUVZhbVpVMFYyZzI3SjlqZEtYZmtPQ0Q4czJCRTVTT2ZrVkRKZXR4V1Z0SENZSmgtZXdfQ1BtUmk4US1DY3E?oc=5\" target=\"_bla",
+      "source": "Google News — taekwondo champion",
+      "publishedAt": "2026-07-18T11:43:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFJ6anlhbkNaTVpDdnVaX0ZJdUQ3YTludjdGeGUyWVRzWHRDTXB5T0QxOGx2Wk54THNreEZ0STJXUFdYaktHWFZjLWdpU3MtSzRsS0kySWF2T0UtQjlNUVZhbVpVMFYyZzI3SjlqZEtYZmtPQ0Q4czJCRTVTT2ZrVkRKZXR4V1Z0SENZSmgtZXdfQ1BtUmk4US1DY3E?oc=5",
+      "imageURL": null,
+      "category": "result"
     },
     {
       "id": "7n6uyp",
@@ -120,16 +140,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBETUhyV0hvWjhxUUt1dHVTQTNGeUFjMTc4cko1TzRMMnJpOEQwTzFORDRxTW9nX2ZOOERiVk9KVzdEdUhHa3VBc0hkRk9PYmgwSFZ0NWdLTFdxU0NaVE1PVEpEeXR4NUow?oc=5",
       "imageURL": null,
       "category": "result"
-    },
-    {
-      "id": "7vu3n1",
-      "title": "Ballito nine-year-old taekwondo champ selected for GTF European Cup - The Citizen",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWTR5OFFHTGgtaFJ5MDdzNE5CUzdqRm1CODhKUmdyN3p1a1l3V3dublM1SmFGVWF2Zl9WMHpUTU5seXVobmcxRnA5Ym5EOXlqWFluWnFDbDFwV1RtSzFiai1sbkZmOHJxNVFLMDl5QU50dXdrVjh4R2lSZE41a0NHa0dZcEJEUm1WYU5KNGxRbEFETXZYNHk1Vk0yYUFEUkxsdHhHbnpiOUVGdU",
-      "source": "Google News — taekwondo (general)",
-      "publishedAt": "2026-07-17T22:55:57.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWTR5OFFHTGgtaFJ5MDdzNE5CUzdqRm1CODhKUmdyN3p1a1l3V3dublM1SmFGVWF2Zl9WMHpUTU5seXVobmcxRnA5Ym5EOXlqWFluWnFDbDFwV1RtSzFiai1sbkZmOHJxNVFLMDl5QU50dXdrVjh4R2lSZE41a0NHa0dZcEJEUm1WYU5KNGxRbEFETXZYNHk1Vk0yYUFEUkxsdHhHbnpiOUVGdUwyRXJqT1NTMGFsUURNanUyUFo2SVNZZ2xLbWFOejE3RHhLUEFzbkZkSjl0WVZOWERjUW1DNV9TNjc?oc=5",
-      "imageURL": null,
-      "category": "news"
     },
     {
       "id": "ll7fvd",
@@ -868,16 +878,6 @@
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-07-07T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xRzdlZ3BmNmVGSHFTQ2dTVGhBR181Znk3amRDSWlrVGNJSzJXSWJMRE9TU1RKbHhXbzcwdWg0eDRBejJZMXlZQmxmR3hHbUFtWDdPS0ZDUDRrdw?oc=5",
-      "imageURL": null,
-      "category": "news"
-    },
-    {
-      "id": "btoiu5",
-      "title": "World Taekwondo, AI and Olympic trust in sport tech - Karlobag.eu",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWVBYkVPdjlxamhweTEyMnpGOW1renZDZ3FrS3gxbEc2N09ZWmxPR01vMVA2LWU5Yk44d2M3NWtxRDNnMnBNdlF6amhtSmxtYldFaXVaaFQyNUFZNUdsZm9FQ0xwUXJsaWVNQklaX1JDYVBkeFluMk9yd2ExMEI0M0lHUFVUU090aWNIWnk2dkFXb1VXZHd2eVIyYW9DYU5sT3NCNW9BT0lNR0",
-      "source": "Google News — World Taekwondo federation",
-      "publishedAt": "2026-07-07T06:00:21.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWVBYkVPdjlxamhweTEyMnpGOW1renZDZ3FrS3gxbEc2N09ZWmxPR01vMVA2LWU5Yk44d2M3NWtxRDNnMnBNdlF6amhtSmxtYldFaXVaaFQyNUFZNUdsZm9FQ0xwUXJsaWVNQklaX1JDYVBkeFluMk9yd2ExMEI0M0lHUFVUU090aWNIWnk2dkFXb1VXZHd2eVIyYW9DYU5sT3NCNW9BT0lNR0RVQXAzRkxjQmtGUHc?oc=5",
       "imageURL": null,
       "category": "news"
     },
