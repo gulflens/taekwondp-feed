@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T15:20:19.511Z",
+  "updatedAt": "2026-08-08T15:53:35.584Z",
   "items": [
     {
       "id": "ubs7rz",
@@ -10,6 +10,16 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQkxlREdXU0hOZzIwV1J0TS1MdTFTbG1PUTZSbWxmSzJyZ2l1aVRZU0tVekVJM2J3UjdnUDF2ZmJ3d0xSSnZQRlB5NXBlYkZoNWlpV1ZaSlI4Z2VhM3BGZjNXTEdtNEI1dHFWaUxjTGx0U0hDZWNOZUt6elVpYkgtc2VsR05BakVYQ0J1SzR1LVBNLWNGNmZXUGpwMnJ5TjNtY2JvcW8zRGhmTHA5YU1RbGduQ05kZy1vYjdkZFRtSlRtZVZNdW8zS0lTVmhkNlRjRUNYNg?oc=5",
       "imageURL": null,
       "category": "news"
+    },
+    {
+      "id": "s60w6x",
+      "title": "Iran taekwondokas seize5 medals at 2023 Taekwondo Grand Prix - Taekwondo.ir",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IVzhIQ2FfblB4SlNaRmcybnpKSk9UZklESlEwblYzY08xX0pPWERVa01JaTRaMGFSR1B2RUl5cXBiOHdhdUFJVUI4cHlwaTViQzdwOEVsQnFFSTNadUN3UjYzLVUwUk5a?oc=5\" target=\"_blank\">Iran taekwondokas seize5 medals at 2023 Taekwondo Grand Prix</a> <f",
+      "source": "Google News — Taekwondo Grand Prix",
+      "publishedAt": "2026-08-08T11:27:31.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IVzhIQ2FfblB4SlNaRmcybnpKSk9UZklESlEwblYzY08xX0pPWERVa01JaTRaMGFSR1B2RUl5cXBiOHdhdUFJVUI4cHlwaTViQzdwOEVsQnFFSTNadUN3UjYzLVUwUk5a?oc=5",
+      "imageURL": null,
+      "category": "result"
     },
     {
       "id": "8r3pfa",
@@ -28,16 +38,6 @@
       "source": "Google News — World Taekwondo Championships",
       "publishedAt": "2026-08-08T03:28:04.000Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCSko4TDF5MjljRlhNOWNBVzFsRzF1ZTdVaWxIaG9tSmRBSDBiRXpRck1pX0RTcDV4ZGFXZW1MX1RuMGYyUU5vTWowdE1GZC03V3V2R0J0Rmo1VTNiTmVXZUtJS0dKXzBj?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
-      "id": "5ciuo0",
-      "title": "Iran taekwondokas seize5 medals at 2023 Taekwondo Grand Prix - Taekwondo.ir",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VdUxlUk5MRlJkSDlRWEhQdkZtQy10d0U4Y3dfZ0lST2ZsQmlyZnVTMkNDbkwzbmRVNXJaTjNBQWRLUjdxMUpBS1JJSjdlN0xmOWZIZFpHYWJkU1ZPNzdIeFZSM1VFdUhj?oc=5\" target=\"_blank\">Iran taekwondokas seize5 medals at 2023 Taekwondo Grand Prix</a> <f",
-      "source": "Google News — Taekwondo Grand Prix",
-      "publishedAt": "2026-08-08T03:27:28.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VdUxlUk5MRlJkSDlRWEhQdkZtQy10d0U4Y3dfZ0lST2ZsQmlyZnVTMkNDbkwzbmRVNXJaTjNBQWRLUjdxMUpBS1JJSjdlN0xmOWZIZFpHYWJkU1ZPNzdIeFZSM1VFdUhj?oc=5",
       "imageURL": null,
       "category": "result"
     },
@@ -213,7 +213,7 @@
     },
     {
       "id": "co4slb",
-      "title": "Taekwondo King Season 2 Elites Clash with Sadang Middle School - chosun.com",
+      "title": "Taekwondo King Season 2 Elites Clash with Sadang Middle School - 조선일보",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVBhS1g4THAtanVBZnJzN3VLejlMYlNGOEJNc1FVaWstRTRpaEYxdkZveWNaSU9ucjZ2a2pvb290MDQ3cVYxckpvYk5TTnd5b0hIN3FqOEJOVmI0dElmZ2FlREpqQWpib0tadFkzaWRCZHpZVXdBZTJQaU8zQ0tkZXFqUF9SUQ?oc=5\" target=\"_blank\">Taekwondo King Season 2 E",
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-08-07T00:07:57.000Z",
@@ -283,7 +283,7 @@
     },
     {
       "id": "y46wax",
-      "title": "Ashgabat will host 13th Taekwondo Championship for the Ambassador's Cup of the Republic of Korea - Turkmenportal.com",
+      "title": "Ashgabat will host 13th Taekwondo Championship for the Ambassador's Cup of the Republic of Korea - turkmenportal.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaDZtSms2bWNxenVJZFFDVDJXT1ZKYWV5SHFLQzNQdGFua1o1YUFYQzdSb2FPZDZiVUxhTERXbk9XY2dxU3F0OWI3Q003RHFTdzNvS0JUT3RkcHktZzhWdFhKQUJZRG1Dc01nd1Y4aFJvSk1JZEpUWXhqZVZUUE1Hb3JrWHJfZHl4NHZrVGxRVm1zYmVKbHhLYXl4bmM3MEkwLTZiZFhyeDhpZG",
       "source": "Google News — taekwondo schedule / qualify",
       "publishedAt": "2026-08-06T07:00:00.000Z",
@@ -293,7 +293,7 @@
     },
     {
       "id": "tbg7db",
-      "title": "Chandigarh: 3-yr-old Prithvi wins silver in taekwondo - The Tribune",
+      "title": "Chandigarh: 3-yr-old Prithvi wins silver in taekwondo - tribuneindia.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZU5PUUQyX2RZU2paVVhGb3JnTHZGb1otakl2VmFFTXZ5QmdaRHBKZjhNNUFGb3REclZ4eGFKS3R0S1I5RDJxLTFTVlQzREZXdm5ybV95YzhRMkZpeE91YmxZWl96OGR6Z2dFQld5UUJJZWpDYUs5ZDU3N2k4T3pyODdIb2FKVm1nRU1MakFic01jalJReG5WdFYxaGsxLUnSAaMBQVVfeXFMTX",
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-08-06T07:00:00.000Z",
@@ -403,7 +403,7 @@
     },
     {
       "id": "8sfasu",
-      "title": "Olympic Taekwondo star gives leadership talk to Foróige group - Echo.ie",
+      "title": "Olympic Taekwondo star gives leadership talk to Foróige group - echo.ie",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFBha3czVDdzeDE4T0R2akx0d1lMWWJQNDZfY2hlMEVGanNsaFczaTdqbEpodDJEUllXUURRYnNsVHlwWHp6eGZGMmNWcDlFcHcxTVhLZXhhU3AyQmU1UU1CT1NGQmNsMDQ0UFBfRnJFaFg4eXRvb0V2eDU0ZFk5U0h2cFFXdEx4YVE?oc=5\" target=\"_blank\">Olympic Taekwondo st",
       "source": "Google News — Olympic taekwondo",
       "publishedAt": "2026-08-05T13:36:40.000Z",
@@ -453,7 +453,7 @@
     },
     {
       "id": "hc97i",
-      "title": "Ashgabat will host 13th taekwondo championship for the ambassadors cup of the republic of korea - Turkmenportal.com",
+      "title": "Ashgabat will host 13th taekwondo championship for the ambassadors cup of the republic of korea - turkmenportal.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZkh1MlJIdWdtckxkUWpCckM5Slo4VGJWUXdIRldKcjROZndNMF91dnBYVWlVRS00RmNiN1V2ZlBVeTdOQlB1YngwUDI2S3FMdDJrdUl3cG5rSjFONy1ZWEZVSkJSQ1RLOHJfbUZPYkM1c1N4eVVqaVhkVmlvUkthYXBPa0x3QjYwZ3BRUldia3diRE5WX1djWmhHdl9xU1NXTjk5RFZyTlpiYV",
       "source": "Google News — taekwondo schedule / qualify",
       "publishedAt": "2026-08-05T07:00:00.000Z",
@@ -493,7 +493,7 @@
     },
     {
       "id": "k81s7",
-      "title": "Five students represent Milton at USA Taekwondo National Championships - Miltontimes.com",
+      "title": "Five students represent Milton at USA Taekwondo National Championships - miltontimes.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdGx2dm8wbllxckx6M3VURldJYndhRWtHSWVSSk5kdGF2ZlpITjdSaGlGMzBzT0tLX3U1bU5nVmJ2RmJZcGQxaFdFS3UyVlIyQmJsb2RtNFNuVGFlSUJJWGNUSlNhMGNrUjlzTk1xUjRTUXNnQUlIQ3N6UERpZUNRV3d6bTdPaU9BU3lkUnRaNks5WlAzVUw0VDg4czFEaldhWms4QnRKcFFEb2",
       "source": "Google News — USA Taekwondo",
       "publishedAt": "2026-08-05T01:46:00.000Z",
@@ -813,7 +813,7 @@
     },
     {
       "id": "ohnjkw",
-      "title": "PBTI Brings Foreign Coaches to Improve Indonesia's Taekwondo Performance - voi.id",
+      "title": "PBTI Brings Foreign Coaches to Improve Indonesia's Taekwondo Performance - VOI.ID",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wMXdla09xOG9fRnJXLU5zMTFuVndmZTVYMUdSOUZsMXBpX1ItQXFnQzFWR1prWkQ3bC0taUxKQXBKbFhfVlHSAUJBVV95cUxQa19acnYyS0VYWFFBM0VXNGZtUldwZ19vUGpjN21NaXNENnliYVdrNHdoLTJfYVB1RndvUnExOUUxbFE?oc=5\" target=\"_blank\">PBTI Brings Foreign ",
       "source": "Google News — Asian Games taekwondo",
       "publishedAt": "2026-07-31T09:34:36.000Z",
@@ -903,7 +903,7 @@
     },
     {
       "id": "wv6dr4",
-      "title": "Azerbaijani para-taekwondo fighter crowned European champion - Ednews.net",
+      "title": "Azerbaijani para-taekwondo fighter crowned European champion - ednews.net",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOXRKS3U5dkstbGpseUExdGV6a2E0T2dKOG0wOTgwUW9ZZHhvYmVKSzJKT2lYR1h0Q0hKZTA0VWNzY1Rtb2NtQkdlZ1NJSXVJYktJdXB6ZlM5TWhHcXlvNkZqZEZWOThxYTdtUUtrT2hHUDN6VHhUTkhEWHlPZTdqRXA4cHJkY3JMVjJn?oc=5\" target=\"_blank\">Azerbaijani para-ta",
       "source": "Google News — taekwondo champion",
       "publishedAt": "2026-07-30T07:56:19.000Z",
@@ -983,7 +983,7 @@
     },
     {
       "id": "153kq6",
-      "title": "‘Kickin’ It at the Beach’ brings regional taekwondo tournament to Wilmington - WECT",
+      "title": "‘Kickin’ It at the Beach’ brings regional taekwondo tournament to Wilmington - WECT | TV6",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRzRrX1h5NjU2WkJrcDFabDZOMUtoU2lORHloVnY5ZEVNSnhTOEdZbVZhTlhvcVhjYmxmX2pCcVBVaWI1ZlhNR3hWbGVRSjFtaWFGVkltVVJUQ2xQdXNCRmxsRXNXdm5kNHRpdHNOLUN6Z3lqX3p1VF9EWGlBSjFkSXhkaEt3LVRzZ3JXemZRRVE2VnpGdXdaNzJwRnPSAbABQVVfeXFMTzVhSE",
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-07-28T07:00:00.000Z",
@@ -1013,7 +1013,7 @@
     },
     {
       "id": "b55psa",
-      "title": "Indonesia has 233 athletes at the 2026 Asian Taekwondo Open - voi.id",
+      "title": "Indonesia has 233 athletes at the 2026 Asian Taekwondo Open - VOI.ID",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GNWppZDJERzdKTlR2elJieE1TU1JYTk40bTRYR24zYUM5R2VBLWFxVE93enNTc2FIVjdpWGhnN25LV2N4T3fSAUJBVV95cUxQZXZjOXRrVzBoS2NtS2txRy05WjFNZ01Cd2YwT2F4VDFHWHNYQm1FMzM3X2Uwek1RaXpWdkRzTWtkcHc?oc=5\" target=\"_blank\">Indonesia has 233 at",
       "source": "Google News — Asian Games taekwondo",
       "publishedAt": "2026-07-27T13:45:49.000Z",
@@ -1048,16 +1048,6 @@
       "source": "Google News — taekwondo gold medal",
       "publishedAt": "2026-07-27T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTFhaWUs5MXVqWHQ3aFZJVjZsSE12d0szdmlWWG4xQk9XVDJjRTQ4NTU0bXN3QnpCWExVYXZzWlc5QW9vYVhkYVd0N0M1Z0xOOVZ4TE5wSUM3OHEyYl9FMFd2bFJFb3pBMG1BTGVHRmd4X0g5NzZDdmNzbnQxZVRKZVRJdXE5Ukp0V1hzTEZqbHZ1LXgwUnRtUlZn?oc=5",
-      "imageURL": null,
-      "category": "result"
-    },
-    {
-      "id": "97drqs",
-      "title": "Taekwondo Star Rodali Barua Challenges Asian Games Selection Process - newire.in",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUkxUTEVoRExRQVcxRmZoMjBUWUVRX0dLelZxbVI5YlIxRm95VjJVUEUtSVpvNjBfWmQ4SDBYamhuZU5ITWItSzRjZGxMRWhENG84U1BUTDUwMEhjX2ZiXzV1ckNXbEUtOVJqaE5fOXFDNzZqZ0l5QlllWUdoN2U0WS1lcWNzVExpTjVaTUlYcEU5MnE1cUw4SVJ4cw?oc=5\" target=\"_blan",
-      "source": "Google News — Asian Games taekwondo",
-      "publishedAt": "2026-07-26T16:49:47.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUkxUTEVoRExRQVcxRmZoMjBUWUVRX0dLelZxbVI5YlIxRm95VjJVUEUtSVpvNjBfWmQ4SDBYamhuZU5ITWItSzRjZGxMRWhENG84U1BUTDUwMEhjX2ZiXzV1ckNXbEUtOVJqaE5fOXFDNzZqZ0l5QlllWUdoN2U0WS1lcWNzVExpTjVaTUlYcEU5MnE1cUw4SVJ4cw?oc=5",
       "imageURL": null,
       "category": "result"
     },
@@ -1173,7 +1163,7 @@
     },
     {
       "id": "1n9r4h",
-      "title": "Zarrinkamar wins gold medal in World Taekwondo Championships - en.mehrnews.com",
+      "title": "Zarrinkamar wins gold medal in World Taekwondo Championships - Mehr News Agency",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkR0Z2s2SDM2eExOQ3hod3NPaDV4WTdZN2hpd0tWbGM0UzlhOTVpc2Y0OGd0MWdCQmJqbTZSTnFtZnVYZVVFVk1aUUxaRWphbVJHelRuajRjb2FkNWZBRWxmakhEUFhhZ29hVTNaY3IyczhpT2U0RWNPd1N2X1R0VHliTEVCOTItSkQ2VzdidkFuRjhOT2NqbVNOMlo?oc=5\" target=\"_bla",
       "source": "Google News — World Taekwondo Championships",
       "publishedAt": "2026-07-21T07:00:00.000Z",
@@ -1273,7 +1263,7 @@
     },
     {
       "id": "uvlimn",
-      "title": "Iran women’s taekwondo team wins bronze medal at world cup - en.mehrnews.com",
+      "title": "Iran women’s taekwondo team wins bronze medal at world cup - Mehr News Agency",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHFfYnQ1OEJWQldiZTBMTHFtNjRodFVzVGhLNnU0NmRYRWlBVkJMQU1NYm12OWdkY1U2QTVQcVdEWE91QUJvd3NKZENjUzZNcHU3Z3V1dmdyQkh3ZkVLYXZIZ1BNaGVzV1h6SEdoZ29aZ05IRXdpUUJnTldrYkw3TnJlTnpkOUZkY1pMb2s5OU83anFuZEdqd3ln?oc=5\" target=\"_blank\"",
       "source": "Google News — World Taekwondo Championships",
       "publishedAt": "2026-07-15T07:42:00.000Z",
@@ -1283,7 +1273,7 @@
     },
     {
       "id": "nah30k",
-      "title": "World Taekwondo Flag Embarks on Historic Space Mission - chosun.com",
+      "title": "World Taekwondo Flag Embarks on Historic Space Mission - 조선일보",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNZjV5VDRrOUhaWnEwbFQyekNpYTFUVnR3eFJkQ3NoZG5RRkkzUWFTcy1rOFNMV3dOUVlVVHNUWGFiakJXT2VKVDdRbDZ5UlBCbWp4RzF5M0Z1UGlvU2dyQ09XdUVPdnRYOFRNZzlzZDduOXVwZ3ZUSWdMZ3lQVTQxQkctQ1N6Zw?oc=5\" target=\"_blank\">World Taekwondo Flag Emba",
       "source": "Google News — World Taekwondo Championships",
       "publishedAt": "2026-07-15T07:00:00.000Z",
@@ -1393,7 +1383,7 @@
     },
     {
       "id": "o91syd",
-      "title": "24th Annual ROK-U.S. Friendship Armed Forces Combat Taekwondo Exhibition [Image 1 of 7] - DVIDS",
+      "title": "24th Annual ROK-U.S. Friendship Armed Forces Combat Taekwondo Exhibition [Image 1 of 7] - dvidshub.net",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWNnTGZMTXp4RnhPVGZCX1lRVFhwY19YQUNnRHlLRUhQRnNyZ3ZibkZpUlBXb1NLQjhBQy1Ucy00SmRKdWJ6RGhUSjVGV2lOdldNRkI0SWs0REhoYU02ZlYyeXQ2M3N2Z25weWJTNHRsdk1ZLWhtalVwZEpQUFRkYTZXcjBZNUdMV3hGVGEtc3VZSWhpNGtpTHdfLVgwUW1VeDRRN3ZEa2lnZV",
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-07-14T07:00:00.000Z",
@@ -1413,7 +1403,7 @@
     },
     {
       "id": "99fvq6",
-      "title": "Lahore to host 8th World Taekwondo President’s Cup Asian Region in Aug - nation.com.pk",
+      "title": "Lahore to host 8th World Taekwondo President’s Cup Asian Region in Aug - The Nation (Pakistan )",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQME1Tcno0SzNYVEZGUDh2a3JUUWNOYXhxWkxXZ25xVUY3QmRaNi14TWRaeExGS000eWRFZTNLWlZzVjd1aTlabEt6NzFYbVdtMVRoWHBiRTNLQ1ZjcEpNYnZHTUNwSVZwcWMtUDBXZHhQMDFaUXdXTncyYmdUODlNTTFVZnB2VUdvWjJiQ0VTcEprUElUc1Via3U5ZEtlVkllSkxwaw?oc=5\" t",
       "source": "Google News — Asian Games taekwondo",
       "publishedAt": "2026-07-12T07:00:00.000Z",
@@ -1433,7 +1423,7 @@
     },
     {
       "id": "1z6esf",
-      "title": "No bruises, just bytes: VR taekwondo sweeps Asia - insidethegames.biz",
+      "title": "No bruises, just bytes: VR taekwondo sweeps Asia - Inside The Games",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPX3hJZ3M0NDlHelBvNUJ2NVc5Y1dhTmNaTU9RWElaOFFKaHBTUHpJRlhqNUZIWGpIOXZOa2gzT09ZcnNaSE5iRHhtNi1OajNvLVNaYmc3Vkt1a0RIbC1yYl9sci1NMlVkVUFsejg0SzFiSXhhdXppSzlDWXgzdEtMQlQ0cnpPNS04MkJQT3hfTQ?oc=5\" target=\"_blank\">No bruises, j",
       "source": "Google News — Asian Games taekwondo",
       "publishedAt": "2026-07-11T07:00:00.000Z",
@@ -1503,7 +1493,7 @@
     },
     {
       "id": "9j5bp3",
-      "title": "World Taekwondo pioneers IOC Trustworthy AI Framework - insidethegames.biz",
+      "title": "World Taekwondo pioneers IOC Trustworthy AI Framework - Inside The Games",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRkV5a2JQYTJQcmNaT3MwSHIwaTlfY0RPQ0hzMEVCN1VGVkZWMkdMYzNPRGNEMEhqbE90ZlZuX3B0XzJNX0NNeEpveURJVV9KVWEtQk1QRWxDdGtMcWc3dDNwVkU2aml1M2ttelA3aUxraVpVOW5hN29wRWFkeG9KOTBHeWxoaV9NX1lRVkw0OUlVYlFsdWFZWA?oc=5\" target=\"_blank\">W",
       "source": "Google News — Olympic taekwondo",
       "publishedAt": "2026-07-06T07:00:00.000Z",
@@ -1513,7 +1503,7 @@
     },
     {
       "id": "3pvm0f",
-      "title": "Charlotte soldier, taekwondo champion to compete in 2027 Military World Games - Carolina Journal",
+      "title": "Charlotte soldier, taekwondo champion to compete in 2027 Military World Games - carolinajournal.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2JzOWMtMERFTWNOLUh4OXk1dnZXNkpHUnhPMWg5SUNyU3ZVUTE1OGhBLVpnLVlJSG5fdzdoWEJRc19QTUs1TlVtRW9JVzZmT3pXUUswdTlIQ2xPUWZsM20tZ0xja2g3RmdkX3Z2SXFNY3o5YVdyNDlSVDhsZnlFM2hfWVpWVUYyUmtqVVFlek5UdGFiT09Gd2YzOUpOcmlWYkNHQWFqTnRKM2",
       "source": "Google News — taekwondo champion",
       "publishedAt": "2026-07-06T07:00:00.000Z",
@@ -1533,7 +1523,7 @@
     },
     {
       "id": "swfzok",
-      "title": "Muju hosts global para-taekwondo training camp - insidethegames.biz",
+      "title": "Muju hosts global para-taekwondo training camp - Inside The Games",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNQk1PRGVlUzlIWUJ4cGx6SDVBVkFtMmlVclVpdmZmdEVna00xeEZURDdmalJsdmx6SW01MjlkZGhSNnZVQXltSndXc1pXQlRsbXNlS2VrYWZpZFM5clI4Zk1hdGNYTDBoNnU5ZlFXaFNocWRnMk9KT3lUd01IbllrMnFnanVfdXJNdkpHWWJvbw?oc=5\" target=\"_blank\">Muju hosts gl",
       "source": "Google News — taekwondo preview / upcoming",
       "publishedAt": "2026-07-05T07:00:00.000Z",
@@ -1543,7 +1533,7 @@
     },
     {
       "id": "pyyryl",
-      "title": "Warrior Spirit: Soldiers Train Through Taekwondo PT [Image 21 of 23] - DVIDS",
+      "title": "Warrior Spirit: Soldiers Train Through Taekwondo PT [Image 21 of 23] - dvidshub.net",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0FUZUJuUFpXVF9KdzJ4MUZrS1Eyc2xFSFd4RVhiUXNKU01zdl9nR1ZNa3ZzLUNFa2MzSkNPX1JxVmVodDlObkk1U3ExX3loNmdYMDRhVTQzOHdjQkQ3Q3RGN2xYTzNFZGhfd0pVMTN1RVNaa1VOMy1Eam1WWVRCR1Q4T0tyU29GbHdXTFN2cWJCajQ?oc=5\" target=\"_blank\">Warrior ",
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-07-05T07:00:00.000Z",
@@ -1563,7 +1553,7 @@
     },
     {
       "id": "gv6ojl",
-      "title": "New taekwondo era begins across Altaic region - insidethegames.biz",
+      "title": "New taekwondo era begins across Altaic region - Inside The Games",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQTlc1SFRwckYyTVU3cUxkNkl2Uk9yazQyUmhSUkluczdJSUE5azdEX3NWc3MtbW1VX25BTmZMRlQ4c01QWUdhc3ZSZV83Yk9ESUMtUkllVzdSSi1QNnFhWEVOckVpeWJ1NGpJYUphcFRVd2Z1cEN3Mzd5aWZiYUNCTzc2QTg4MzNQYkowSFhESGhOck0?oc=5\" target=\"_blank\">New taek",
       "source": "Google News — taekwondo champion",
       "publishedAt": "2026-07-02T07:00:00.000Z",
@@ -1583,7 +1573,7 @@
     },
     {
       "id": "x0duki",
-      "title": "Delhi High Court Directs Centre To Consider Taekwondo Player's Name For Asian Games, Rejects Exclusion... - livelaw.in",
+      "title": "Delhi High Court Directs Centre To Consider Taekwondo Player's Name For Asian Games, Rejects Exclusion... - Live Law",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOcXlpUklDUzdtbWlOUk1MaWNfa1pkOERnOUsxbU0yclhGQVJuQU5EY3V0enJlS2kydVFucWljTFpmT0h0eS1MSmh5c1NPSVJXSW9iT3ViUzJrUDVIeFExd05EaW1hYUI0ckUzVWFjRWYtM1A0YXRTQl9UWFhzVFRqQ1ZsV2pJM2lLYVVLdjgwV0tUR3FzQTBsUnBicXV1cmpJdmJNUVRZWGZWME",
       "source": "Google News — Asian Games taekwondo",
       "publishedAt": "2026-07-01T07:00:00.000Z",
@@ -1793,7 +1783,7 @@
     },
     {
       "id": "86q2gv",
-      "title": "Nigeria Taekwondo Federation Clarifies Commonwealth Games Absence - sports247.ng",
+      "title": "Nigeria Taekwondo Federation Clarifies Commonwealth Games Absence - Sports247 Nigeria",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDhFSmdBTmk0alR2ZEVaUGtpSkMwWGR2SmtvYTFOUWwtaFlmY082dUJYTmJsVXU3SzZ1dERBeEpacWhDa2xyWE15cXNERFR3cnRYNnVfSGR4cExMRFN1T0FUYl8zWjAteHFCQkV3WjN6aDVPRWJCS29RVThqMjV2SXNOV1hBeUxwbnRIb1ViZ28xcTNUa3c?oc=5\" target=\"_blank\">Nige",
       "source": "Google News — taekwondo schedule / qualify",
       "publishedAt": "2026-06-10T07:00:00.000Z",
@@ -1803,7 +1793,7 @@
     },
     {
       "id": "odtuug",
-      "title": "Upsets and historic milestones highlight men’s action at Rome Taekwondo Grand Prix - ariananews.af",
+      "title": "Upsets and historic milestones highlight men’s action at Rome Taekwondo Grand Prix - Ariana News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDBNSm5kMnR2SzVKX1Voc1NfQmY2Zy15aC0tYjVCc1RIb1BWYnRnNHRWdzNQMFZ3My13bmRySi1vOXQyaEdNT19rdElCNTl2YjJkQktnaEJaendQMVJQOTZPQWR4XzZCQ0UxcHhXaFZmTFhmazRVbGhxUGVCRmZSbkRPeXNuQ3pabUMzby1KZVhKZ0U2T2U4V21nNnNDY2RoYW1jLVkxRlBKVH",
       "source": "Google News — Taekwondo Grand Prix",
       "publishedAt": "2026-06-09T07:00:00.000Z",
@@ -1813,7 +1803,7 @@
     },
     {
       "id": "tks879",
-      "title": "Newtown World Champion Taekwondo Brought Back Tons Of Medals From Georgia Tournament - newtownbee.com",
+      "title": "Newtown World Champion Taekwondo Brought Back Tons Of Medals From Georgia Tournament - The Newtown Bee",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPQTgwSEU4S3BVSXN5c1NzYldZMk9fWUdfdkhTNE1BQmN0LWt5RGZYWmZ6QjdQWndFbS14OGpqaXdXSmpwWmZDclNmWENiajZib0pZLXR5Q1ZmQ1drTG1DYzIweG5VWmJHbTJfQkR0WlJ4YmdmM2ZYdzRNbzd2TlRkUHN4VXMzS2lSTlFZZ3hSbHlKMXdCc3RKdDRkMVJDVS05UXpEN0VVUm52ZW",
       "source": "Google News — taekwondo champion",
       "publishedAt": "2026-06-09T07:00:00.000Z",
@@ -1853,7 +1843,7 @@
     },
     {
       "id": "2tv4go",
-      "title": "Inspiring Conversations with Matthew McLeod of Greensboro Taekwondo America - voyageraleigh.com",
+      "title": "Inspiring Conversations with Matthew McLeod of Greensboro Taekwondo America - Voyage Raleigh",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeTRhSEc2S0hEY2h2eWpJTHNiel9Uakc0RENtYlFOYjVPRVRmQ213NnBRV1hjVUprZWhMQjVpb05UdDBidG9SR1MtMll4WlF5dWhXb2ZaQk5ta2dGRGYzRmtDcVNZTURZMGJBVExHQVgxVUNYQVNkeHRlUk9vYl8xRm5yZFQtaE11Y1FuSk83Y3ZaOE05RzJYUjRoZmh4QkdBUWwwdUQwSnpMRl",
       "source": "Google News — taekwondo (general)",
       "publishedAt": "2026-06-08T07:00:00.000Z",
@@ -1893,7 +1883,7 @@
     },
     {
       "id": "fp7cne",
-      "title": "Virtual taekwondo confirmed for 20th Asian Games - insidethegames.biz",
+      "title": "Virtual taekwondo confirmed for 20th Asian Games - Inside The Games",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmtXUm5HNFUtUjJSUkd4dWxraUVBU0l3N1BqeldjT0lXVE53VTZLaHR6U2NnSXpoOF9YaXFrRnl2YVBNRGFSRUpPakFUS0hVMWszVDJMQ3JLWExZZzRoMGlOa3I3QWJMTmM0dTFiUGItX0c5RkZwU3g5SDAxLUVqLTFubXE1VXhtMkVPZ3lsSVM?oc=5\" target=\"_blank\">Virtual taek",
       "source": "Google News — Asian Games taekwondo",
       "publishedAt": "2026-06-07T07:00:00.000Z",
@@ -1903,7 +1893,7 @@
     },
     {
       "id": "yvxopu",
-      "title": "The week in sanctions: Laurin, Olympic taekwondo champion, suspended - insidethegames.biz",
+      "title": "The week in sanctions: Laurin, Olympic taekwondo champion, suspended - Inside The Games",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOUJQQVZXOU9TYmdFdTRLZGhsT1EyNlg2bDlPZVlFYzRtVnlUMXUyTnRFdnNMMFJ4dDRVam1yR3pZa0dHWXBfS3R3RDRyQWh3MEhzdWRqOFJGc0VNbmRHUTlkLUJ3Zkg4Z19Pa2xwVXlPVmpQYlpuYUtLeVNsZXV5STBuLWtUSHZNUGtkMHBBUWxyRDdPVENaUFNLMUJOQ3VYa1RCd05ZN1o?oc",
       "source": "Google News — Olympic taekwondo",
       "publishedAt": "2026-06-07T07:00:00.000Z",
@@ -2000,6 +1990,16 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRUpReGlPQW5UVkZ1OVpKcWpkX0tSN3NrcnhGbzVucFl1cTJxeXZHOFo4NWl0WHo2aHZaRnNkTEg2cU9lZFZOeENQMGVBcjh1UTV6UHUwUTZraFR4eGpwaUw0Um9ScTFLRW5GM3NaMGoyU1dZdlJnMEQ2VkJkenFsaTZZbGJjNEdWNTJ5Q2VlSXlqOThyWktjbUYyWUdvUmJYbGFhR0lWZw?oc=5",
       "imageURL": null,
       "category": "result"
+    },
+    {
+      "id": "x9t99p",
+      "title": "World Taekwondo gives Pope Leo XIV honorary 10th-degree blackbelt - korea.net",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE00NHozMzZqOEgyUDU0TlN1cG8zQ1RZUTBRM2NoQTdLUWllYlFMWWFlQVY3R0gwTURPdzhmZ3p3OXhiU1ZxbWIxSkZQRkRVMW85YUZGOF9vNHhVMzEzS19GeHdOZmpySmxURnRRdC1R?oc=5\" target=\"_blank\">World Taekwondo gives Pope Leo XIV honorary 10th-degree bla",
+      "source": "Google News — World Taekwondo federation",
+      "publishedAt": "2026-06-05T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00NHozMzZqOEgyUDU0TlN1cG8zQ1RZUTBRM2NoQTdLUWllYlFMWWFlQVY3R0gwTURPdzhmZ3p3OXhiU1ZxbWIxSkZQRkRVMW85YUZGOF9vNHhVMzEzS19GeHdOZmpySmxURnRRdC1R?oc=5",
+      "imageURL": null,
+      "category": "news"
     }
   ]
 }
